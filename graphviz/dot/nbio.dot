@@ -17,4 +17,7 @@ digraph G {
     NBIO_302 -> NBIO_440;
     edge [color=black];
     BIOL_220 -> NBIO_450;
+    NBIO_490;
+    NBIO_496;
+    NBIO_499;
 }

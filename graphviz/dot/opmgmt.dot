@@ -1,6 +1,16 @@
 digraph G {
+    OPMGT_301;
+    OPMGT_402;
+    OPMGT_443;
+    OPMGT_450;
+    OPMGT_490;
     edge [color=black];
     OPMGT_301 -> OPMGT_495;
+    OPMGT_499;
+    OPMGT_502;
+    OPMGT_550;
+    OPMGT_570;
+    OPMGT_579;
     edge [color=black];
     doctoral_student_or_permission_of_instructor -> OPMGT_581;
     edge [color=black];
@@ -9,4 +19,7 @@ digraph G {
     doctoral_student_or_permission_of_instructor -> OPMGT_583;
     edge [color=black];
     QMETH_580 -> OPMGT_584;
+    OPMGT_587;
+    OPMGT_599;
+    OPMGT_600;
 }

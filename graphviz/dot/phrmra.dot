@@ -1,8 +1,20 @@
 digraph G {
+    PHRMRA_524;
+    PHRMRA_525;
+    PHRMRA_526;
     edge [color=black];
     PHARM_504 -> PHRMRA_527;
+    PHRMRA_528;
+    PHRMRA_536;
     edge [color=black];
     introductory_statistics -> PHRMRA_545;
+    PHRMRA_546;
+    PHRMRA_547;
+    PHRMRA_548;
     edge [color=black];
     PHRMRA_546 -> PHRMRA_550;
+    PHRMRA_554;
+    PHRMRA_555;
+    PHRMRA_560;
+    PHRMRA_595;
 }

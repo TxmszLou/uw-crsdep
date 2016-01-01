@@ -1,7 +1,33 @@
 digraph G {
+    INFX_501;
+    INFX_502;
+    INFX_503;
+    INFX_504;
+    INFX_505;
+    INFX_508;
+    INFX_531;
+    INFX_532;
+    INFX_536;
     edge [color=black];
     LIS_530 -> INFX_537;
     IMT_530 -> INFX_537;
+    INFX_538;
+    INFX_542;
+    INFX_543;
+    INFX_544;
+    INFX_546;
+    INFX_547;
+    INFX_551;
+    INFX_554;
+    INFX_563;
+    INFX_567;
+    INFX_571;
+    INFX_572;
+    INFX_573;
+    INFX_574;
+    INFX_575;
+    INFX_576;
+    INFX_583;
     edge [color=black];
     MLIS_degree_plan_or_completion_of_38 -> INFX_594;
     MSIM_core_credits -> INFX_594;
@@ -10,4 +36,6 @@ digraph G {
     MLIS_degree_plan -> INFX_595;
     edge [color=black];
     INFX_595 -> INFX_596;
+    INFX_597;
+    INFX_598;
 }

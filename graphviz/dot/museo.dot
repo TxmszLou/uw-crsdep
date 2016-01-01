@@ -1,8 +1,30 @@
 digraph G {
+    MUSEUM_500;
+    MUSEUM_524;
+    MUSEUM_528;
+    MUSEUM_540;
+    MUSEUM_542;
+    MUSEUM_544;
+    MUSEUM_560;
+    MUSEUM_562;
+    MUSEUM_566;
+    MUSEUM_570;
+    MUSEUM_574;
+    MUSEUM_575;
     edge [color=black];
     MUSEUM_574 -> MUSEUM_576;
     edge [color=red];
     MUSEUM_575 -> MUSEUM_576;
+    MUSEUM_583;
+    MUSEUM_584;
+    MUSEUM_585;
+    MUSEUM_588;
+    MUSEUM_594;
     edge [color=black];
     MUSEUM_596 -> MUSEUM_597;
+    MUSEUM_599;
+    MUSEUM_600;
+    MUSEUM_601;
+    MUSEUM_700;
+    MUSEUM_710;
 }

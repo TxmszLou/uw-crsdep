@@ -1,12 +1,31 @@
 digraph G {
+    BIME_498;
+    BIME_499;
+    BIME_520;
+    BIME_521;
+    BIME_522;
+    BIME_530;
     edge [color=black];
     BIME_530 -> BIME_533;
+    BIME_534;
+    BIME_535;
     edge [color=black];
     background_in_molecular_biology_and_permission_of_instructor -> BIME_536;
+    BIME_537;
+    BIME_539;
     edge [color=black];
     permission_of_instructor -> BIME_540;
     edge [color=black];
     either_introductory_level_courses_in_statistics_epidemiology_or_biostatistics_or_permission_of_instructor -> BIME_541;
+    BIME_550;
+    BIME_554;
+    BIME_570;
+    BIME_581;
     edge [color=black];
     permission_of_instructor -> BIME_590;
+    BIME_591;
+    BIME_598;
+    BIME_600;
+    BIME_700;
+    BIME_800;
 }

@@ -1,12 +1,21 @@
 digraph G {
+    PABIO_498;
+    PABIO_499;
+    PABIO_500;
     edge [color=black];
     background_in_molecular_biology_and_permission_of_instructor -> PABIO_536;
+    PABIO_548;
     edge [color=black];
     undergraduatelevel_coursework_in_molecular_biology_or_biochemistry_or_permission_of_instructor -> PABIO_551;
     edge [color=black];
     undergraduatelevel_coursework_in_biology_or_molecular_biology_or_permission_of_instructor -> PABIO_552;
+    PABIO_553;
+    PABIO_580;
+    PABIO_581;
     edge [color=black];
     graduate_standing_in_pathobiology -> PABIO_582;
+    PABIO_590;
+    PABIO_598;
     edge [color=black];
     permission_of_Graduate_Program_Adviser -> PABIO_600;
     edge [color=black];

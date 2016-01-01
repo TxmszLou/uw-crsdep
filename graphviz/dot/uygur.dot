@@ -1,2 +1,26 @@
 digraph G {
+    UYGUR_101;
+    UYGUR_102;
+    UYGUR_103;
+    UYGUR_105;
+    UYGUR_201;
+    UYGUR_202;
+    UYGUR_203;
+    UYGUR_401;
+    UYGUR_402;
+    UYGUR_403;
+    UYGUR_490;
+    UYGUR_496;
+    UYGUR_499;
+    UYGUR_511;
+    UYGUR_512;
+    UYGUR_513;
+    UYGUR_521;
+    UYGUR_522;
+    UYGUR_523;
+    UYGUR_541;
+    UYGUR_542;
+    UYGUR_543;
+    UYGUR_596;
+    UYGUR_600;
 }

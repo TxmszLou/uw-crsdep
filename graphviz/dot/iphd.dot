@@ -1,2 +1,4 @@
 digraph G {
+    IPHD_600;
+    IPHD_800;
 }

@@ -1,2 +1,17 @@
 digraph G {
+    PORT_101;
+    PORT_102;
+    PORT_103;
+    PORT_105;
+    PORT_110;
+    PORT_199;
+    PORT_201;
+    PORT_202;
+    PORT_203;
+    PORT_299;
+    PORT_301;
+    PORT_302;
+    PORT_310;
+    PORT_335;
+    PORT_361;
 }

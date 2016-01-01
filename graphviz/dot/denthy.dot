@@ -1,4 +1,9 @@
 digraph G {
+    DHYG_500;
+    DHYG_501;
+    DHYG_502;
+    DHYG_503;
+    DHYG_594;
     edge [color=black];
     D_HYG_494 -> DHYG_595;
     HYG_494 -> DHYG_595;

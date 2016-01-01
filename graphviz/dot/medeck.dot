@@ -33,6 +33,7 @@ digraph G {
     thirdyear_required_Medicine_clerkship -> MEDECK_616;
     edge [color=red];
     MEDECK_604 -> MEDECK_616;
+    MEDECK_617;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_618;
     edge [color=black];
@@ -43,6 +44,10 @@ digraph G {
     thirdyear_required_Medicine_clerkship -> MEDECK_622;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_623;
+    MEDECK_624;
+    MEDECK_625;
+    MEDECK_626;
+    MEDECK_627;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_628;
     edge [color=black];
@@ -57,6 +62,7 @@ digraph G {
     thirdyear_required_Medicine_clerkship -> MEDECK_634;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_636;
+    MEDECK_637;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_638;
     edge [color=black];
@@ -89,6 +95,7 @@ digraph G {
     thirdyear_required_Medicine_clerkship -> MEDECK_673;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_674;
+    MEDECK_675;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_677;
     edge [color=black];
@@ -99,6 +106,7 @@ digraph G {
     thirdyear_required_Medicine_clerkship -> MEDECK_680;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_681;
+    MEDECK_682;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_686;
     edge [color=red];
@@ -109,4 +117,11 @@ digraph G {
     MEDECK_674 -> MEDECK_686;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_690;
+    MEDECK_691;
+    MEDECK_692;
+    MEDECK_693;
+    MEDECK_694;
+    MEDECK_695;
+    MEDECK_696;
+    MEDECK_697;
 }

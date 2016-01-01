@@ -1,6 +1,11 @@
 digraph G {
+    CSSS_221;
+    CSSS_320;
+    CSSS_321;
     edge [color=black];
     CSSS_321 -> CSSS_322;
+    CSSS_501;
+    CSSS_503;
     edge [color=black];
     STAT_342 -> CSSS_504;
     STAT_390 -> CSSS_504;
@@ -8,6 +13,10 @@ digraph G {
     STAT_481 -> CSSS_504;
     STAT_509 -> CSSS_504;
     SOC_425 -> CSSS_504;
+    CSSS_505;
+    CSSS_506;
+    CSSS_507;
+    CSSS_508;
     edge [color=black];
     STAT_311 -> CSSS_509;
     edge [color=red];
@@ -44,6 +53,7 @@ digraph G {
     SOC_504 -> CSSS_536;
     SOC_505 -> CSSS_536;
     SOC_506 -> CSSS_536;
+    CSSS_544;
     edge [color=black];
     SOC_504 -> CSSS_560;
     SOC_505 -> CSSS_560;
@@ -70,11 +80,13 @@ digraph G {
     MATH_134 -> CSSS_568;
     edge [color=red];
     STAT_311 -> CSSS_568;
+    CSSS_569;
     edge [color=black];
     SOC_WL_587 -> CSSS_589;
     WL_587 -> CSSS_589;
     SOC_WL_588 -> CSSS_589;
     WL_588 -> CSSS_589;
+    CSSS_590;
     edge [color=black];
     permission_of_instructor -> CSSS_594;
 }

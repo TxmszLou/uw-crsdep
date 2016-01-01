@@ -1,10 +1,22 @@
 digraph G {
+    PCEUT_499;
     edge [color=black];
     PCEUT_506 -> PCEUT_501;
     edge [color=black];
     PCEUT_506 -> PCEUT_502;
+    PCEUT_503;
+    PCEUT_506;
+    PCEUT_510;
+    PCEUT_513;
+    PCEUT_520;
+    PCEUT_531;
+    PCEUT_532;
+    PCEUT_533;
     edge [color=black];
     permission_of_the_instructor -> PCEUT_570;
+    PCEUT_583;
+    PCEUT_584;
+    PCEUT_586;
     edge [color=black];
     ENV_H_405 -> PCEUT_587;
     H_405 -> PCEUT_587;
@@ -19,4 +31,9 @@ digraph G {
     PCEUT_503 -> PCEUT_587;
     edge [color=red];
     or_equivalent_or_instructor_permission -> PCEUT_587;
+    PCEUT_598;
+    PCEUT_599;
+    PCEUT_600;
+    PCEUT_700;
+    PCEUT_800;
 }

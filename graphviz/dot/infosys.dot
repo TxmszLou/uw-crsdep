@@ -61,4 +61,19 @@ digraph G {
     both_of_which_may_be_taken_concurrently -> IS_460;
     edge [color=green];
     may_not_be_repeated -> IS_460;
+    IS_461;
+    IS_490;
+    IS_495;
+    IS_499;
+    IS_504;
+    IS_530;
+    IS_545;
+    IS_560;
+    IS_570;
+    IS_579;
+    IS_580;
+    IS_581;
+    IS_582;
+    IS_599;
+    IS_600;
 }

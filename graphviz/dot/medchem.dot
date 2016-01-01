@@ -6,10 +6,16 @@ digraph G {
     permission_of_instructor -> MEDCH_495;
     edge [color=black];
     GPA_of_2 -> MEDCH_499;
+    MEDCH_520;
     edge [color=black];
     CHEM_457 -> MEDCH_521;
     CHEM_531 -> MEDCH_521;
     BIOC_442 -> MEDCH_521;
+    MEDCH_527;
+    MEDCH_528;
+    MEDCH_529;
+    MEDCH_530;
+    MEDCH_535;
     edge [color=black];
     permission_of_instructor -> MEDCH_541;
     edge [color=black];
@@ -18,6 +24,7 @@ digraph G {
     permission_of_instructor -> MEDCH_552;
     edge [color=black];
     permission_of_instructor -> MEDCH_553;
+    MEDCH_554;
     edge [color=black];
     permission_of_instructor -> MEDCH_555;
     edge [color=black];
@@ -36,4 +43,10 @@ digraph G {
     MEDCH_400 -> MEDCH_563;
     edge [color=black];
     MEDCH_400 -> MEDCH_564;
+    MEDCH_570;
+    MEDCH_582;
+    MEDCH_599;
+    MEDCH_600;
+    MEDCH_700;
+    MEDCH_800;
 }

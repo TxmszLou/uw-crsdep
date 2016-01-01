@@ -1,2 +1,24 @@
 digraph G {
+    GENST_101;
+    GENST_105;
+    GENST_160;
+    GENST_161;
+    GENST_162;
+    GENST_197;
+    GENST_199;
+    GENST_297;
+    GENST_300;
+    GENST_340;
+    GENST_341;
+    GENST_342;
+    GENST_343;
+    GENST_344;
+    GENST_345;
+    GENST_346;
+    GENST_347;
+    GENST_348;
+    GENST_349;
+    GENST_350;
+    GENST_391;
+    GENST_470;
 }

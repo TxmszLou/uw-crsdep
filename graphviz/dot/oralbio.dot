@@ -1,16 +1,24 @@
 digraph G {
     edge [color=black];
     permission_of_instructor -> ORALB_449;
+    ORALB_510;
+    ORALB_520;
+    ORALB_521;
+    ORALB_540;
     edge [color=black];
     permission_of_instructor -> ORALB_550;
     edge [color=black];
     permission_of_instructor -> ORALB_561;
     edge [color=black];
     permission_of_instructor -> ORALB_562;
+    ORALB_564;
     edge [color=black];
     permission_of_instructor -> ORALB_565;
     edge [color=black];
     permission_of_instructor -> ORALB_566;
+    ORALB_569;
+    ORALB_572;
+    ORALB_574;
     edge [color=black];
     permission_of_instructor -> ORALB_575;
     edge [color=black];
@@ -21,6 +29,10 @@ digraph G {
     edge [color=black];
     BIOC_405 -> ORALB_580;
     BIOC_406 -> ORALB_580;
+    ORALB_581;
+    ORALB_591;
     edge [color=black];
     permission_of_instructor -> ORALB_600;
+    ORALB_700;
+    ORALB_800;
 }

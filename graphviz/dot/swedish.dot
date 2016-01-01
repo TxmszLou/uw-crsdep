@@ -1,4 +1,20 @@
 digraph G {
+    SWED_101;
+    SWED_102;
+    SWED_103;
+    SWED_150;
+    SWED_199;
+    SWED_201;
+    SWED_202;
+    SWED_203;
+    SWED_299;
+    SWED_300;
+    SWED_301;
+    SWED_302;
+    SWED_352;
+    SWED_395;
+    SWED_399;
+    SWED_490;
     edge [color=black];
     SWED_courses -> SWED_510;
 }

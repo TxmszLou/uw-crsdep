@@ -1,2 +1,20 @@
 digraph G {
+    KYRGYZ_101;
+    KYRGYZ_102;
+    KYRGYZ_103;
+    KYRGYZ_105;
+    KYRGYZ_201;
+    KYRGYZ_202;
+    KYRGYZ_203;
+    KYRGYZ_490;
+    KYRGYZ_496;
+    KYRGYZ_499;
+    KYRGYZ_511;
+    KYRGYZ_512;
+    KYRGYZ_513;
+    KYRGYZ_521;
+    KYRGYZ_522;
+    KYRGYZ_523;
+    KYRGYZ_596;
+    KYRGYZ_600;
 }

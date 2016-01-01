@@ -1,4 +1,10 @@
 digraph G {
+    ENTRE_370;
+    ENTRE_401;
+    ENTRE_422;
+    ENTRE_432;
+    ENTRE_440;
+    ENTRE_443;
     edge [color=black];
     MKTG_301 -> ENTRE_455;
     edge [color=red];
@@ -9,18 +15,37 @@ digraph G {
     B_ECON_300 -> ENTRE_457;
     ECON_300 -> ENTRE_457;
     ECON_300 -> ENTRE_457;
+    ENTRE_459;
+    ENTRE_472;
+    ENTRE_473;
+    ENTRE_490;
+    ENTRE_499;
     edge [color=black];
     Permission_of_Foster_School_of_Business -> ENTRE_509;
+    ENTRE_510;
+    ENTRE_521;
+    ENTRE_522;
     edge [color=black];
     B_POL_509 -> ENTRE_530;
     POL_509 -> ENTRE_530;
     edge [color=red];
     B_A_501 -> ENTRE_530;
     A_501 -> ENTRE_530;
+    ENTRE_531;
+    ENTRE_532;
+    ENTRE_540;
+    ENTRE_541;
+    ENTRE_542;
+    ENTRE_543;
     edge [color=black];
     B_A_501 -> ENTRE_555;
     A_501 -> ENTRE_555;
     MKGT_501 -> ENTRE_555;
     edge [color=black];
     MBA_core_courses -> ENTRE_557;
+    ENTRE_579;
+    ENTRE_581;
+    ENTRE_582;
+    ENTRE_590;
+    ENTRE_600;
 }

@@ -1,4 +1,6 @@
 digraph G {
+    POLSH_320;
+    POLSH_401;
     edge [color=black];
     POLSH_401 -> POLSH_402;
     edge [color=black];
@@ -9,4 +11,5 @@ digraph G {
     POLSH_404 -> POLSH_405;
     edge [color=black];
     POLSH_405 -> POLSH_406;
+    POLSH_420;
 }

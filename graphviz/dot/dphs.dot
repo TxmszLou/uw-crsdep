@@ -1,6 +1,15 @@
 digraph G {
+    DPHS_201;
+    DPHS_449;
+    DPHS_510;
+    DPHS_531;
+    DPHS_535;
+    DPHS_550;
     edge [color=black];
     enrollment_in_School_of_Dentistry_or_permission_of_instructor -> DPHS_568;
+    DPHS_569;
+    DPHS_640;
+    DPHS_650;
     edge [color=black];
     graduate_standing_in_dentistry_or_permission_of_instructor -> DPHS_660;
 }

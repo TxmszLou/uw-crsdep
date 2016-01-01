@@ -1,4 +1,6 @@
 digraph G {
+    EPI_201;
+    EPI_220;
     edge [color=black];
     BIOST_310 -> EPI_320;
     QMETH_201 -> EPI_320;
@@ -19,11 +21,17 @@ digraph G {
     edge [color=blue];
     STAT_311 -> EPI_330;
     AP_Statistics_test -> EPI_330;
+    EPI_360;
+    EPI_499;
     edge [color=black];
     HSERV_511 -> EPI_501;
+    EPI_502;
+    EPI_503;
+    EPI_505;
     edge [color=black];
     EPI_511 -> EPI_510;
     EPI_512 -> EPI_510;
+    EPI_511;
     edge [color=black];
     BIOST_511 -> EPI_512;
     edge [color=black];
@@ -67,10 +75,14 @@ digraph G {
     EPI_512 -> EPI_524;
     edge [color=red];
     EPI_513 -> EPI_524;
+    EPI_527;
     edge [color=black];
     EPI_513 -> EPI_528;
     edge [color=black];
     graduate_standing -> EPI_529;
+    EPI_530;
+    EPI_531;
+    EPI_532;
     edge [color=black];
     Health_Sciences_graduate_student -> EPI_533;
     edge [color=red];
@@ -92,6 +104,7 @@ digraph G {
     edge [color=black];
     EPI_511 -> EPI_538;
     EPI_512 -> EPI_538;
+    EPI_539;
     edge [color=black];
     undergraduate_biology_coursework_or_permission_of_instructor -> EPI_540;
     edge [color=black];
@@ -112,10 +125,14 @@ digraph G {
     edge [color=red];
     BIOST_511 -> EPI_548;
     BIOST_517 -> EPI_548;
+    EPI_549;
+    EPI_554;
+    EPI_555;
     edge [color=black];
     EPI_511 -> EPI_570;
     EPI_512 -> EPI_570;
     EPI_513 -> EPI_570;
+    EPI_571;
     edge [color=black];
     EPI_511 -> EPI_573;
     EPI_512 -> EPI_573;
@@ -123,9 +140,12 @@ digraph G {
     EPI_512 -> EPI_582;
     edge [color=red];
     EPI_513 -> EPI_582;
+    EPI_583;
     edge [color=black];
     EPI_512 -> EPI_584;
     EPI_513 -> EPI_584;
+    EPI_585;
+    EPI_586;
     edge [color=black];
     EPIBIOST -> EPI_587;
     edge [color=black];
@@ -136,6 +156,7 @@ digraph G {
     EPI_513 -> EPI_591;
     edge [color=black];
     permission_of_instructor -> EPI_592;
+    EPI_593;
     edge [color=black];
     EPI_512 -> EPI_595;
     BIOST_511 -> EPI_595;

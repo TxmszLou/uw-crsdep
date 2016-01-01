@@ -1,4 +1,38 @@
 digraph G {
+    RESD_510;
+    RESD_511;
+    RESD_515;
+    RESD_516;
+    RESD_517;
+    RESD_519;
+    RESD_520;
+    RESD_521;
+    RESD_522;
+    RESD_525;
+    RESD_526;
+    RESD_527;
+    RESD_529;
+    RESD_530;
+    RESD_531;
+    RESD_533;
+    RESD_540;
+    RESD_541;
+    RESD_542;
+    RESD_550;
+    RESD_570;
+    RESD_580;
+    RESD_585;
+    RESD_588;
+    RESD_589;
+    RESD_590;
     edge [color=black];
     permission_of_Graduate_Program_Adviser -> RESD_600;
+    RESD_620;
+    RESD_630;
+    RESD_635;
+    RESD_640;
+    RESD_650;
+    RESD_659;
+    RESD_660;
+    RESD_665;
 }

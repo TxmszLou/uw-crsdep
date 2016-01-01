@@ -1,2 +1,16 @@
 digraph G {
+    BECON_300;
+    BECON_301;
+    BECON_420;
+    BECON_426;
+    BECON_427;
+    BECON_490;
+    BECON_499;
+    BECON_500;
+    BECON_501;
+    BECON_520;
+    BECON_526;
+    BECON_527;
+    BECON_579;
+    BECON_600;
 }

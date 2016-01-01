@@ -1,5 +1,28 @@
 digraph G {
+    AAS_101;
+    AAS_206;
+    AAS_210;
+    AAS_220;
+    AAS_250;
+    AAS_300;
+    AAS_310;
     edge [color=black];
     ANTH_course_or_one_AASAES_course -> AAS_314;
     AASAES_course -> AAS_314;
+    AAS_320;
+    AAS_330;
+    AAS_350;
+    AAS_360;
+    AAS_370;
+    AAS_372;
+    AAS_380;
+    AAS_385;
+    AAS_392;
+    AAS_395;
+    AAS_401;
+    AAS_402;
+    AAS_403;
+    AAS_406;
+    AAS_498;
+    AAS_499;
 }

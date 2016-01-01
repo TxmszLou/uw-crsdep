@@ -1,4 +1,10 @@
 digraph G {
+    ATMS_101;
+    ATMS_103;
+    ATMS_111;
+    ATMS_211;
+    ATMS_212;
+    ATMS_220;
     edge [color=black];
     ATM_S_101 -> ATMS_290;
     S_101 -> ATMS_290;
@@ -34,6 +40,7 @@ digraph G {
     edge [color=black];
     ATM_S_301 -> ATMS_341;
     S_301 -> ATMS_341;
+    ATMS_358;
     edge [color=black];
     ATM_S_301 -> ATMS_370;
     S_301 -> ATMS_370;
@@ -52,6 +59,7 @@ digraph G {
     ASTR_150 -> ATMS_380;
     ASTR_321 -> ATMS_380;
     ESS_201 -> ATMS_380;
+    ATMS_390;
     edge [color=black];
     ATM_S_340 -> ATMS_431;
     S_340 -> ATMS_431;
@@ -90,6 +98,7 @@ digraph G {
     STATMATH_390 -> ATMS_452;
     Q_SCI_381 -> ATMS_452;
     SCI_381 -> ATMS_452;
+    ATMS_458;
     edge [color=black];
     ESS_310 -> ATMS_460;
     MATH_126 -> ATMS_460;
@@ -104,6 +113,14 @@ digraph G {
     S_321 -> ATMS_475;
     edge [color=black];
     MATH_125 -> ATMS_480;
+    ATMS_487;
+    ATMS_490;
+    ATMS_492;
+    ATMS_497;
+    ATMS_499;
+    ATMS_501;
+    ATMS_502;
+    ATMS_503;
     edge [color=black];
     ATM_S_441 -> ATMS_504;
     S_441 -> ATMS_504;
@@ -117,12 +134,14 @@ digraph G {
     OCEAN_511 -> ATMS_509;
     ATM_S_505 -> ATMS_509;
     S_505 -> ATMS_509;
+    ATMS_510;
     edge [color=black];
     permission_of_instructor -> ATMS_511;
     edge [color=black];
     permission_of_instructor -> ATMS_512;
     edge [color=black];
     permission_of_instructor -> ATMS_514;
+    ATMS_519;
     edge [color=black];
     permission_of_department -> ATMS_520;
     edge [color=black];
@@ -139,9 +158,11 @@ digraph G {
     edge [color=black];
     ATM_S_532 -> ATMS_533;
     S_532 -> ATMS_533;
+    ATMS_534;
     edge [color=black];
     ATM_S_501 -> ATMS_535;
     S_501 -> ATMS_535;
+    ATMS_536;
     edge [color=black];
     ATM_S_509 -> ATMS_542;
     S_509 -> ATMS_542;
@@ -158,6 +179,12 @@ digraph G {
     edge [color=black];
     ATM_S_509 -> ATMS_545;
     S_509 -> ATMS_545;
+    ATMS_547;
+    ATMS_551;
+    ATMS_552;
+    ATMS_554;
+    ATMS_555;
+    ATMS_556;
     edge [color=black];
     ATM_S_458 -> ATMS_558;
     S_458 -> ATMS_558;
@@ -174,10 +201,24 @@ digraph G {
     edge [color=black];
     ATM_S_509 -> ATMS_560;
     S_509 -> ATMS_560;
+    ATMS_564;
     edge [color=black];
     permission_of_instructor -> ATMS_571;
+    ATMS_575;
     edge [color=black];
     AMATH_581 -> ATMS_581;
     AMATH_584 -> ATMS_581;
     AMATH_585 -> ATMS_581;
+    ATMS_582;
+    ATMS_585;
+    ATMS_586;
+    ATMS_587;
+    ATMS_588;
+    ATMS_589;
+    ATMS_591;
+    ATMS_593;
+    ATMS_596;
+    ATMS_600;
+    ATMS_700;
+    ATMS_800;
 }

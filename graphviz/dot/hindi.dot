@@ -1,4 +1,5 @@
 digraph G {
+    HINDI_311;
     edge [color=black];
     HINDI_311 -> HINDI_312;
     edge [color=black];
@@ -9,4 +10,19 @@ digraph G {
     HINDI_321 -> HINDI_322;
     edge [color=black];
     HINDI_322 -> HINDI_323;
+    HINDI_401;
+    HINDI_402;
+    HINDI_403;
+    HINDI_404;
+    HINDI_421;
+    HINDI_422;
+    HINDI_423;
+    HINDI_431;
+    HINDI_451;
+    HINDI_499;
+    HINDI_501;
+    HINDI_502;
+    HINDI_503;
+    HINDI_504;
+    HINDI_510;
 }

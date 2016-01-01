@@ -1,2 +1,9 @@
 digraph G {
+    ASTBIO_115;
+    ASTBIO_501;
+    ASTBIO_502;
+    ASTBIO_550;
+    ASTBIO_575;
+    ASTBIO_576;
+    ASTBIO_600;
 }

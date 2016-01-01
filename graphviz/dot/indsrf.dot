@@ -1,4 +1,27 @@
 digraph G {
+    EDUC_170;
+    EDUC_200;
+    EDUC_205;
+    EDUC_210;
+    EDUC_221;
+    EDUC_251;
+    EDUC_260;
+    EDUC_299;
+    EDUC_300;
+    EDUC_301;
+    EDUC_305;
+    EDUC_310;
+    EDUC_315;
+    EDUC_360;
+    EDUC_361;
+    EDUC_369;
+    EDUC_401;
+    EDUC_402;
+    EDUC_403;
+    EDUC_404;
+    EDUC_411;
+    EDUC_421;
+    EDUC_502;
     edge [color=black];
     permission_of_faculty_adviser_and_Graduate_Program_Coordinator -> EDUC_700;
     edge [color=black];

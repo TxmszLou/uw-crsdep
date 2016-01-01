@@ -1,6 +1,15 @@
 digraph G {
+    BSE_150;
+    BSE_190;
+    BSE_201;
+    BSE_202;
+    BSE_211;
+    BSE_248;
+    BSE_309;
+    BSE_391;
     edge [color=black];
     BSE_391 -> BSE_392;
+    BSE_399;
     edge [color=black];
     CHEM_237 -> BSE_406;
     CHEM_335 -> BSE_406;
@@ -30,4 +39,8 @@ digraph G {
     BSE_430 -> BSE_480;
     edge [color=black];
     BSE_480 -> BSE_481;
+    BSE_489;
+    BSE_490;
+    BSE_497;
+    BSE_499;
 }

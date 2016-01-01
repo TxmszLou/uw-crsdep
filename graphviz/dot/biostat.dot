@@ -1,4 +1,6 @@
 digraph G {
+    BIOST_111;
+    BIOST_290;
     edge [color=black];
     BIOST_310 -> BIOST_302;
     STAT_220 -> BIOST_302;
@@ -8,12 +10,16 @@ digraph G {
     SCI_381 -> BIOST_302;
     Q_METH_201 -> BIOST_302;
     METH_201 -> BIOST_302;
+    BIOST_310;
     edge [color=black];
     STAT_390 -> BIOST_425;
+    BIOST_499;
+    BIOST_502;
     edge [color=black];
     BIOST_502 -> BIOST_503;
     edge [color=black];
     enrollment_in_School_of_Dentistry_or_permission_of_instructor -> BIOST_510;
+    BIOST_511;
     edge [color=black];
     BIOST_511 -> BIOST_512;
     BIOST_517 -> BIOST_512;
@@ -30,6 +36,7 @@ digraph G {
     PHG_511 -> BIOST_516;
     edge [color=blue];
     or_permission_of_instructor -> BIOST_516;
+    BIOST_517;
     edge [color=black];
     BIOST_517 -> BIOST_518;
     edge [color=black];
@@ -64,6 +71,8 @@ digraph G {
     BIOST_517 -> BIOST_529;
     edge [color=red];
     or_permission_of_instructor -> BIOST_529;
+    BIOST_531;
+    BIOST_532;
     edge [color=black];
     STAT_421 -> BIOST_533;
     STAT_423 -> BIOST_533;
@@ -103,6 +112,7 @@ digraph G {
     GENOME_371 -> BIOST_552;
     edge [color=blue];
     or_permission_of_instructor -> BIOST_552;
+    BIOST_555;
     edge [color=black];
     biostatistics_and_statistics_graduate_student -> BIOST_561;
     edge [color=black];
@@ -128,8 +138,16 @@ digraph G {
     STAT_473 -> BIOST_576;
     edge [color=black];
     permission_of_instructor -> BIOST_578;
+    BIOST_579;
+    BIOST_580;
+    BIOST_581;
+    BIOST_582;
     edge [color=black];
     permission_of_instructor -> BIOST_590;
+    BIOST_595;
     edge [color=black];
     entry_code -> BIOST_598;
+    BIOST_600;
+    BIOST_700;
+    BIOST_800;
 }

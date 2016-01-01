@@ -1,5 +1,30 @@
 digraph G {
+    IBUS_300;
+    IBUS_330;
+    IBUS_340;
+    IBUS_440;
+    IBUS_461;
+    IBUS_462;
+    IBUS_470;
+    IBUS_480;
+    IBUS_490;
+    IBUS_491;
     edge [color=black];
     I_BUS_300 -> IBUS_495;
     BUS_300 -> IBUS_495;
+    IBUS_496;
+    IBUS_499;
+    IBUS_520;
+    IBUS_530;
+    IBUS_540;
+    IBUS_545;
+    IBUS_550;
+    IBUS_560;
+    IBUS_561;
+    IBUS_562;
+    IBUS_570;
+    IBUS_572;
+    IBUS_575;
+    IBUS_579;
+    IBUS_600;
 }

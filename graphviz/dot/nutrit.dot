@@ -1,8 +1,11 @@
 digraph G {
+    NUTR_200;
     edge [color=black];
     NUTR_200 -> NUTR_302;
     edge [color=black];
     NUTR_200 -> NUTR_303;
+    NUTR_310;
+    NUTR_400;
     edge [color=black];
     BIOL_118 -> NUTR_405;
     BIOL_220 -> NUTR_405;
@@ -14,11 +17,16 @@ digraph G {
     NUTR_200 -> NUTR_412;
     edge [color=black];
     NUTR_200 -> NUTR_420;
+    NUTR_446;
     edge [color=black];
     BIO_A_201 -> NUTR_465;
     A_201 -> NUTR_465;
+    NUTR_490;
+    NUTR_499;
     edge [color=black];
     graduate_student_in_nutrition -> NUTR_500;
+    NUTR_505;
+    NUTR_511;
     edge [color=black];
     NUTR_300 -> NUTR_512;
     edge [color=black];
@@ -37,17 +45,23 @@ digraph G {
     introductory_nutrition -> NUTR_531;
     edge [color=black];
     nutritional_sciences_graduate_student_and_permission_of_instructor -> NUTR_532;
+    NUTR_536;
     edge [color=black];
     permission_of_instructor -> NUTR_537;
     edge [color=black];
     EPI_511 -> NUTR_538;
     EPI_512 -> NUTR_538;
+    NUTR_545;
+    NUTR_555;
+    NUTR_559;
+    NUTR_560;
     edge [color=black];
     GCPD_students_only -> NUTR_561;
     edge [color=black];
     physiology_biochemistry -> NUTR_562;
     edge [color=black];
     NUTR_562 -> NUTR_563;
+    NUTR_564;
     edge [color=black];
     permission_of_instructor -> NUTR_590;
     edge [color=black];
@@ -62,4 +76,7 @@ digraph G {
     NUTR_521 -> NUTR_595;
     edge [color=purple];
     NUTR_522 -> NUTR_595;
+    NUTR_600;
+    NUTR_700;
+    NUTR_800;
 }

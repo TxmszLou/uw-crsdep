@@ -1,6 +1,18 @@
 digraph G {
+    OS_520;
+    OS_521;
+    OS_523;
+    OS_530;
+    OS_532;
+    OS_540;
+    OS_543;
+    OS_550;
+    OS_564;
     edge [color=black];
     permission_of_instructor -> OS_565;
+    OS_574;
+    OS_630;
+    OS_645;
     edge [color=black];
     permission_of_the_Director_of_Harborview_Medical_Centers_Oral_and_Maxillofacial_Surgery_Department -> OS_651;
 }

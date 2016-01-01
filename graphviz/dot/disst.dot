@@ -1,4 +1,7 @@
 digraph G {
+    DISST_230;
+    DISST_332;
+    DISST_421;
     edge [color=black];
     DIS_STCHIDLSJ_230 -> DISST_430;
     STCHIDLSJ_230 -> DISST_430;
@@ -8,4 +11,10 @@ digraph G {
     ST_433 -> DISST_430;
     DIS_ST_434 -> DISST_430;
     ST_434 -> DISST_430;
+    DISST_433;
+    DISST_434;
+    DISST_435;
+    DISST_437;
+    DISST_499;
+    DISST_535;
 }

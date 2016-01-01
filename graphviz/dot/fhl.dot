@@ -1,8 +1,11 @@
 digraph G {
+    FHL_305;
     edge [color=black];
     BIOL_445 -> FHL_430;
     edge [color=red];
     permission_of_Friday_Harbor_director -> FHL_430;
+    FHL_432;
+    FHL_435;
     edge [color=black];
     BIOL_220 -> FHL_440;
     B_BIO_220 -> FHL_440;
@@ -10,4 +13,15 @@ digraph G {
     TESC_140 -> FHL_440;
     edge [color=red];
     BIOL_430 -> FHL_440;
+    FHL_450;
+    FHL_460;
+    FHL_470;
+    FHL_490;
+    FHL_492;
+    FHL_528;
+    FHL_536;
+    FHL_539;
+    FHL_548;
+    FHL_568;
+    FHL_585;
 }

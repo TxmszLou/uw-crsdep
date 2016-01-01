@@ -1,18 +1,26 @@
 digraph G {
+    PHCOL_401;
     edge [color=black];
     PHCOL_401 -> PHCOL_402;
+    PHCOL_434;
+    PHCOL_435;
+    PHCOL_498;
+    PHCOL_499;
     edge [color=black];
     permission_of_instructor -> PHCOL_507;
     edge [color=black];
     organic_chemistry_biochemistry_and_introductory_anatomy_and_physiology -> PHCOL_510;
     edge [color=black];
     organic_chemistry_biochemistry_and_introductory_anatomy_and_physiology -> PHCOL_511;
+    PHCOL_512;
     edge [color=black];
     organic_chemistry_biochemistry_and_introductory_anatomy_and_physiology -> PHCOL_513;
     edge [color=black];
     permission_of_instructor -> PHCOL_514;
     edge [color=black];
     permission_of_instructor -> PHCOL_515;
+    PHCOL_519;
+    PHCOL_527;
     edge [color=black];
     CONJ_532 -> PHCOL_529;
     CONJ_536 -> PHCOL_529;
@@ -59,4 +67,10 @@ digraph G {
     permission_of_instructor -> PHCOL_576;
     edge [color=black];
     permission_of_instructor -> PHCOL_577;
+    PHCOL_578;
+    PHCOL_579;
+    PHCOL_580;
+    PHCOL_600;
+    PHCOL_700;
+    PHCOL_800;
 }

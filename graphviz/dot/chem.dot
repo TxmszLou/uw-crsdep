@@ -1,4 +1,7 @@
 digraph G {
+    CHEM_110;
+    CHEM_120;
+    CHEM_142;
     edge [color=black];
     MATH_124 -> CHEM_145;
     MATH_134 -> CHEM_145;
@@ -15,6 +18,9 @@ digraph G {
     CHEM_152 -> CHEM_162;
     edge [color=black];
     CHEM_155 -> CHEM_165;
+    CHEM_190;
+    CHEM_198;
+    CHEM_199;
     edge [color=black];
     CHEM_120 -> CHEM_220;
     CHEM_142 -> CHEM_220;
@@ -53,6 +59,8 @@ digraph G {
     CHEM_224 -> CHEM_242;
     CHEM_239 -> CHEM_242;
     CHEM_337 -> CHEM_242;
+    CHEM_291;
+    CHEM_299;
     edge [color=black];
     CHEM_155 -> CHEM_312;
     CHEM_162 -> CHEM_312;
@@ -87,6 +95,8 @@ digraph G {
     CHEM_346 -> CHEM_347;
     edge [color=blue];
     CHEM_337 -> CHEM_347;
+    CHEM_399;
+    CHEM_410;
     edge [color=black];
     CHEM_165 -> CHEM_416;
     CHEM_312 -> CHEM_416;
@@ -100,6 +110,7 @@ digraph G {
     CHEM_337 -> CHEM_417;
     edge [color=red];
     CHEM_416 -> CHEM_417;
+    CHEM_418;
     edge [color=black];
     CHEM_224 -> CHEM_419;
     CHEM_239 -> CHEM_419;
@@ -119,6 +130,7 @@ digraph G {
     CHEM_241 -> CHEM_429;
     CHEM_321 -> CHEM_429;
     CHEM_346 -> CHEM_429;
+    CHEM_436;
     edge [color=black];
     CHEM_155 -> CHEM_452;
     CHEM_162 -> CHEM_452;
@@ -162,6 +174,7 @@ digraph G {
     CHEM_456 -> CHEM_457;
     CHEM_E_326 -> CHEM_457;
     E_326 -> CHEM_457;
+    CHEM_458;
     edge [color=black];
     CHEM_224 -> CHEM_460;
     CHEM_239 -> CHEM_460;
@@ -206,8 +219,17 @@ digraph G {
     CHEM_455 -> CHEM_485;
     edge [color=black];
     CHEM_455 -> CHEM_486;
+    CHEM_491;
+    CHEM_499;
+    CHEM_500;
+    CHEM_501;
+    CHEM_508;
+    CHEM_510;
+    CHEM_520;
+    CHEM_522;
     edge [color=black];
     permission_of_instructor -> CHEM_523;
+    CHEM_529;
     edge [color=black];
     CHEM_337 -> CHEM_530;
     edge [color=black];
@@ -215,6 +237,8 @@ digraph G {
     edge [color=black];
     CHEM_530 -> CHEM_532;
     CHEM_531 -> CHEM_532;
+    CHEM_536;
+    CHEM_540;
     edge [color=black];
     CHEM_455 -> CHEM_550;
     edge [color=black];
@@ -224,6 +248,17 @@ digraph G {
     CHEM_456 -> CHEM_552;
     edge [color=black];
     CHEM_552 -> CHEM_553;
+    CHEM_560;
+    CHEM_564;
+    CHEM_565;
+    CHEM_581;
+    CHEM_585;
+    CHEM_586;
+    CHEM_590;
+    CHEM_591;
+    CHEM_592;
+    CHEM_593;
+    CHEM_595;
     edge [color=black];
     graduate_standing_and_permission_of_instructor -> CHEM_597;
     edge [color=black];

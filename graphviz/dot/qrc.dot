@@ -1,4 +1,5 @@
 digraph G {
+    QUAT_501;
     edge [color=black];
     graduate_standing -> QUAT_502;
     edge [color=black];

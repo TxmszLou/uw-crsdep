@@ -1,6 +1,26 @@
 digraph G {
+    MCB_511;
+    MCB_512;
+    MCB_513;
+    MCB_514;
+    MCB_515;
+    MCB_516;
+    MCB_517;
+    MCB_519;
+    MCB_520;
+    MCB_522;
+    MCB_529;
+    MCB_532;
+    MCB_533;
+    MCB_539;
+    MCB_540;
+    MCB_543;
     edge [color=black];
     permission_of_instructor_and_doctoral_candidacy -> MCB_560;
     edge [color=black];
     permission_of_instructor -> MCB_580;
+    MCB_599;
+    MCB_600;
+    MCB_700;
+    MCB_800;
 }

@@ -1,4 +1,10 @@
 digraph G {
+    RONC_499;
+    RONC_505;
     edge [color=black];
     permission_of_department_and_faculty_sponsor -> RONC_600;
+    RONC_694;
+    RONC_695;
+    RONC_697;
+    RONC_699;
 }

@@ -1,4 +1,5 @@
 digraph G {
+    QSCI_210;
     edge [color=black];
     MATH_120 -> QSCI_291;
     Q_SCI_190 -> QSCI_291;
@@ -27,6 +28,8 @@ digraph G {
     SCI_381 -> QSCI_403;
     Q_SCI_482 -> QSCI_403;
     SCI_482 -> QSCI_403;
+    QSCI_454;
+    QSCI_458;
     edge [color=black];
     Q_SCI_482 -> QSCI_480;
     SCI_482 -> QSCI_480;
@@ -43,4 +46,7 @@ digraph G {
     edge [color=black];
     Q_SCI_482 -> QSCI_486;
     SCI_482 -> QSCI_486;
+    QSCI_497;
+    QSCI_498;
+    QSCI_499;
 }

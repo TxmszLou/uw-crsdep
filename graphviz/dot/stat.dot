@@ -1,4 +1,8 @@
 digraph G {
+    STAT_100;
+    STAT_111;
+    STAT_220;
+    STAT_221;
     edge [color=black];
     STAT_311 -> STAT_302;
     STAT_390 -> STAT_302;
@@ -11,6 +15,8 @@ digraph G {
     edge [color=black];
     IND_E_315 -> STAT_316;
     E_315 -> STAT_316;
+    STAT_320;
+    STAT_321;
     edge [color=black];
     CSSS_321 -> STAT_322;
     edge [color=black];
@@ -70,6 +76,8 @@ digraph G {
     STAT_481 -> STAT_423;
     edge [color=black];
     STAT_390 -> STAT_425;
+    STAT_427;
+    STAT_428;
     edge [color=black];
     Q_SCI_482 -> STAT_480;
     SCI_482 -> STAT_480;
@@ -85,6 +93,9 @@ digraph G {
     edge [color=red];
     MATH_395 -> STAT_492;
     STAT_395 -> STAT_492;
+    STAT_495;
+    STAT_498;
+    STAT_499;
     edge [color=black];
     STAT_342 -> STAT_502;
     MATH_390 -> STAT_502;
@@ -127,6 +138,7 @@ digraph G {
     STAT_516 -> STAT_517;
     edge [color=black];
     STAT_517 -> STAT_518;
+    STAT_519;
     edge [color=black];
     STAT_342 -> STAT_520;
     STAT_390 -> STAT_520;
@@ -207,9 +219,13 @@ digraph G {
     STAT_538 -> STAT_539;
     edge [color=blue];
     computer_programming_at_intermediate_level -> STAT_539;
+    STAT_542;
+    STAT_544;
+    STAT_547;
     edge [color=black];
     STAT_535 -> STAT_548;
     CSE_546 -> STAT_548;
+    STAT_549;
     edge [color=black];
     STAT_390 -> STAT_550;
     STAT_394 -> STAT_550;
@@ -235,6 +251,8 @@ digraph G {
     SOC_504 -> STAT_560;
     SOC_505 -> STAT_560;
     SOC_506 -> STAT_560;
+    STAT_561;
+    STAT_562;
     edge [color=black];
     SOC_504 -> STAT_564;
     SOC_505 -> STAT_564;
@@ -266,6 +284,7 @@ digraph G {
     STAT_473 -> STAT_576;
     edge [color=black];
     permission_of_instructor -> STAT_578;
+    STAT_579;
     edge [color=black];
     STAT_513 -> STAT_581;
     edge [color=red];

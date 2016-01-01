@@ -1,6 +1,9 @@
 digraph G {
+    BSTR_301;
     edge [color=black];
     admission_to_the_School_of_Dentistry -> BSTR_431;
+    BSTR_498;
+    BSTR_499;
     edge [color=black];
     permission_of_instructor -> BSTR_501;
     edge [color=black];
@@ -11,10 +14,14 @@ digraph G {
     permission_of_instructor -> BSTR_512;
     edge [color=black];
     permission_of_instructor -> BSTR_515;
+    BSTR_519;
+    BSTR_520;
+    BSTR_521;
     edge [color=black];
     admission_to_School_of_Dentistry -> BSTR_530;
     edge [color=black];
     graduate_medical_or_dental_student_standing_and_permission_of_instructor -> BSTR_540;
+    BSTR_541;
     edge [color=black];
     permission_of_instructor -> BSTR_555;
     edge [color=black];
@@ -23,8 +30,12 @@ digraph G {
     permission_of_course_chairperson -> BSTR_580;
     edge [color=black];
     permission_of_instructor -> BSTR_584;
+    BSTR_590;
     edge [color=black];
     permission_of_instructor -> BSTR_591;
     edge [color=black];
     permission_of_instructor -> BSTR_598;
+    BSTR_600;
+    BSTR_700;
+    BSTR_800;
 }

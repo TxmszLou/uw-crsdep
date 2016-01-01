@@ -1,5 +1,17 @@
 digraph G {
+    LITH_101;
+    LITH_102;
+    LITH_103;
+    LITH_111;
+    LITH_112;
+    LITH_113;
+    LITH_150;
+    LITH_201;
+    LITH_202;
+    LITH_203;
     edge [color=black];
     LITH_103 -> LITH_250;
     LITH_150 -> LITH_250;
+    LITH_310;
+    LITH_490;
 }

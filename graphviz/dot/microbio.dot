@@ -1,9 +1,11 @@
 digraph G {
+    MICROM_101;
     edge [color=black];
     CHEM_120 -> MICROM_301;
     CHEM_140 -> MICROM_301;
     CHEM_142 -> MICROM_301;
     CHEM_145 -> MICROM_301;
+    MICROM_302;
     edge [color=black];
     BIOL_200 -> MICROM_402;
     edge [color=black];
@@ -20,23 +22,30 @@ digraph G {
     CHEM_335 -> MICROM_411;
     edge [color=black];
     BIOL_200 -> MICROM_412;
+    MICROM_413;
     edge [color=black];
     BIOL_200 -> MICROM_431;
     MICROM_301 -> MICROM_431;
+    MICROM_435;
     edge [color=black];
     BIOL_200 -> MICROM_442;
     edge [color=black];
     BIOL_200 -> MICROM_443;
     edge [color=black];
     BIOL_200 -> MICROM_444;
+    MICROM_445;
     edge [color=black];
     BIOL_200 -> MICROM_450;
     edge [color=black];
     MICROM_402 -> MICROM_482;
     edge [color=red];
     MICROM_410 -> MICROM_482;
+    MICROM_495;
+    MICROM_496;
+    MICROM_499;
     edge [color=black];
     graduate_standing_in_microbiology_or_permission_of_instructor -> MICROM_500;
+    MICROM_520;
     edge [color=black];
     graduate_standing_in_microbiology -> MICROM_522;
     edge [color=black];
@@ -47,6 +56,8 @@ digraph G {
     MICROM_410 -> MICROM_532;
     edge [color=black];
     permission_of_instructor -> MICROM_533;
+    MICROM_534;
+    MICROM_540;
     edge [color=black];
     MICROM_411 -> MICROM_553;
     edge [color=black];
@@ -61,4 +72,8 @@ digraph G {
     permission_of_instructor -> MICROM_585;
     edge [color=black];
     permission_of_instructor -> MICROM_588;
+    MICROM_599;
+    MICROM_600;
+    MICROM_700;
+    MICROM_800;
 }

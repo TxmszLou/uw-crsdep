@@ -1,9 +1,31 @@
 digraph G {
+    SOCWL_515;
+    SOCWL_552;
+    SOCWL_553;
+    SOCWL_554;
+    SOCWL_556;
+    SOCWL_557;
+    SOCWL_559;
+    SOCWL_577;
+    SOCWL_578;
+    SOCWL_579;
+    SOCWL_580;
+    SOCWL_581;
+    SOCWL_582;
+    SOCWL_583;
+    SOCWL_584;
+    SOCWL_585;
+    SOCWL_586;
     edge [color=black];
     SOC_WL_587 -> SOCWL_589;
     WL_587 -> SOCWL_589;
     SOC_WL_588 -> SOCWL_589;
     WL_588 -> SOCWL_589;
+    SOCWL_590;
+    SOCWL_591;
+    SOCWL_598;
+    SOCWL_599;
     edge [color=black];
     approval_of_a_wellspecified_plan_by_the_instructor_and_program_director -> SOCWL_600;
+    SOCWL_800;
 }

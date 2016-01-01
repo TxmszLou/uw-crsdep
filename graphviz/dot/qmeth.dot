@@ -1,8 +1,22 @@
 digraph G {
+    QMETH_201;
+    QMETH_450;
+    QMETH_490;
+    QMETH_499;
+    QMETH_500;
+    QMETH_501;
     edge [color=black];
     B_A_500 -> QMETH_503;
     A_500 -> QMETH_503;
     QMETH_500 -> QMETH_503;
+    QMETH_520;
+    QMETH_528;
+    QMETH_530;
+    QMETH_551;
+    QMETH_579;
+    QMETH_580;
+    QMETH_592;
     edge [color=black];
     doctoral_student_status -> QMETH_599;
+    QMETH_600;
 }

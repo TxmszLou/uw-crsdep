@@ -52,6 +52,12 @@ digraph G {
     edge [color=black];
     CSE_142 -> AMATH_483;
     AMATH_301 -> AMATH_483;
+    AMATH_490;
+    AMATH_498;
+    AMATH_499;
+    AMATH_500;
+    AMATH_501;
+    AMATH_502;
     edge [color=black];
     AMATH_501 -> AMATH_503;
     edge [color=black];
@@ -89,10 +95,12 @@ digraph G {
     either_courses_in_differential_equations_and_statistics_and_probability_or_permission_of_instructor -> AMATH_523;
     edge [color=black];
     either_a_course_in_partial_differential_equations_or_permission_of_instructor -> AMATH_524;
+    AMATH_531;
     edge [color=black];
     AMATH_506 -> AMATH_532;
     edge [color=black];
     MATLAB_or_permission_of_instructor -> AMATH_533;
+    AMATH_534;
     edge [color=black];
     either_a_course_in_differential_equations_or_permission_of_instructor -> AMATH_535;
     edge [color=black];
@@ -127,6 +135,7 @@ digraph G {
     linear_algebra -> AMATH_579;
     edge [color=blue];
     MATLAB -> AMATH_579;
+    AMATH_581;
     edge [color=black];
     MATLAB_and_linear_algebra_or_permission_of_instructor -> AMATH_582;
     edge [color=black];
@@ -142,4 +151,9 @@ digraph G {
     AMATH_581 -> AMATH_586;
     AMATH_584 -> AMATH_586;
     AMATH_585 -> AMATH_586;
+    AMATH_590;
+    AMATH_600;
+    AMATH_601;
+    AMATH_700;
+    AMATH_800;
 }

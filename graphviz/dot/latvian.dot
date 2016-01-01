@@ -1,5 +1,14 @@
 digraph G {
+    LATV_101;
+    LATV_102;
+    LATV_103;
+    LATV_150;
+    LATV_201;
+    LATV_202;
+    LATV_203;
     edge [color=black];
     LATV_103 -> LATV_250;
     LATV_150 -> LATV_250;
+    LATV_310;
+    LATV_490;
 }

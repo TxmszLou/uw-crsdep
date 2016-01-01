@@ -1,5 +1,32 @@
 digraph G {
+    RHBPO_501;
+    RHBPO_502;
+    RHBPO_511;
+    RHBPO_512;
+    RHBPO_515;
+    RHBPO_521;
+    RHBPO_522;
+    RHBPO_523;
     edge [color=black];
     RHB_PO_521 -> RHBPO_524;
     PO_521 -> RHBPO_524;
+    RHBPO_525;
+    RHBPO_526;
+    RHBPO_527;
+    RHBPO_528;
+    RHBPO_529;
+    RHBPO_530;
+    RHBPO_531;
+    RHBPO_532;
+    RHBPO_533;
+    RHBPO_534;
+    RHBPO_541;
+    RHBPO_561;
+    RHBPO_562;
+    RHBPO_563;
+    RHBPO_564;
+    RHBPO_581;
+    RHBPO_582;
+    RHBPO_583;
+    RHBPO_584;
 }

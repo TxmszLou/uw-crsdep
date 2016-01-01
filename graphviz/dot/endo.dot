@@ -1,4 +1,33 @@
 digraph G {
+    ENDO_521;
+    ENDO_534;
+    ENDO_535;
+    ENDO_545;
+    ENDO_550;
+    ENDO_560;
+    ENDO_561;
+    ENDO_562;
+    ENDO_563;
+    ENDO_566;
+    ENDO_568;
+    ENDO_580;
+    ENDO_581;
+    ENDO_582;
+    ENDO_583;
+    ENDO_584;
+    ENDO_585;
+    ENDO_586;
+    ENDO_587;
+    ENDO_590;
+    ENDO_593;
+    ENDO_594;
+    ENDO_595;
+    ENDO_597;
+    ENDO_598;
     edge [color=black];
     permission_of_Graduate_Program_Adviser -> ENDO_600;
+    ENDO_630;
+    ENDO_658;
+    ENDO_659;
+    ENDO_660;
 }

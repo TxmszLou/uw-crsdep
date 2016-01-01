@@ -1,4 +1,10 @@
 digraph G {
+    NEURO_501;
+    NEURO_502;
+    NEURO_503;
+    NEURO_504;
+    NEURO_510;
+    NEURO_511;
     edge [color=black];
     permission_of_instructor -> NEURO_512;
     edge [color=black];
@@ -9,6 +15,7 @@ digraph G {
     graduate_student_in_neurobiology_and_behavior_program_or_permission_of_instructor -> NEURO_527;
     edge [color=black];
     elementary_calculus_linear_algebra_and_statistics_or_permission_of_instructor -> NEURO_528;
+    NEURO_535;
     edge [color=black];
     BIOL_201 -> NEURO_541;
     BIOL_202 -> NEURO_541;
@@ -24,6 +31,16 @@ digraph G {
     NEUBEH_501 -> NEURO_545;
     NEUBEH_502 -> NEURO_545;
     NEUBEH_503 -> NEURO_545;
+    NEURO_548;
     edge [color=black];
     CONJ_531 -> NEURO_550;
+    NEURO_554;
+    NEURO_555;
+    NEURO_556;
+    NEURO_557;
+    NEURO_559;
+    NEURO_561;
+    NEURO_600;
+    NEURO_700;
+    NEURO_800;
 }

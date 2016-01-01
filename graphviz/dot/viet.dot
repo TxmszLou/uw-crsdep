@@ -1,12 +1,21 @@
 digraph G {
+    VIET_111;
     edge [color=black];
     VIET_111 -> VIET_112;
     edge [color=black];
     VIET_112 -> VIET_113;
+    VIET_145;
     edge [color=black];
     VIET_113 -> VIET_211;
     edge [color=black];
     VIET_211 -> VIET_212;
     edge [color=black];
     VIET_212 -> VIET_213;
+    VIET_245;
+    VIET_311;
+    VIET_312;
+    VIET_313;
+    VIET_345;
+    VIET_496;
+    VIET_499;
 }

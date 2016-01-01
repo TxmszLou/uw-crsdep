@@ -1,4 +1,13 @@
 digraph G {
+    HUM_205;
+    HUM_498;
+    HUM_523;
+    HUM_595;
+    HUM_596;
+    HUM_597;
+    HUM_600;
+    HUM_601;
     edge [color=black];
     HUM_594 -> HUM_602;
+    HUM_603;
 }

@@ -1,14 +1,35 @@
 digraph G {
+    UCONJ_100;
+    UCONJ_290;
+    UCONJ_411;
+    UCONJ_412;
+    UCONJ_413;
+    UCONJ_420;
+    UCONJ_422;
+    UCONJ_440;
+    UCONJ_442;
+    UCONJ_500;
+    UCONJ_504;
+    UCONJ_510;
     edge [color=black];
     Students_from_Health_Sciences_schools_conducting_research_under_the_Multidisciplinary_Predoctoral_Clinical_Research_Training_Program -> UCONJ_517;
+    UCONJ_520;
     edge [color=black];
     background_in_neurophysiology_neuroanatomy_molecular_neurobiology -> UCONJ_524;
     edge [color=black];
     firstyear_graduate_student_in_neurobiology -> UCONJ_525;
+    UCONJ_530;
+    UCONJ_531;
+    UCONJ_532;
+    UCONJ_545;
+    UCONJ_546;
+    UCONJ_548;
+    UCONJ_550;
     edge [color=black];
     offered_only_to_persons_actively_pursuing_work_in_this_area -> UCONJ_584;
     edge [color=black];
     UCONJ_517 -> UCONJ_599;
     edge [color=red];
     permission_of_instructor -> UCONJ_599;
+    UCONJ_624;
 }

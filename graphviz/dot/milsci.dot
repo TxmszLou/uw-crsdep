@@ -1,4 +1,11 @@
 digraph G {
+    MSCI_101;
+    MSCI_102;
+    MSCI_103;
+    MSCI_110;
+    MSCI_201;
+    MSCI_202;
+    MSCI_203;
     edge [color=black];
     M_SCI_101 -> MSCI_301;
     SCI_101 -> MSCI_301;
@@ -59,6 +66,7 @@ digraph G {
     SCI_203 -> MSCI_303;
     edge [color=gray];
     may_not_be_repeated_if_received_grade_of_20_or_higher -> MSCI_303;
+    MSCI_305;
     edge [color=black];
     M_SCI_110 -> MSCI_310;
     SCI_110 -> MSCI_310;

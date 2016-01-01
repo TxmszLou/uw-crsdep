@@ -1,4 +1,9 @@
 digraph G {
+    PEDS_498;
+    PEDS_499;
+    PEDS_505;
+    PEDS_530;
+    PEDS_611;
     edge [color=black];
     fourthyear_medical_students -> PEDS_622;
     edge [color=red];
@@ -13,6 +18,9 @@ digraph G {
     by_departmental_permission -> PEDS_624;
     edge [color=black];
     fourth_year_medical_students -> PEDS_625;
+    PEDS_630;
+    PEDS_631;
+    PEDS_635;
     edge [color=black];
     PEDS_core_clerkship -> PEDS_636;
     edge [color=red];
@@ -35,6 +43,7 @@ digraph G {
     HUBIO_563 -> PEDS_651;
     edge [color=black];
     HUBIO_563 -> PEDS_652;
+    PEDS_653;
     edge [color=black];
     HUBIO_563 -> PEDS_655;
     edge [color=black];
@@ -43,6 +52,7 @@ digraph G {
     HUBIO_563 -> PEDS_657;
     edge [color=black];
     HUBIO_563 -> PEDS_658;
+    PEDS_659;
     edge [color=black];
     HUBIO_563 -> PEDS_660;
     edge [color=black];
@@ -114,6 +124,7 @@ digraph G {
     PEDS_core_clerkship -> PEDS_685;
     edge [color=black];
     PEDS_core_clerkship -> PEDS_686;
+    PEDS_689;
     edge [color=black];
     PEDS_core_clerkship -> PEDS_690;
     edge [color=red];
@@ -124,6 +135,8 @@ digraph G {
     PEDS_core_clerkship -> PEDS_692;
     edge [color=red];
     departmental_permission -> PEDS_692;
+    PEDS_693;
+    PEDS_694;
     edge [color=black];
     permission_of_department_and_the_away_site -> PEDS_697;
     edge [color=black];

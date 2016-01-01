@@ -1,6 +1,17 @@
 digraph G {
+    PHARBE_500;
     edge [color=black];
     PHARE_500 -> PHARBE_501;
+    PHARBE_502;
     edge [color=black];
     PHARBE_502 -> PHARBE_503;
+    PHARBE_510;
+    PHARBE_511;
+    PHARBE_512;
+    PHARBE_513;
+    PHARBE_519;
+    PHARBE_520;
+    PHARBE_521;
+    PHARBE_522;
+    PHARBE_523;
 }

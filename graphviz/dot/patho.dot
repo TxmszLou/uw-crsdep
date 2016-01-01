@@ -1,4 +1,6 @@
 digraph G {
+    PATH_498;
+    PATH_499;
     edge [color=black];
     permission_of_instructor -> PATH_501;
     edge [color=black];
@@ -9,12 +11,21 @@ digraph G {
     permission_of_instructor -> PATH_510;
     edge [color=black];
     permission_of_instructor -> PATH_511;
+    PATH_512;
+    PATH_513;
+    PATH_516;
     edge [color=black];
     coursework_in_biology_biochemistry_molecular_biology_and_genetics -> PATH_517;
+    PATH_520;
     edge [color=black];
     UW_medical_students_only -> PATH_521;
+    PATH_522;
     edge [color=black];
     permission_of_instructor -> PATH_530;
+    PATH_535;
+    PATH_540;
+    PATH_544;
+    PATH_550;
     edge [color=black];
     Pathology_PhD_student -> PATH_551;
     edge [color=red];
@@ -25,8 +36,25 @@ digraph G {
     HUBIO_520 -> PATH_555;
     edge [color=black];
     medical_graduate_or_professional_standing_and_permission_of_instructor -> PATH_560;
+    PATH_580;
+    PATH_590;
     edge [color=black];
     Pathology_PhD_student -> PATH_600;
+    PATH_667;
+    PATH_676;
+    PATH_677;
+    PATH_678;
+    PATH_680;
+    PATH_681;
+    PATH_682;
+    PATH_683;
+    PATH_687;
+    PATH_688;
+    PATH_690;
+    PATH_691;
+    PATH_697;
+    PATH_699;
+    PATH_700;
     edge [color=black];
     Pathology_PhD_student -> PATH_800;
 }

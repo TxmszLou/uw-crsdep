@@ -1,4 +1,5 @@
 digraph G {
+    CMED_499;
     edge [color=black];
     PATH_444 -> CMED_512;
     PATH_445 -> CMED_512;
@@ -20,6 +21,9 @@ digraph G {
     permission_of_instructor -> CMED_540;
     edge [color=black];
     permission_of_instructor -> CMED_590;
+    CMED_592;
+    CMED_600;
     edge [color=black];
     DVM_degree -> CMED_601;
+    CMED_700;
 }

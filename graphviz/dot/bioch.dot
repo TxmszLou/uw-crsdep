@@ -24,6 +24,8 @@ digraph G {
     edge [color=black];
     BIOC_406 -> BIOC_442;
     BIOC_441 -> BIOC_442;
+    BIOC_499;
+    BIOC_510;
     edge [color=black];
     permission_of_instructor -> BIOC_520;
     edge [color=black];
@@ -32,6 +34,12 @@ digraph G {
     permission_of_instructor -> BIOC_533;
     edge [color=black];
     permission_of_instructor -> BIOC_534;
+    BIOC_540;
+    BIOC_541;
+    BIOC_542;
     edge [color=black];
     graduate_standing_in_biochemistry_or_permission_of_instructor -> BIOC_581;
+    BIOC_600;
+    BIOC_700;
+    BIOC_800;
 }

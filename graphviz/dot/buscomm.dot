@@ -1,2 +1,10 @@
 digraph G {
+    BCMU_301;
+    BCMU_410;
+    BCMU_490;
+    BCMU_499;
+    BCMU_509;
+    BCMU_510;
+    BCMU_579;
+    BCMU_600;
 }

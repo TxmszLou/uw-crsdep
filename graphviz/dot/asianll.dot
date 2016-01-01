@@ -1,8 +1,28 @@
 digraph G {
+    ASIAN_200;
+    ASIAN_201;
+    ASIAN_202;
+    ASIAN_203;
+    ASIAN_204;
+    ASIAN_205;
+    ASIAN_206;
+    ASIAN_207;
+    ASIAN_211;
+    ASIAN_263;
+    ASIAN_401;
+    ASIAN_404;
+    ASIAN_405;
+    ASIAN_411;
+    ASIAN_494;
+    ASIAN_498;
     edge [color=black];
     permission_of_instructor -> ASIAN_503;
     edge [color=black];
     proficiency_in_an_Asian_language_Creditnocredit_only -> ASIAN_510;
+    ASIAN_580;
     edge [color=black];
     permission_of_instructor -> ASIAN_585;
+    ASIAN_600;
+    ASIAN_700;
+    ASIAN_800;
 }

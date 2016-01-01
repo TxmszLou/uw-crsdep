@@ -1,4 +1,7 @@
 digraph G {
+    AS_101;
+    AS_102;
+    AS_103;
     edge [color=black];
     A_S_101 -> AS_211;
     S_101 -> AS_211;
@@ -20,6 +23,7 @@ digraph G {
     S_102 -> AS_213;
     A_S_103 -> AS_213;
     S_103 -> AS_213;
+    AS_250;
     edge [color=black];
     A_S_213 -> AS_331;
     S_213 -> AS_331;

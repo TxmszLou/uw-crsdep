@@ -7,6 +7,7 @@ digraph G {
     PHARMP_512 -> PHARMP_513;
     edge [color=black];
     PHARMP_513 -> PHARMP_514;
+    PHARMP_522;
     edge [color=black];
     PHARMP_514 -> PHARMP_531;
     edge [color=black];
@@ -15,4 +16,19 @@ digraph G {
     PHARMP_532 -> PHARMP_533;
     edge [color=black];
     PHARMP_533 -> PHARMP_541;
+    PHARMP_571;
+    PHARMP_572;
+    PHARMP_573;
+    PHARMP_574;
+    PHARMP_575;
+    PHARMP_576;
+    PHARMP_577;
+    PHARMP_578;
+    PHARMP_581;
+    PHARMP_582;
+    PHARMP_583;
+    PHARMP_584;
+    PHARMP_585;
+    PHARMP_586;
+    PHARMP_587;
 }

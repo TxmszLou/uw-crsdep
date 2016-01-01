@@ -1,2 +1,32 @@
 digraph G {
+    CLAS_101;
+    CLAS_102;
+    CLAS_122;
+    CLAS_205;
+    CLAS_210;
+    CLAS_320;
+    CLAS_324;
+    CLAS_326;
+    CLAS_328;
+    CLAS_330;
+    CLAS_360;
+    CLAS_399;
+    CLAS_405;
+    CLAS_422;
+    CLAS_424;
+    CLAS_427;
+    CLAS_428;
+    CLAS_430;
+    CLAS_432;
+    CLAS_435;
+    CLAS_445;
+    CLAS_490;
+    CLAS_495;
+    CLAS_496;
+    CLAS_510;
+    CLAS_520;
+    CLAS_525;
+    CLAS_540;
+    CLAS_700;
+    CLAS_800;
 }

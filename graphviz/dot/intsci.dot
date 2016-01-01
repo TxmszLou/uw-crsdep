@@ -1,8 +1,16 @@
 digraph G {
+    INTSCI_197;
+    INTSCI_200;
+    INTSCI_301;
+    INTSCI_401;
+    INTSCI_402;
+    INTSCI_403;
+    INTSCI_491;
     edge [color=black];
     INTSCI_491 -> INTSCI_492;
     edge [color=red];
     corequisite_registration_in_a_departmental_499_research_course -> INTSCI_492;
     edge [color=black];
     INTSI_492 -> INTSCI_493;
+    INTSCI_498;
 }

@@ -13,6 +13,8 @@ digraph G {
     other_graduate_students_with_permission_of_instructor -> IMMUN_532;
     edge [color=black];
     graduate_standing_in_immunology -> IMMUN_534;
+    IMMUN_537;
+    IMMUN_538;
     edge [color=black];
     graduate_standing_in_immunology -> IMMUN_550;
     edge [color=black];

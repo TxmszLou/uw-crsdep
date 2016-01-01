@@ -1,8 +1,11 @@
 digraph G {
+    ORTHP_498;
+    ORTHP_499;
     edge [color=black];
     permission_of_department -> ORTHP_505;
     edge [color=black];
     secondyear_medical_student_standing -> ORTHP_585;
+    ORTHP_643;
     edge [color=black];
     HUBIO_series -> ORTHP_644;
     edge [color=red];
@@ -11,6 +14,7 @@ digraph G {
     HUBIO_series -> ORTHP_650;
     edge [color=red];
     third_and_fourthyear_students -> ORTHP_650;
+    ORTHP_655;
     edge [color=black];
     SURG_665 -> ORTHP_668;
     HUBIO_553 -> ORTHP_668;
@@ -37,6 +41,10 @@ digraph G {
     HUBIO_series_third_and_fourthyear_medical_students -> ORTHP_681;
     edge [color=black];
     HUBIO_series -> ORTHP_682;
+    ORTHP_684;
+    ORTHP_685;
+    ORTHP_687;
     edge [color=black];
     HUBIO_553 -> ORTHP_697;
+    ORTHP_699;
 }

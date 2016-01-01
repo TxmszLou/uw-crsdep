@@ -1,2 +1,26 @@
 digraph G {
+    UZBEK_101;
+    UZBEK_102;
+    UZBEK_103;
+    UZBEK_105;
+    UZBEK_201;
+    UZBEK_202;
+    UZBEK_203;
+    UZBEK_401;
+    UZBEK_402;
+    UZBEK_403;
+    UZBEK_490;
+    UZBEK_496;
+    UZBEK_499;
+    UZBEK_511;
+    UZBEK_512;
+    UZBEK_513;
+    UZBEK_521;
+    UZBEK_522;
+    UZBEK_523;
+    UZBEK_541;
+    UZBEK_542;
+    UZBEK_543;
+    UZBEK_596;
+    UZBEK_600;
 }

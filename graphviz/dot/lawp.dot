@@ -1,14 +1,31 @@
 digraph G {
+    LAWP_501;
+    LAWP_503;
     edge [color=black];
     LAW_P_501 -> LAWP_504;
     P_501 -> LAWP_504;
     LAW_E_567 -> LAWP_504;
     E_567 -> LAWP_504;
+    LAWP_505;
+    LAWP_506;
+    LAWP_509;
+    LAWP_510;
+    LAWP_522;
+    LAWP_525;
+    LAWP_528;
+    LAWP_535;
+    LAWP_539;
+    LAWP_543;
     edge [color=black];
     LAW_A_546 -> LAWP_545;
     A_546 -> LAWP_545;
     LAW_P_501 -> LAWP_545;
     P_501 -> LAWP_545;
+    LAWP_546;
+    LAWP_547;
+    LAWP_548;
+    LAWP_550;
+    LAWP_552;
     edge [color=black];
     LAW_A_522 -> LAWP_567;
     A_522 -> LAWP_567;
@@ -18,4 +35,7 @@ digraph G {
     E_588 -> LAWP_567;
     LAW_P_501 -> LAWP_567;
     P_501 -> LAWP_567;
+    LAWP_577;
+    LAWP_589;
+    LAWP_590;
 }

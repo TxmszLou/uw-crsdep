@@ -1,9 +1,30 @@
 digraph G {
+    PERIO_449;
+    PERIO_517;
+    PERIO_525;
+    PERIO_526;
     edge [color=black];
     PERIO_525 -> PERIO_530;
     PERIO_527 -> PERIO_530;
+    PERIO_531;
+    PERIO_540;
+    PERIO_550;
+    PERIO_561;
     edge [color=black];
     PERIO_561 -> PERIO_566;
+    PERIO_567;
+    PERIO_574;
+    PERIO_575;
+    PERIO_576;
+    PERIO_577;
+    PERIO_578;
+    PERIO_580;
+    PERIO_582;
+    PERIO_585;
+    PERIO_586;
+    PERIO_592;
+    PERIO_600;
+    PERIO_620;
     edge [color=black];
     PERIO_517 -> PERIO_630;
     PERIO_525 -> PERIO_630;
@@ -13,6 +34,16 @@ digraph G {
     edge [color=black];
     PERIO_517 -> PERIO_632;
     PERIO_525 -> PERIO_632;
+    PERIO_639;
+    PERIO_640;
+    PERIO_641;
+    PERIO_642;
+    PERIO_659;
+    PERIO_660;
+    PERIO_661;
+    PERIO_662;
     edge [color=black];
     permission_of_department_chairperson -> PERIO_663;
+    PERIO_665;
+    PERIO_685;
 }

@@ -1,2 +1,8 @@
 digraph G {
+    COPTIC_101;
+    COPTIC_102;
+    COPTIC_103;
+    COPTIC_511;
+    COPTIC_512;
+    COPTIC_513;
 }

@@ -1,5 +1,13 @@
 digraph G {
+    ESTO_101;
+    ESTO_102;
+    ESTO_103;
+    ESTO_150;
+    ESTO_201;
+    ESTO_202;
+    ESTO_203;
     edge [color=black];
     ESTO_103 -> ESTO_250;
     ESTO_150 -> ESTO_250;
+    ESTO_490;
 }

@@ -1,8 +1,31 @@
 digraph G {
     edge [color=black];
     permission_of_instructor -> MEDEM_501;
+    MEDEM_550;
+    MEDEM_600;
+    MEDEM_605;
+    MEDEM_606;
+    MEDEM_607;
+    MEDEM_608;
+    MEDEM_609;
+    MEDEM_617;
+    MEDEM_624;
+    MEDEM_625;
+    MEDEM_626;
+    MEDEM_645;
+    MEDEM_646;
+    MEDEM_656;
+    MEDEM_657;
+    MEDEM_658;
+    MEDEM_662;
+    MEDEM_663;
+    MEDEM_668;
+    MEDEM_669;
+    MEDEM_680;
+    MEDEM_681;
     edge [color=black];
     EM_clerkship -> MEDEM_697;
     edge [color=red];
     permission_of_instructor_at_away_site_and_department -> MEDEM_697;
+    MEDEM_699;
 }

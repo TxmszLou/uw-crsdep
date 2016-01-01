@@ -1,4 +1,25 @@
 digraph G {
+    HSTRY_199;
+    HSTRY_388;
+    HSTRY_390;
+    HSTRY_395;
+    HSTRY_399;
+    HSTRY_491;
+    HSTRY_492;
+    HSTRY_493;
+    HSTRY_494;
+    HSTRY_495;
+    HSTRY_498;
+    HSTRY_499;
+    HSTRY_500;
+    HSTRY_570;
     edge [color=black];
     Master_of_Arts_degree_in_history_or_permission_of_instructor -> HSTRY_571;
+    HSTRY_572;
+    HSTRY_595;
+    HSTRY_596;
+    HSTRY_597;
+    HSTRY_598;
+    HSTRY_600;
+    HSTRY_800;
 }

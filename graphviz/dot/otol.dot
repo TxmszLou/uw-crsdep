@@ -1,4 +1,6 @@
 digraph G {
+    OTOHN_498;
+    OTOHN_499;
     edge [color=black];
     first_or_secondyear_medical_student_standing -> OTOHN_501;
     edge [color=black];

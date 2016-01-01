@@ -1,10 +1,13 @@
 digraph G {
+    NEURS_498;
     edge [color=black];
     permission_of_instructor -> NEURS_499;
     edge [color=black];
     permission_of_instructor -> NEURS_505;
+    NEURS_665;
     edge [color=black];
     HUBIO_563 -> NEURS_680;
     edge [color=black];
     permission_of_instructor -> NEURS_697;
+    NEURS_699;
 }

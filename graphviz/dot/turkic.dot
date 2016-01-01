@@ -5,4 +5,10 @@ digraph G {
     TKIC_437 -> TKIC_438;
     edge [color=black];
     TKIC_438 -> TKIC_439;
+    TKIC_542;
+    TKIC_543;
+    TKIC_546;
+    TKIC_561;
+    TKIC_562;
+    TKIC_563;
 }

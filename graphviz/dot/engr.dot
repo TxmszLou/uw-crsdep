@@ -1,7 +1,22 @@
 digraph G {
+    ENGR_100;
+    ENGR_101;
+    ENGR_102;
+    ENGR_197;
+    ENGR_199;
+    ENGR_202;
+    ENGR_320;
+    ENGR_321;
+    ENGR_322;
     edge [color=black];
     MATH_136 -> ENGR_360;
     MATH_307 -> ENGR_360;
     edge [color=red];
     PHYS_123 -> ENGR_360;
+    ENGR_380;
+    ENGR_401;
+    ENGR_498;
+    ENGR_499;
+    ENGR_598;
+    ENGR_601;
 }

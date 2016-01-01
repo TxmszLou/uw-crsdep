@@ -1,6 +1,19 @@
 digraph G {
+    PROS_520;
+    PROS_523;
+    PROS_524;
+    PROS_525;
+    PROS_560;
+    PROS_563;
+    PROS_564;
+    PROS_571;
+    PROS_572;
     edge [color=black];
     permission_of_Graduate_Program_Adviser -> PROS_600;
+    PROS_630;
+    PROS_640;
     edge [color=black];
     permission_of_instructor -> PROS_650;
+    PROS_660;
+    PROS_665;
 }

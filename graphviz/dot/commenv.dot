@@ -1,7 +1,20 @@
 digraph G {
+    CEP_200;
     edge [color=black];
     Majors_only -> CEP_300;
+    CEP_301;
+    CEP_302;
+    CEP_303;
+    CEP_400;
+    CEP_446;
+    CEP_460;
+    CEP_461;
+    CEP_462;
     edge [color=black];
     CEP_200 -> CEP_470;
     URBDP_300 -> CEP_470;
+    CEP_490;
+    CEP_491;
+    CEP_498;
+    CEP_499;
 }

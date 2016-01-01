@@ -1,2 +1,24 @@
 digraph G {
+    LAW_100;
+    LAW_300;
+    LAW_301;
+    LAW_305;
+    LAW_310;
+    LAW_410;
+    LAW_415;
+    LAW_416;
+    LAW_422;
+    LAW_429;
+    LAW_440;
+    LAW_442;
+    LAW_443;
+    LAW_444;
+    LAW_445;
+    LAW_447;
+    LAW_476;
+    LAW_477;
+    LAW_481;
+    LAW_489;
+    LAW_600;
+    LAW_800;
 }

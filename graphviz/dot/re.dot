@@ -1,10 +1,29 @@
 digraph G {
+    RE_507;
+    RE_508;
+    RE_509;
+    RE_510;
+    RE_511;
+    RE_512;
+    RE_514;
+    RE_518;
+    RE_553;
     edge [color=black];
     R_E_552 -> RE_554;
     E_552 -> RE_554;
+    RE_556;
+    RE_557;
+    RE_558;
+    RE_560;
+    RE_561;
+    RE_569;
+    RE_570;
     edge [color=black];
     R_E_552 -> RE_571;
     E_552 -> RE_571;
+    RE_590;
+    RE_597;
     edge [color=black];
     permission_of_instructor -> RE_598;
+    RE_600;
 }

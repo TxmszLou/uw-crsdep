@@ -1,8 +1,30 @@
 digraph G {
+    AFRAM_101;
+    AFRAM_150;
+    AFRAM_214;
+    AFRAM_220;
+    AFRAM_246;
+    AFRAM_260;
+    AFRAM_261;
+    AFRAM_270;
+    AFRAM_272;
     edge [color=black];
     AES_150 -> AFRAM_315;
     AFRAM_150 -> AFRAM_315;
     AFRAM_201 -> AFRAM_315;
     POL_S_201 -> AFRAM_315;
     S_201 -> AFRAM_315;
+    AFRAM_318;
+    AFRAM_320;
+    AFRAM_321;
+    AFRAM_330;
+    AFRAM_334;
+    AFRAM_337;
+    AFRAM_340;
+    AFRAM_350;
+    AFRAM_358;
+    AFRAM_370;
+    AFRAM_437;
+    AFRAM_498;
+    AFRAM_499;
 }

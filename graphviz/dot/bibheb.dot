@@ -1,2 +1,21 @@
 digraph G {
+    BIBHEB_101;
+    BIBHEB_102;
+    BIBHEB_103;
+    BIBHEB_105;
+    BIBHEB_199;
+    BIBHEB_201;
+    BIBHEB_202;
+    BIBHEB_399;
+    BIBHEB_490;
+    BIBHEB_496;
+    BIBHEB_499;
+    BIBHEB_511;
+    BIBHEB_512;
+    BIBHEB_513;
+    BIBHEB_515;
+    BIBHEB_521;
+    BIBHEB_522;
+    BIBHEB_596;
+    BIBHEB_600;
 }
