@@ -1,4 +1,4 @@
-uw-crscat
+uw-crsdep
 ===========
 Ill-formed course dependencies drawn with Graphviz
 
