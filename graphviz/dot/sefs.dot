@@ -4,7 +4,6 @@ digraph G {
     basic_ecology_course_or_permission_of_instructor -> SEFS_501;
     edge [color=black];
     Q_SCI_482 -> SEFS_502;
-    SCI_482 -> SEFS_502;
     SEFS_503;
     SEFS_504;
     SEFS_505;
@@ -27,7 +26,6 @@ digraph G {
     SEFS_525;
     edge [color=black];
     ESRM_428 -> SEFS_526;
-    W -> SEFS_526;
     SEFS_527;
     SEFS_529;
     SEFS_530;

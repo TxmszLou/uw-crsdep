@@ -1,11 +1,15 @@
 digraph G {
     DANISH_101;
-    DANISH_102;
-    DANISH_103;
+    edge [color=black];
+    DANISH_101 -> DANISH_102;
+    edge [color=black];
+    DANISH_102 -> DANISH_103;
     DANISH_199;
     DANISH_201;
-    DANISH_202;
-    DANISH_203;
+    edge [color=black];
+    DANISH_201 -> DANISH_202;
+    edge [color=black];
+    DANISH_202 -> DANISH_203;
     DANISH_299;
     DANISH_310;
     DANISH_311;

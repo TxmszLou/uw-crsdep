@@ -2,7 +2,6 @@ digraph G {
     PHCOL_401;
     edge [color=black];
     PHCOL_401 -> PHCOL_402;
-    W -> PHCOL_402;
     PHCOL_434;
     PHCOL_435;
     PHCOL_498;
@@ -51,9 +50,7 @@ digraph G {
     permission_of_instructor -> PHCOL_566;
     edge [color=black];
     ENV_H_516 -> PHCOL_567;
-    H_516 -> PHCOL_567;
     ENV_H_405 -> PHCOL_567;
-    H_405 -> PHCOL_567;
     edge [color=black];
     permission_of_instructor -> PHCOL_569;
     edge [color=black];

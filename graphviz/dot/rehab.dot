@@ -121,7 +121,9 @@ digraph G {
     thirdyear_medical_student_standing -> REHAB_686;
     edge [color=black];
     thirdyear_medical_student_standing -> REHAB_687;
-    REHAB_689;
+    edge [color=black];
+    MED_665 -> REHAB_689;
+    SURG_665 -> REHAB_689;
     edge [color=black];
     permission_of_instructor -> REHAB_697;
     edge [color=black];

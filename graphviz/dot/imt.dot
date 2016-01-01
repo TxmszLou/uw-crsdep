@@ -13,15 +13,18 @@ digraph G {
     IMT_541;
     IMT_550;
     IMT_551;
-    IMT_552;
-    IMT_553;
+    edge [color=black];
+    IMT_551 -> IMT_552;
+    edge [color=black];
+    IMT_551 -> IMT_553;
+    IMT_552 -> IMT_553;
     IMT_554;
     IMT_556;
-    IMT_557;
+    edge [color=black];
+    IMT_556 -> IMT_557;
     IMT_570;
     edge [color=black];
     INFX_543 -> IMT_576;
-    A -> IMT_576;
     IMT_580;
     IMT_582;
     IMT_583;
@@ -33,9 +36,9 @@ digraph G {
     introductory_coursework_in_project_management_or_permission_of_instructor -> IMT_588;
     IMT_589;
     edge [color=black];
-    MSIM_program -> IMT_590;
+    MSIM -> IMT_590;
     edge [color=black];
     permission_of_instructor -> IMT_598;
     edge [color=black];
-    MSIM_program -> IMT_600;
+    MSIM -> IMT_600;
 }

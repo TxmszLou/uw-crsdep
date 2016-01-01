@@ -9,7 +9,8 @@ digraph G {
     ENDO_562;
     ENDO_563;
     ENDO_566;
-    ENDO_568;
+    edge [color=black];
+    ENDO_562 -> ENDO_568;
     ENDO_580;
     ENDO_581;
     ENDO_582;

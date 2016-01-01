@@ -1,3 +1,22 @@
 digraph G {
-    HPS_400;
+    edge [color=black];
+    HSTCMP_311 -> HPS_400;
+    HSTCMP_312 -> HPS_400;
+    HSTCMP_313 -> HPS_400;
+    HSTCMP_314 -> HPS_400;
+    HSTCMP_315 -> HPS_400;
+    HSTCMP_317 -> HPS_400;
+    HSTCMP_318 -> HPS_400;
+    HSTCMP_412 -> HPS_400;
+    edge [color=red];
+    PHIL_350 -> HPS_400;
+    PHIL_360 -> HPS_400;
+    PHIL_450 -> HPS_400;
+    PHIL_460 -> HPS_400;
+    PHIL_464 -> HPS_400;
+    PHIL_466 -> HPS_400;
+    PHIL_473 -> HPS_400;
+    PHIL_481 -> HPS_400;
+    PHIL_482 -> HPS_400;
+    PHIL_483 -> HPS_400;
 }

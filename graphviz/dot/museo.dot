@@ -16,7 +16,8 @@ digraph G {
     edge [color=red];
     MUSEUM_575 -> MUSEUM_576;
     MUSEUM_583;
-    MUSEUM_584;
+    edge [color=black];
+    MUSEUM_581 -> MUSEUM_584;
     MUSEUM_585;
     MUSEUM_588;
     MUSEUM_594;

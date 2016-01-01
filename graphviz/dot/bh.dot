@@ -40,8 +40,7 @@ digraph G {
     permission_of_instructor -> BH_550;
     edge [color=black];
     LAW_H_504 -> BH_551;
-    H_504 -> BH_551;
-    H_514 -> BH_551;
+    B_H_514 -> BH_551;
     PHG_512 -> BH_551;
     BH_552;
     BH_553;

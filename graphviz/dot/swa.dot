@@ -1,9 +1,15 @@
 digraph G {
     SWA_101;
-    SWA_102;
-    SWA_103;
+    edge [color=black];
+    SWA_101 -> SWA_102;
+    edge [color=black];
+    SWA_102 -> SWA_103;
     SWA_134;
-    SWA_201;
-    SWA_202;
-    SWA_203;
+    edge [color=black];
+    SWA_103 -> SWA_201;
+    SWA_134 -> SWA_201;
+    edge [color=black];
+    SWA_201 -> SWA_202;
+    edge [color=black];
+    SWA_202 -> SWA_203;
 }

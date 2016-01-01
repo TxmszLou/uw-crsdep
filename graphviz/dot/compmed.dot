@@ -24,6 +24,6 @@ digraph G {
     CMED_592;
     CMED_600;
     edge [color=black];
-    DVM_degree -> CMED_601;
+    DVM -> CMED_601;
     CMED_700;
 }

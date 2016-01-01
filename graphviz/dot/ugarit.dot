@@ -1,8 +1,20 @@
 digraph G {
-    UGARIT_201;
-    UGARIT_202;
-    UGARIT_203;
-    UGARIT_521;
-    UGARIT_522;
-    UGARIT_523;
+    edge [color=black];
+    ARAB_103 -> UGARIT_201;
+    ARAB_105 -> UGARIT_201;
+    MODHEB_103 -> UGARIT_201;
+    MODHEB_105 -> UGARIT_201;
+    edge [color=black];
+    UGARIT_201 -> UGARIT_202;
+    edge [color=black];
+    UGARIT_202 -> UGARIT_203;
+    edge [color=black];
+    ARAB_513 -> UGARIT_521;
+    ARAB_515 -> UGARIT_521;
+    MODHEB_513 -> UGARIT_521;
+    MODHEB_515 -> UGARIT_521;
+    edge [color=black];
+    UGARIT_521 -> UGARIT_522;
+    edge [color=black];
+    UGARIT_522 -> UGARIT_523;
 }

@@ -1,20 +1,16 @@
 digraph G {
     edge [color=black];
     BIOL_220 -> NBIO_301;
-    W -> NBIO_301;
     edge [color=black];
     NBIO_301 -> NBIO_302;
-    A -> NBIO_302;
     edge [color=black];
     MATH_125 -> NBIO_303;
     edge [color=black];
     NBIO_301 -> NBIO_401;
     edge [color=black];
     NBIO_401 -> NBIO_402;
-    W -> NBIO_402;
     edge [color=black];
     NBIO_401 -> NBIO_403;
-    W -> NBIO_403;
     edge [color=black];
     NBIO_401 -> NBIO_404;
     edge [color=black];
@@ -23,5 +19,6 @@ digraph G {
     BIOL_220 -> NBIO_450;
     NBIO_490;
     NBIO_496;
-    NBIO_499;
+    edge [color=black];
+    NBIO_302 -> NBIO_499;
 }

@@ -2,7 +2,12 @@ digraph G {
     DISST_230;
     DISST_332;
     DISST_421;
-    DISST_430;
+    edge [color=black];
+    DIS -> DISST_430;
+    LSJ_230 -> DISST_430;
+    DIS_ST_332 -> DISST_430;
+    DIS_ST_433 -> DISST_430;
+    DIS_ST_434 -> DISST_430;
     DISST_433;
     DISST_434;
     DISST_435;

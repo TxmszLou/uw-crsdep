@@ -1,12 +1,20 @@
 digraph G {
     URDU_311;
-    URDU_312;
-    URDU_313;
-    URDU_321;
-    URDU_322;
-    URDU_323;
-    URDU_401;
-    URDU_402;
-    URDU_403;
+    edge [color=black];
+    URDU_311 -> URDU_312;
+    edge [color=black];
+    URDU_312 -> URDU_313;
+    edge [color=black];
+    URDU_313 -> URDU_321;
+    edge [color=black];
+    URDU_321 -> URDU_322;
+    edge [color=black];
+    URDU_322 -> URDU_323;
+    edge [color=black];
+    URDU_323 -> URDU_401;
+    edge [color=black];
+    URDU_401 -> URDU_402;
+    edge [color=black];
+    URDU_402 -> URDU_403;
     URDU_499;
 }

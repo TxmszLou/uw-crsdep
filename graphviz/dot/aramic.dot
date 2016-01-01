@@ -1,6 +1,10 @@
 digraph G {
-    ARAMIC_201;
+    edge [color=black];
+    BIBHEB_103 -> ARAMIC_201;
+    BIBHEB_105 -> ARAMIC_201;
     edge [color=black];
     ARAMIC_412 -> ARAMIC_423;
-    ARAMIC_521;
+    edge [color=black];
+    BIBHEB_513 -> ARAMIC_521;
+    BIBHEB_515 -> ARAMIC_521;
 }

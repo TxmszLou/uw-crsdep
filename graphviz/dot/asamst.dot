@@ -7,8 +7,8 @@ digraph G {
     AAS_300;
     AAS_310;
     edge [color=black];
-    ANTH_course_or_one_AASAES_course -> AAS_314;
-    AASAES_course -> AAS_314;
+    ANTH -> AAS_314;
+    AES -> AAS_314;
     AAS_320;
     AAS_330;
     AAS_350;

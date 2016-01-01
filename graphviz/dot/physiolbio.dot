@@ -5,7 +5,6 @@ digraph G {
     PBIO_505;
     edge [color=black];
     P_BIO_505 -> PBIO_506;
-    BIO_505 -> PBIO_506;
     PBIO_508;
     edge [color=black];
     BIOL_201 -> PBIO_509;
@@ -42,9 +41,6 @@ digraph G {
     PBIO_548;
     edge [color=black];
     CONJ_531 -> PBIO_550;
-    NEURO_550 -> PBIO_550;
-    edge [color=red];
-    Sp_odd_years -> PBIO_550;
     PBIO_554;
     PBIO_555;
     PBIO_556;

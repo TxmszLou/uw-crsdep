@@ -4,7 +4,6 @@ digraph G {
     ORTHO_521;
     edge [color=black];
     ORTHO_520 -> ORTHO_522;
-    S -> ORTHO_522;
     ORTHO_550;
     ORTHO_551;
     ORTHO_552;
@@ -33,7 +32,6 @@ digraph G {
     permission_of_instructor -> ORTHO_600;
     edge [color=black];
     ORTHO_522 -> ORTHO_630;
-    AW -> ORTHO_630;
     ORTHO_631;
     edge [color=black];
     students_enrolled_in_the_graduate_orthdontics_program -> ORTHO_660;

@@ -10,8 +10,11 @@ digraph G {
     RUSS_103 -> SLVN_401;
     RUSS_150 -> SLVN_401;
     UKR_403 -> SLVN_401;
-    SLVN_402;
-    SLVN_404;
-    SLVN_406;
+    edge [color=black];
+    SLVN_401 -> SLVN_402;
+    edge [color=black];
+    SLVN_402 -> SLVN_404;
+    edge [color=black];
+    SLVN_404 -> SLVN_406;
     SLVN_499;
 }

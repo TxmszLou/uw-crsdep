@@ -1,10 +1,16 @@
 digraph G {
     EGYPT_101;
-    EGYPT_102;
-    EGYPT_103;
-    EGYPT_422;
-    EGYPT_423;
+    edge [color=black];
+    EGYPT_101 -> EGYPT_102;
+    edge [color=black];
+    EGYPT_102 -> EGYPT_103;
+    edge [color=black];
+    EGYPT_411 -> EGYPT_422;
+    edge [color=black];
+    EGYPT_411 -> EGYPT_423;
     EGYPT_511;
-    EGYPT_512;
-    EGYPT_513;
+    edge [color=black];
+    EGYPT_511 -> EGYPT_512;
+    edge [color=black];
+    EGYPT_512 -> EGYPT_513;
 }

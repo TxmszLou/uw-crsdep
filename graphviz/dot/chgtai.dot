@@ -1,12 +1,21 @@
 digraph G {
-    CHGTAI_401;
-    CHGTAI_402;
-    CHGTAI_490;
+    edge [color=black];
+    TKIC_405 -> CHGTAI_401;
+    TKIC_423 -> CHGTAI_401;
+    TKIC_429 -> CHGTAI_401;
+    KAZAKH_205 -> CHGTAI_401;
+    UYGUR_203 -> CHGTAI_401;
+    UZBEK_203 -> CHGTAI_401;
+    edge [color=black];
+    CHGTAI_401 -> CHGTAI_402;
+    edge [color=black];
+    CHGTAI_402 -> CHGTAI_490;
     CHGTAI_496;
     CHGTAI_499;
     edge [color=black];
     either_two_years_of_study_of_any_Turkic_language_or_permission_of_instructor -> CHGTAI_541;
-    CHGTAI_542;
+    edge [color=black];
+    CHGTAI_541 -> CHGTAI_542;
     CHGTAI_596;
     CHGTAI_600;
 }

@@ -9,8 +9,6 @@ digraph G {
     RHBPO_523;
     edge [color=black];
     RHB_PO_521 -> RHBPO_524;
-    PO_521 -> RHBPO_524;
-    A -> RHBPO_524;
     RHBPO_525;
     RHBPO_526;
     RHBPO_527;

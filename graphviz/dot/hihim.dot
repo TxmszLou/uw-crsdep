@@ -3,10 +3,15 @@ digraph G {
     HIHIM_408;
     HIHIM_409;
     HIHIM_410;
-    HIHIM_412;
+    edge [color=black];
+    HIHIM_409 -> HIHIM_412;
     HIHIM_413;
-    HIHIM_420;
-    HIHIM_421;
+    edge [color=black];
+    HIHIM_410 -> HIHIM_420;
+    edge [color=red];
+    HIHIM_411 -> HIHIM_420;
+    edge [color=black];
+    HIHIM_420 -> HIHIM_421;
     HIHIM_450;
     HIHIM_454;
     HIHIM_455;
@@ -15,7 +20,8 @@ digraph G {
     edge [color=red];
     medical_terminology -> HIHIM_456;
     HIHIM_460;
-    HIHIM_462;
+    edge [color=black];
+    HIHIM_460 -> HIHIM_462;
     HIHIM_470;
     HIHIM_480;
     HIHIM_490;

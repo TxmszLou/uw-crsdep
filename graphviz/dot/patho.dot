@@ -18,7 +18,7 @@ digraph G {
     coursework_in_biology_biochemistry_molecular_biology_and_genetics -> PATH_517;
     PATH_520;
     edge [color=black];
-    UW_medical_students_only -> PATH_521;
+    UW -> PATH_521;
     PATH_522;
     edge [color=black];
     permission_of_instructor -> PATH_530;

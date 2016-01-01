@@ -7,7 +7,5 @@ digraph G {
     graduate_program_admission -> DHYG_594;
     edge [color=black];
     D_HYG_494 -> DHYG_595;
-    HYG_494 -> DHYG_595;
     D_HYG_594 -> DHYG_595;
-    HYG_594 -> DHYG_595;
 }

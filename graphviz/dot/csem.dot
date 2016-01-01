@@ -1,5 +1,12 @@
 digraph G {
-    CSEM_544;
+    edge [color=black];
+    CSE_332 -> CSEM_544;
+    edge [color=red];
+    CSE_344 -> CSEM_544;
     CSEM_552;
-    CSEM_584;
+    edge [color=black];
+    CSE_351 -> CSEM_584;
+    edge [color=red];
+    CSE_451 -> CSEM_584;
+    CSE_461 -> CSEM_584;
 }

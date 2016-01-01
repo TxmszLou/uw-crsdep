@@ -10,10 +10,7 @@ digraph G {
     RE_553;
     edge [color=black];
     R_E_552 -> RE_554;
-    E_552 -> RE_554;
-    URBDP_554 -> RE_554;
-    edge [color=red];
-    W -> RE_554;
+    URBDP_552 -> RE_554;
     RE_556;
     RE_557;
     RE_558;
@@ -21,7 +18,9 @@ digraph G {
     RE_561;
     RE_569;
     RE_570;
-    RE_571;
+    edge [color=black];
+    R_E_552 -> RE_571;
+    URBDP_552 -> RE_571;
     RE_590;
     RE_597;
     edge [color=black];

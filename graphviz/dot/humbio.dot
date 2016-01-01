@@ -47,7 +47,7 @@ digraph G {
     HUBIO_593;
     HUBIO_594;
     edge [color=black];
-    IHOP_students_only -> HUBIO_595;
+    IHOP -> HUBIO_595;
     HUBIO_596;
     HUBIO_597;
     HUBIO_598;

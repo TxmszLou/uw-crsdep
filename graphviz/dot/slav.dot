@@ -38,6 +38,7 @@ digraph G {
     SLAV_562;
     SLAV_563;
     SLAV_565;
-    SLAV_566;
+    edge [color=black];
+    SLAV_565 -> SLAV_566;
     SLAV_570;
 }

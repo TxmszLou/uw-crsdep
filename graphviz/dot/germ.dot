@@ -1,8 +1,7 @@
 digraph G {
     GERMAN_100;
     edge [color=black];
-    GER_TL_placement_test_if_German_is_language_of_admission -> GERMAN_101;
-    TL_placement_test_if_German_is_language_of_admission -> GERMAN_101;
+    GER_TL -> GERMAN_101;
     edge [color=black];
     GERMAN_101 -> GERMAN_102;
     edge [color=black];
@@ -39,7 +38,8 @@ digraph G {
     GERMAN_311;
     GERMAN_312;
     GERMAN_313;
-    GERMAN_322;
+    edge [color=black];
+    GERMAN_203 -> GERMAN_322;
     GERMAN_323;
     GERMAN_330;
     GERMAN_340;

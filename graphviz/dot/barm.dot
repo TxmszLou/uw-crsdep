@@ -3,7 +3,8 @@ digraph G {
     STAT_342 -> BARM_580;
     STAT_395 -> BARM_580;
     STAT_481 -> BARM_580;
-    BARM_581;
+    edge [color=black];
+    BA_RM_580 -> BARM_581;
     edge [color=black];
     STAT_361 -> BARM_590;
     STAT_362 -> BARM_590;

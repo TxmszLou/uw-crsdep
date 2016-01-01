@@ -2,15 +2,12 @@ digraph G {
     CZECH_401;
     edge [color=black];
     CZECH_401 -> CZECH_402;
-    W -> CZECH_402;
     edge [color=black];
     CZECH_402 -> CZECH_403;
     edge [color=black];
     CZECH_403 -> CZECH_404;
-    A -> CZECH_404;
     edge [color=black];
     CZECH_404 -> CZECH_405;
-    W -> CZECH_405;
     edge [color=black];
     CZECH_405 -> CZECH_406;
     CZECH_420;

@@ -68,7 +68,6 @@ digraph G {
     MUSICP_441;
     edge [color=black];
     MUSICP_342 -> MUSICP_442;
-    AWSp -> MUSICP_442;
     MUSICP_463;
     MUSICP_494;
     MUSICP_495;

@@ -9,7 +9,6 @@ digraph G {
     edge [color=black];
     BIOL_220 -> FHL_440;
     B_BIO_220 -> FHL_440;
-    BIO_220 -> FHL_440;
     TESC_140 -> FHL_440;
     edge [color=red];
     BIOL_430 -> FHL_440;

@@ -91,7 +91,5 @@ digraph G {
     edge [color=black];
     NEURL_665 -> NEURL_687;
     edge [color=black];
-    permission_of_department_adviser -> NEURL_697;
     edge [color=black];
-    permission_of_adviser -> NEURL_699;
 }

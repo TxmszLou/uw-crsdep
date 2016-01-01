@@ -38,7 +38,10 @@ digraph G {
     HSTCMP_425;
     HSTCMP_440;
     HSTCMP_449;
-    HSTCMP_457;
+    edge [color=black];
+    POL_S_249 -> HSTCMP_457;
+    HIST_249 -> HSTCMP_457;
+    SOC_266 -> HSTCMP_457;
     HSTCMP_466;
     HSTCMP_467;
     HSTCMP_468;

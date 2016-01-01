@@ -23,7 +23,12 @@ digraph G {
     CHID_390;
     CHID_399;
     CHID_417;
-    CHID_430;
+    edge [color=black];
+    DIS -> CHID_430;
+    LSJ_230 -> CHID_430;
+    DIS_ST_332 -> CHID_430;
+    DIS_ST_433 -> CHID_430;
+    DIS_ST_434 -> CHID_430;
     CHID_433;
     CHID_434;
     CHID_437;
@@ -43,7 +48,8 @@ digraph G {
     CHID_484;
     CHID_487;
     CHID_488;
-    CHID_490;
+    edge [color=black];
+    CHID_390 -> CHID_490;
     CHID_491;
     CHID_492;
     CHID_493;

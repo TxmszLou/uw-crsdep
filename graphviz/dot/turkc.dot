@@ -1,7 +1,14 @@
 digraph G {
     TURKIC_199;
     TURKIC_399;
-    TURKIC_490;
+    edge [color=black];
+    CHGTAI_402 -> TURKIC_490;
+    KAZAKH_205 -> TURKIC_490;
+    UYGUR_203 -> TURKIC_490;
+    UZBEK_203 -> TURKIC_490;
+    TKIC_404 -> TURKIC_490;
+    TKIC_405 -> TURKIC_490;
+    TKIC_423 -> TURKIC_490;
     TURKIC_496;
     TURKIC_499;
     TURKIC_596;

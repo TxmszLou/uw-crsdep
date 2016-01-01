@@ -1,7 +1,9 @@
 digraph G {
-    INDN_401;
+    edge [color=black];
+    SNKRT_303 -> INDN_401;
     INDN_402;
-    INDN_410;
+    edge [color=black];
+    SNKRT_303 -> INDN_410;
     INDN_490;
     INDN_499;
     edge [color=black];

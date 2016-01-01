@@ -14,7 +14,7 @@ digraph G {
     HSMGMT_531;
     HSMGMT_532;
     edge [color=black];
-    MHA_students -> HSMGMT_545;
+    MHA -> HSMGMT_545;
     HSMGMT_550;
     HSMGMT_552;
     HSMGMT_553;
@@ -25,7 +25,7 @@ digraph G {
     HSERV_511 -> HSMGMT_562;
     HSMGMT_560 -> HSMGMT_562;
     edge [color=black];
-    MPH_degree_program_or_permission_of_instructor -> HSMGMT_563;
+    MPH -> HSMGMT_563;
     edge [color=red];
     nonbusiness_majors -> HSMGMT_563;
     edge [color=black];
@@ -33,7 +33,7 @@ digraph G {
     BIOST_503 -> HSMGMT_566;
     BIOST_511 -> HSMGMT_566;
     edge [color=red];
-    MPH_degree_program -> HSMGMT_566;
+    MPH -> HSMGMT_566;
     edge [color=blue];
     nonbusiness_majors -> HSMGMT_566;
     HSMGMT_567;
@@ -48,7 +48,7 @@ digraph G {
     BIOST_503 -> HSMGMT_572;
     BIOST_511 -> HSMGMT_572;
     edge [color=red];
-    MPH_degree_program_or_permission_of_instructor -> HSMGMT_572;
+    MPH -> HSMGMT_572;
     edge [color=blue];
     nonbusiness_majors -> HSMGMT_572;
     HSMGMT_574;

@@ -18,8 +18,8 @@ digraph G {
     LAWH_518;
     edge [color=black];
     LAW_H_504 -> LAWH_520;
-    H_504 -> LAWH_520;
-    H_514 -> LAWH_520;
+    B_H_514 -> LAWH_520;
+    PHG_512 -> LAWH_520;
     LAWH_521;
     LAWH_522;
     LAWH_524;

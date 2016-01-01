@@ -16,5 +16,5 @@ digraph G {
     SWED_399;
     SWED_490;
     edge [color=black];
-    SWED_courses -> SWED_510;
+    SWED -> SWED_510;
 }

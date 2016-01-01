@@ -12,6 +12,5 @@ digraph G {
     corequisite_registration_in_a_departmental_499_research_course -> INTSCI_492;
     edge [color=black];
     INTSI_492 -> INTSCI_493;
-    AWSp -> INTSCI_493;
     INTSCI_498;
 }

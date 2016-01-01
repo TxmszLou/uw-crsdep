@@ -11,7 +11,8 @@ digraph G {
     ASIAN_263;
     ASIAN_401;
     ASIAN_404;
-    ASIAN_405;
+    edge [color=black];
+    ASIAN_401 -> ASIAN_405;
     ASIAN_411;
     ASIAN_494;
     ASIAN_498;

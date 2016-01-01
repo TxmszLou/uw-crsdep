@@ -1,6 +1,8 @@
 digraph G {
     ITA_340;
-    ITA_341;
+    edge [color=black];
+    ITA_340 -> ITA_341;
     ITA_342;
-    ITA_343;
+    edge [color=black];
+    ITA_342 -> ITA_343;
 }

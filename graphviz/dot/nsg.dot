@@ -16,8 +16,15 @@ digraph G {
     NSG_548;
     edge [color=black];
     NSG_548 -> NSG_549;
-    ECG_interpretation -> NSG_549;
-    NSG_550;
+    ECG -> NSG_549;
+    edge [color=black];
+    NSG_545 -> NSG_550;
+    B_NURS_513 -> NSG_550;
+    T_NURS_513 -> NSG_550;
+    edge [color=red];
+    NSG_546 -> NSG_550;
+    B_NURS_511 -> NSG_550;
+    T_NURS_511 -> NSG_550;
     NSG_551;
     NSG_552;
     edge [color=black];

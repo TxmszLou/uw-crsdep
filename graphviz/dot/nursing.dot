@@ -9,7 +9,8 @@ digraph G {
     NURS_309;
     NURS_310;
     NURS_401;
-    NURS_404;
+    edge [color=black];
+    NURS_310 -> NURS_404;
     NURS_405;
     NURS_407;
     NURS_410;
@@ -35,8 +36,8 @@ digraph G {
     edge [color=black];
     permission_of_instructor -> NURS_517;
     edge [color=black];
-    PNP_or_FNP_specialty_or_permission_of_instructor -> NURS_518;
-    FNP_specialty_or_permission_of_instructor -> NURS_518;
+    PNP -> NURS_518;
+    FNP -> NURS_518;
     edge [color=black];
     graduate_standing_or_permission_of_instructor -> NURS_520;
     NURS_522;
@@ -64,7 +65,8 @@ digraph G {
     NURS_548;
     NURS_549;
     NURS_552;
-    NURS_554;
+    edge [color=black];
+    NURS_549 -> NURS_554;
     edge [color=black];
     permission_of_instructor -> NURS_555;
     edge [color=black];
@@ -96,7 +98,6 @@ digraph G {
     NURS_588;
     edge [color=black];
     NURS_588 -> NURS_589;
-    W -> NURS_589;
     NURS_590;
     edge [color=black];
     NURS_590 -> NURS_592;

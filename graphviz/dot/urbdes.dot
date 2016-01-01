@@ -11,11 +11,11 @@ digraph G {
     GEOG_465 -> URBDP_422;
     FISH_452 -> URBDP_422;
     OCEAN_452 -> URBDP_422;
-    W -> URBDP_422;
     URBDP_429;
     URBDP_446;
     URBDP_450;
-    URBDP_451;
+    edge [color=black];
+    URBDP_300 -> URBDP_451;
     URBDP_457;
     URBDP_466;
     URBDP_467;
@@ -37,7 +37,8 @@ digraph G {
     ARCH_500 -> URBDP_508;
     ARCH_507 -> URBDP_508;
     URBDP_509;
-    URBDP_510;
+    edge [color=black];
+    URBDP_500 -> URBDP_510;
     URBDP_512;
     URBDP_519;
     edge [color=black];
@@ -50,11 +51,7 @@ digraph G {
     URBDP_553;
     edge [color=black];
     R_E_552 -> URBDP_554;
-    E_552 -> URBDP_554;
-    R_E_554 -> URBDP_554;
-    E_554 -> URBDP_554;
-    edge [color=red];
-    W -> URBDP_554;
+    URBDP_552 -> URBDP_554;
     URBDP_555;
     URBDP_556;
     URBDP_557;
@@ -63,7 +60,6 @@ digraph G {
     URBDP_560;
     edge [color=black];
     PB_AF_516 -> URBDP_561;
-    AF_516 -> URBDP_561;
     URBDP_562;
     URBDP_564;
     URBDP_565;
@@ -73,7 +69,9 @@ digraph G {
     URBDP_573;
     URBDP_576;
     URBDP_577;
-    URBDP_578;
+    edge [color=black];
+    R_E_552 -> URBDP_578;
+    URBDP_552 -> URBDP_578;
     URBDP_580;
     URBDP_585;
     edge [color=black];

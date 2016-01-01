@@ -14,16 +14,15 @@ digraph G {
     permission_of_instructor -> BA_541;
     edge [color=black];
     B_A_541 -> BA_542;
-    A_541 -> BA_542;
     edge [color=black];
     B_A_542 -> BA_543;
-    A_542 -> BA_543;
     BA_544;
     BA_545;
     BA_560;
     edge [color=black];
     instructors_approval_of_preliminary_research_topic_outline -> BA_571;
-    BA_572;
+    edge [color=black];
+    B_A_571 -> BA_572;
     BA_578;
     BA_580;
     BA_700;

@@ -12,8 +12,6 @@ digraph G {
     LABM_429;
     edge [color=black];
     LAB_M_429 -> LABM_430;
-    M_429 -> LABM_430;
-    W -> LABM_430;
     LABM_431;
     LABM_432;
     LABM_433;

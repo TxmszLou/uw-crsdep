@@ -7,7 +7,6 @@ digraph G {
     NEURS_665;
     edge [color=black];
     HUBIO_563 -> NEURS_680;
-    AWSpS -> NEURS_680;
     edge [color=black];
     permission_of_instructor -> NEURS_697;
     edge [color=black];

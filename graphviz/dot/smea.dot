@@ -13,7 +13,10 @@ digraph G {
     SMEA_519 -> SMEA_501;
     SMEA_536 -> SMEA_501;
     SMEA_591 -> SMEA_501;
-    SMEA_502;
+    edge [color=black];
+    SMEA_500 -> SMEA_502;
+    edge [color=red];
+    SMEA_501 -> SMEA_502;
     SMEA_506;
     edge [color=black];
     SMEA_500 -> SMEA_507;

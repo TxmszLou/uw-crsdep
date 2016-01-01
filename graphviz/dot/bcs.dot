@@ -6,14 +6,11 @@ digraph G {
     BCS_402 -> BCS_403;
     edge [color=black];
     BCS_403 -> BCS_404;
-    A -> BCS_404;
     edge [color=black];
     BCS_404 -> BCS_405;
-    W -> BCS_405;
     edge [color=black];
     BCS_405 -> BCS_406;
     edge [color=black];
     BCS_406 -> BCS_410;
-    A -> BCS_410;
     BCS_420;
 }

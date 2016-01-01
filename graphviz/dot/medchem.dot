@@ -2,11 +2,10 @@ digraph G {
     edge [color=black];
     CHEM_239 -> MEDCH_400;
     CHEM_337 -> MEDCH_400;
-    A -> MEDCH_400;
     edge [color=black];
     permission_of_instructor -> MEDCH_495;
     edge [color=black];
-    GPA_of_2 -> MEDCH_499;
+    GPA -> MEDCH_499;
     MEDCH_520;
     edge [color=black];
     CHEM_457 -> MEDCH_521;

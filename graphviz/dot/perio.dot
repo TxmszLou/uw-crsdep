@@ -5,8 +5,8 @@ digraph G {
     PERIO_526;
     edge [color=black];
     PERIO_525 -> PERIO_530;
+    PERIO_526 -> PERIO_530;
     PERIO_527 -> PERIO_530;
-    A -> PERIO_530;
     PERIO_531;
     PERIO_540;
     PERIO_550;
@@ -30,14 +30,15 @@ digraph G {
     edge [color=black];
     PERIO_517 -> PERIO_630;
     PERIO_525 -> PERIO_630;
-    A -> PERIO_630;
+    PERIO_526 -> PERIO_630;
     edge [color=black];
     PERIO_517 -> PERIO_631;
     PERIO_525 -> PERIO_631;
-    W -> PERIO_631;
+    PERIO_526 -> PERIO_631;
     edge [color=black];
     PERIO_517 -> PERIO_632;
     PERIO_525 -> PERIO_632;
+    PERIO_526 -> PERIO_632;
     PERIO_639;
     PERIO_640;
     PERIO_641;

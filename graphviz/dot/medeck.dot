@@ -31,12 +31,14 @@ digraph G {
     thirdyear_required_Medicine_clerkship -> MEDECK_615;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_616;
+    edge [color=red];
+    MEDECK_604 -> MEDECK_616;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_617;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_618;
     edge [color=black];
-    OBGYN_and_Surgery_clerkships -> MEDECK_619;
+    thirdyear_required_Medicine_OBGYN_and_Surgery_clerkships -> MEDECK_619;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_620;
     edge [color=black];
@@ -117,7 +119,6 @@ digraph G {
     MEDECK_644 -> MEDECK_686;
     MEDECK_664 -> MEDECK_686;
     MEDECK_674 -> MEDECK_686;
-    AWSpS -> MEDECK_686;
     edge [color=black];
     thirdyear_required_Medicine_clerkship -> MEDECK_690;
     edge [color=black];

@@ -42,7 +42,12 @@ digraph G {
     JSIS_492;
     JSIS_493;
     JSIS_494;
-    JSIS_495;
+    edge [color=black];
+    JSIS_200 -> JSIS_495;
+    edge [color=red];
+    JSIS_201 -> JSIS_495;
+    edge [color=blue];
+    JSIS_202 -> JSIS_495;
     JSIS_497;
     JSIS_498;
     JSIS_499;
@@ -51,7 +56,6 @@ digraph G {
     ECON_200 -> JSIS_501;
     edge [color=red];
     ECON_201 -> JSIS_501;
-    W -> JSIS_501;
     JSIS_511;
     JSIS_513;
     JSIS_530;

@@ -1,5 +1,13 @@
 digraph G {
-    NME_220;
+    edge [color=black];
+    CHEM_142 -> NME_220;
+    CHEM_144 -> NME_220;
+    CHEM_145 -> NME_220;
+    edge [color=red];
+    MATH_126 -> NME_220;
+    MATH_136 -> NME_220;
+    edge [color=blue];
+    PHYS_121 -> NME_220;
     edge [color=black];
     NME_220 -> NME_221;
     NME_321;

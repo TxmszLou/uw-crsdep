@@ -11,7 +11,6 @@ digraph G {
     LAWT_513;
     edge [color=black];
     LAW_T_513 -> LAWT_514;
-    T_513 -> LAWT_514;
     LAWT_515;
     LAWT_516;
     LAWT_517;
@@ -24,10 +23,8 @@ digraph G {
     LAWT_524;
     edge [color=black];
     LAW_A_530 -> LAWT_525;
-    A_530 -> LAWT_525;
     edge [color=red];
     LAW_A_515 -> LAWT_525;
-    A_515 -> LAWT_525;
     LAWT_526;
     LAWT_527;
     LAWT_528;
@@ -44,7 +41,8 @@ digraph G {
     LAWT_540;
     LAWT_541;
     LAWT_542;
-    LAWT_543;
+    edge [color=black];
+    LAW_T_511 -> LAWT_543;
     LAWT_544;
     LAWT_545;
     LAWT_546;

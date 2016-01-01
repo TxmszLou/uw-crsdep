@@ -11,7 +11,6 @@ digraph G {
     biochemistry_anatomy_and_physiology_or_permission_of_instructor -> PHARM_510;
     edge [color=red];
     NUTR_511 -> PHARM_510;
-    A -> PHARM_510;
     PHARM_513;
     PHARM_514;
     PHARM_515;
@@ -66,7 +65,7 @@ digraph G {
     edge [color=black];
     permission_of_School_of_Pharmacy -> PHARM_559;
     edge [color=black];
-    A -> PHARM_560;
+    permission_of_School_of_Pharmacy_Offered_A -> PHARM_560;
     edge [color=black];
     permission_of_School_of_Pharmacy -> PHARM_561;
     edge [color=black];
@@ -77,7 +76,8 @@ digraph G {
     permission_of_School_of_Pharmacy -> PHARM_564;
     edge [color=black];
     permission_of_School_of_Pharmacy -> PHARM_565;
-    PHARM_566;
+    edge [color=black];
+    PCEUT_532 -> PHARM_566;
     edge [color=black];
     PHARM_561 -> PHARM_567;
     edge [color=red];
@@ -103,7 +103,6 @@ digraph G {
     PHARM_584;
     edge [color=black];
     PHARM_584 -> PHARM_585;
-    W -> PHARM_585;
     edge [color=black];
     PHARM_585 -> PHARM_586;
     edge [color=black];
@@ -120,10 +119,8 @@ digraph G {
     PHARM_585 -> PHARM_592;
     edge [color=blue];
     PHARM_586 -> PHARM_592;
-    A -> PHARM_592;
     edge [color=black];
     PHARM_592 -> PHARM_593;
-    W -> PHARM_593;
     edge [color=black];
     PHARM_593 -> PHARM_594;
     PHARM_595;

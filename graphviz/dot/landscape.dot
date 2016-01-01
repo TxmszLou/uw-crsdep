@@ -30,8 +30,6 @@ digraph G {
     LARCH_425;
     edge [color=black];
     L_ARCH_331 -> LARCH_432;
-    ARCH_331 -> LARCH_432;
-    W -> LARCH_432;
     LARCH_433;
     LARCH_440;
     LARCH_441;

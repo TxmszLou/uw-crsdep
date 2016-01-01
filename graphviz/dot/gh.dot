@@ -8,9 +8,7 @@ digraph G {
     edge [color=black];
     BIOL_180 -> GH_410;
     G_H_210 -> GH_410;
-    H_210 -> GH_410;
     MICROM_301 -> GH_410;
-    W -> GH_410;
     GH_419;
     GH_456;
     GH_490;
@@ -30,10 +28,13 @@ digraph G {
     GH_532;
     edge [color=black];
     HSERV_511 -> GH_533;
+    HSERV_513 -> GH_533;
     edge [color=red];
     BIOST_517 -> GH_533;
+    BIOST_518 -> GH_533;
     edge [color=blue];
     EPI_512 -> GH_533;
+    EPI_513 -> GH_533;
     GH_538;
     GH_539;
     GH_541;
@@ -59,7 +60,7 @@ digraph G {
     edge [color=black];
     permission_of_instructor -> GH_592;
     edge [color=black];
-    MPH_students -> GH_593;
+    MPH -> GH_593;
     edge [color=black];
     permission_of_faculty_adviser -> GH_595;
     edge [color=black];

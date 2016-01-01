@@ -21,7 +21,6 @@ digraph G {
     JSISD_530;
     edge [color=black];
     POL_S_532 -> JSISD_533;
-    S_532 -> JSISD_533;
     JSISD_549;
     JSISD_553;
     edge [color=black];

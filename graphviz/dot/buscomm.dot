@@ -1,10 +1,16 @@
 digraph G {
     BCMU_301;
-    BCMU_410;
-    BCMU_490;
+    edge [color=black];
+    B_CMU_301 -> BCMU_410;
+    B_CMU_302 -> BCMU_410;
+    edge [color=black];
+    B_CMU_301 -> BCMU_490;
+    B_CMU_302 -> BCMU_490;
     BCMU_499;
-    BCMU_509;
-    BCMU_510;
+    edge [color=black];
+    B_A_501 -> BCMU_509;
+    edge [color=black];
+    B_A_501 -> BCMU_510;
     BCMU_579;
     BCMU_600;
 }

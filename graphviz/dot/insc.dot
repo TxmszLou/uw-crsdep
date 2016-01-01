@@ -3,7 +3,8 @@ digraph G {
     INSC_501;
     edge [color=black];
     permission_of_instructor -> INSC_518;
-    INSC_535;
+    edge [color=black];
+    LIS_530 -> INSC_535;
     INSC_538;
     INSC_541;
     INSC_542;
@@ -19,8 +20,10 @@ digraph G {
     edge [color=black];
     INSC_565 -> INSC_566;
     INSC_570;
-    INSC_571;
-    INSC_572;
+    edge [color=black];
+    INSC_570 -> INSC_571;
+    edge [color=black];
+    INSC_570 -> INSC_572;
     INSC_573;
     INSC_575;
     edge [color=black];
@@ -34,7 +37,7 @@ digraph G {
     introductory_coursework_in_project_management_or_permission_of_instructor -> INSC_588;
     INSC_598;
     edge [color=black];
-    permission_of_instructor_and_Ph -> INSC_599;
+    permission_of_instructor_and_PhD -> INSC_599;
     edge [color=black];
     permission_of_Supervisory_Committee_or_graduate_program_adviser -> INSC_600;
     INSC_800;

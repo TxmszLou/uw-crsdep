@@ -18,9 +18,7 @@ digraph G {
     SOCWL_586;
     edge [color=black];
     SOC_WL_587 -> SOCWL_589;
-    WL_587 -> SOCWL_589;
     SOC_WL_588 -> SOCWL_589;
-    WL_588 -> SOCWL_589;
     edge [color=black];
     doctoral_student_in_social_welfare_or_related_discipline -> SOCWL_590;
     edge [color=red];

@@ -2,15 +2,12 @@ digraph G {
     BULGR_401;
     edge [color=black];
     BULGR_401 -> BULGR_402;
-    W -> BULGR_402;
     edge [color=black];
     BULGR_402 -> BULGR_403;
     edge [color=black];
     BULGR_403 -> BULGR_404;
-    A -> BULGR_404;
     edge [color=black];
     BULGR_404 -> BULGR_405;
-    W -> BULGR_405;
     edge [color=black];
     BULGR_405 -> BULGR_406;
 }

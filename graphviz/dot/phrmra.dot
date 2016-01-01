@@ -4,7 +4,6 @@ digraph G {
     PHRMRA_526;
     edge [color=black];
     PHARM_504 -> PHRMRA_527;
-    A -> PHRMRA_527;
     PHRMRA_528;
     PHRMRA_536;
     edge [color=black];

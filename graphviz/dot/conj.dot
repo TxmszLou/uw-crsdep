@@ -4,10 +4,8 @@ digraph G {
     edge [color=red];
     CHEM_155 -> CONJ_401;
     CHEM_162 -> CONJ_401;
-    A -> CONJ_401;
     edge [color=black];
     CONJ_401 -> CONJ_402;
-    W -> CONJ_402;
     edge [color=black];
     CONJ_402 -> CONJ_403;
     CONJ_475;
@@ -78,7 +76,7 @@ digraph G {
     fourth_year_medical_students -> CONJ_625;
     CONJ_626;
     edge [color=black];
-    WRITE_committee -> CONJ_630;
+    WRITE -> CONJ_630;
     CONJ_655;
     CONJ_656;
     CONJ_657;

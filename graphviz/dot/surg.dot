@@ -14,7 +14,7 @@ digraph G {
     edge [color=red];
     third_and_fourthyear_students -> SURG_630;
     edge [color=blue];
-    WRITE_program -> SURG_630;
+    WRITE -> SURG_630;
     edge [color=black];
     required_surgery_clerkship -> SURG_642;
     edge [color=red];
@@ -65,9 +65,12 @@ digraph G {
     SURG_669;
     SURG_670;
     SURG_671;
-    SURG_672;
-    SURG_673;
-    SURG_674;
+    edge [color=black];
+    HUBIO_563 -> SURG_672;
+    edge [color=black];
+    HUBIO_563 -> SURG_673;
+    edge [color=black];
+    HUBIO_563 -> SURG_674;
     SURG_675;
     SURG_677;
     SURG_678;

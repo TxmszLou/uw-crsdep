@@ -70,12 +70,13 @@ digraph G {
     JSISC_495;
     JSISC_497;
     edge [color=black];
-    MAIS_program_or_permission_of_instructor -> JSISC_501;
+    MAIS -> JSISC_501;
     edge [color=black];
-    MAIS_program_or_permission_of_instructor -> JSISC_502;
+    MAIS -> JSISC_502;
     JSISC_504;
     JSISC_520;
-    JSISC_528;
+    edge [color=black];
+    JSIS_B_413 -> JSISC_528;
     JSISC_580;
     JSISC_590;
     JSISC_598;

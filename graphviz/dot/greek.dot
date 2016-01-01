@@ -2,7 +2,6 @@ digraph G {
     GREEK_101;
     edge [color=black];
     GREEK_101 -> GREEK_102;
-    W -> GREEK_102;
     edge [color=black];
     GREEK_102 -> GREEK_103;
     GREEK_300;
@@ -10,7 +9,8 @@ digraph G {
     GREEK_300 -> GREEK_301;
     GREEK_304;
     GREEK_305;
-    GREEK_306;
+    edge [color=black];
+    GREEK_305 -> GREEK_306;
     edge [color=black];
     GREEK_306 -> GREEK_307;
     GREEK_308;
