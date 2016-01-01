@@ -1,0 +1,22 @@
+digraph G {
+    edge [color=black];
+    CSSS_321 -> SOC_322;
+    edge [color=black];
+    admission_to_graduate_program_in_sociology -> SOC_500;
+    edge [color=black];
+    SOC_504 -> SOC_529;
+    SOC_505 -> SOC_529;
+    SOC_506 -> SOC_529;
+    edge [color=black];
+    SOC_504 -> SOC_536;
+    SOC_505 -> SOC_536;
+    SOC_506 -> SOC_536;
+    edge [color=black];
+    SOC_504 -> SOC_560;
+    SOC_505 -> SOC_560;
+    SOC_506 -> SOC_560;
+    edge [color=black];
+    SOC_504 -> SOC_565;
+    SOC_505 -> SOC_565;
+    SOC_506 -> SOC_565;
+}

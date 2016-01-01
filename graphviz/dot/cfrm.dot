@@ -1,0 +1,35 @@
+digraph G {
+    edge [color=black];
+    CFRM_541 -> CFRM_510;
+    edge [color=black];
+    CFRM_541 -> CFRM_542;
+    edge [color=black];
+    CFRM_541 -> CFRM_543;
+    CFRM_542 -> CFRM_543;
+    edge [color=black];
+    CFRM_540 -> CFRM_544;
+    edge [color=red];
+    CFRM_541 -> CFRM_544;
+    edge [color=black];
+    CFRM_541 -> CFRM_545;
+    edge [color=black];
+    CFRM_545 -> CFRM_546;
+    edge [color=black];
+    CFRM_540 -> CFRM_548;
+    edge [color=black];
+    CFRM_541 -> CFRM_552;
+    MBA_level_investments_course_or_equivalent -> CFRM_552;
+    edge [color=black];
+    CFRM_541 -> CFRM_553;
+    edge [color=black];
+    CFRM_541 -> CFRM_554;
+    edge [color=black];
+    CFRM_540 -> CFRM_555;
+    edge [color=red];
+    linear_algebra_and_matrix_notation -> CFRM_555;
+    edge [color=blue];
+    statistics_and_probability -> CFRM_555;
+    edge [color=green];
+    R_language_and_MS_Excel -> CFRM_555;
+    MS_Excel -> CFRM_555;
+}

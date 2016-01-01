@@ -1,0 +1,26 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> ORALB_449;
+    edge [color=black];
+    permission_of_instructor -> ORALB_550;
+    edge [color=black];
+    permission_of_instructor -> ORALB_561;
+    edge [color=black];
+    permission_of_instructor -> ORALB_562;
+    edge [color=black];
+    permission_of_instructor -> ORALB_565;
+    edge [color=black];
+    permission_of_instructor -> ORALB_566;
+    edge [color=black];
+    permission_of_instructor -> ORALB_575;
+    edge [color=black];
+    permission_of_instructor -> ORALB_578;
+    edge [color=black];
+    BIOC_405 -> ORALB_579;
+    BIOC_406 -> ORALB_579;
+    edge [color=black];
+    BIOC_405 -> ORALB_580;
+    BIOC_406 -> ORALB_580;
+    edge [color=black];
+    permission_of_instructor -> ORALB_600;
+}

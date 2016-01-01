@@ -1,0 +1,7 @@
+digraph G {
+    edge [color=black];
+    POL_S_249 -> HSTCMP_457;
+    S_249 -> HSTCMP_457;
+    HIST_249 -> HSTCMP_457;
+    SOC_266 -> HSTCMP_457;
+}

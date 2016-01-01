@@ -1,0 +1,12 @@
+digraph G {
+    edge [color=black];
+    SLAV_110 -> SLAV_351;
+    LING_200 -> SLAV_351;
+    LING_400 -> SLAV_351;
+    edge [color=black];
+    permission_of_instructor_and_undergraduate_adviser -> SLAV_499;
+    edge [color=black];
+    SLAV_110 -> SLAV_551;
+    LING_200 -> SLAV_551;
+    LING_400 -> SLAV_551;
+}

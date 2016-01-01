@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    at_least_one_previous_course_in_philosophy -> JSISC_418;
+    edge [color=black];
+    MAIS_program_or_permission_of_instructor -> JSISC_501;
+    edge [color=black];
+    MAIS_program_or_permission_of_instructor -> JSISC_502;
+}

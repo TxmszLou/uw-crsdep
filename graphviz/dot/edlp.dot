@@ -1,0 +1,26 @@
+digraph G {
+    edge [color=black];
+    doctoral_status_in_education -> EDLPS_525;
+    edge [color=black];
+    doctoral_status_in_education -> EDLPS_526;
+    edge [color=black];
+    Leadership_for_Learning_EdD_students_only -> EDLPS_547;
+    edge [color=black];
+    Leadership_for_Learning_EdD_students_only -> EDLPS_548;
+    edge [color=black];
+    Leadership_for_Learning_EdD_students_only -> EDLPS_554;
+    edge [color=black];
+    Leadership_for_Learning_EdD_students_only -> EDLPS_555;
+    edge [color=black];
+    Leadership_for_Learning_EdD_students_only -> EDLPS_556;
+    edge [color=black];
+    Leadership_for_Learning_EdD_students_only -> EDLPS_557;
+    edge [color=black];
+    Leadership_for_Learning_EdD_students_only -> EDLPS_571;
+    edge [color=black];
+    Leadership_for_Learning_EdD_students_only -> EDLPS_572;
+    edge [color=black];
+    permission_of_instructor -> EDLPS_600;
+    edge [color=black];
+    permission_of_Supervisory_Committee_Chairperson_or_Graduate_Program_Adviser -> EDLPS_601;
+}

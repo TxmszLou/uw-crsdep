@@ -1,0 +1,5 @@
+digraph G {
+    edge [color=black];
+    L_ARCH_331 -> LARCH_432;
+    ARCH_331 -> LARCH_432;
+}

@@ -1,0 +1,20 @@
+digraph G {
+    edge [color=black];
+    ITAL_101 -> ITAL_102;
+    IT_TL_placement_test -> ITAL_102;
+    TL_placement_test -> ITAL_102;
+    edge [color=black];
+    ITAL_102 -> ITAL_103;
+    ITAL_111 -> ITAL_103;
+    IT_TL_placement_test -> ITAL_103;
+    TL_placement_test -> ITAL_103;
+    edge [color=black];
+    ITAL_103 -> ITAL_234;
+    ITAL_113 -> ITAL_234;
+    ITAL_134 -> ITAL_234;
+    IT_TL_placement_test -> ITAL_234;
+    TL_placement_test -> ITAL_234;
+    edge [color=black];
+    ITAL_203 -> ITAL_334;
+    ITAL_234 -> ITAL_334;
+}

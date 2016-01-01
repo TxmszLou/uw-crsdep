@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    SCAND_518 -> SCAND_594;
+    edge [color=black];
+    SCAND_518 -> SCAND_595;
+    edge [color=red];
+    SCAND_594 -> SCAND_595;
+}

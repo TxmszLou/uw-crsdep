@@ -1,0 +1,10 @@
+digraph G {
+    edge [color=black];
+    LAW_A_507 -> LAWA_558;
+    A_507 -> LAWA_558;
+    edge [color=black];
+    LAW_A_505 -> LAWA_576;
+    A_505 -> LAWA_576;
+    edge [color=black];
+    LIS_591 -> LAWA_599;
+}

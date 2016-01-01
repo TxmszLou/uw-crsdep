@@ -1,0 +1,5 @@
+digraph G {
+    edge [color=black];
+    I_BUS_300 -> IBUS_495;
+    BUS_300 -> IBUS_495;
+}

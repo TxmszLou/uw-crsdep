@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    permission_of_assistant_dean_for_curriculum -> HUBIO_501;
+    edge [color=black];
+    firstyear_medical_students -> HUBIO_590;
+    edge [color=black];
+    IHOP_students_only -> HUBIO_595;
+}

@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    NME_220 -> NME_221;
+    edge [color=black];
+    NME_321 -> NME_421;
+}

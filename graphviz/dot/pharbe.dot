@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    PHARE_500 -> PHARBE_501;
+    edge [color=black];
+    PHARBE_502 -> PHARBE_503;
+}

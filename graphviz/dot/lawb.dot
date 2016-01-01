@@ -1,0 +1,12 @@
+digraph G {
+    edge [color=black];
+    LAW_B_520 -> LAWB_521;
+    B_520 -> LAWB_521;
+    edge [color=red];
+    permission_of_the_Director_of_the_Trial_Advocacy_Program -> LAWB_521;
+    edge [color=black];
+    Clinical_basis_for_continued_work -> LAWB_532;
+    edge [color=black];
+    LAW_A_580 -> LAWB_575;
+    A_580 -> LAWB_575;
+}

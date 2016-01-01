@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> ASIAN_503;
+    edge [color=black];
+    proficiency_in_an_Asian_language_Creditnocredit_only -> ASIAN_510;
+    edge [color=black];
+    permission_of_instructor -> ASIAN_585;
+}

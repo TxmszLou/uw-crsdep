@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    HUM_594 -> HUM_602;
+}

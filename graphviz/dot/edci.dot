@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    EDCI_534 -> EDCI_535;
+    edge [color=black];
+    permission_based_on_approval_of_proposal_submitted_during_quarter_preceding_the_internship -> EDCI_601;
+}

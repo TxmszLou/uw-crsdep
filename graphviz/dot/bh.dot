@@ -1,0 +1,14 @@
+digraph G {
+    edge [color=black];
+    GENOME_361 -> BH_514;
+    GENOME_371 -> BH_514;
+    edge [color=black];
+    permission_of_instructor -> BH_548;
+    edge [color=black];
+    LAW_H_504 -> BH_551;
+    H_504 -> BH_551;
+    H_514 -> BH_551;
+    PHG_512 -> BH_551;
+    edge [color=black];
+    permission_of_instructor -> BH_595;
+}

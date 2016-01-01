@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    HSERV_511 -> HSMGMT_571;
+    ACCTG_500 -> HSMGMT_571;
+    ACCTG_501 -> HSMGMT_571;
+}

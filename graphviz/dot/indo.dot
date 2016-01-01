@@ -1,0 +1,18 @@
+digraph G {
+    edge [color=black];
+    INDO_111 -> INDO_112;
+    edge [color=black];
+    INDO_112 -> INDO_113;
+    edge [color=black];
+    INDO_113 -> INDO_211;
+    edge [color=black];
+    INDO_211 -> INDO_212;
+    edge [color=black];
+    INDO_212 -> INDO_213;
+    edge [color=black];
+    INDO_213 -> INDO_311;
+    edge [color=black];
+    INDO_311 -> INDO_312;
+    edge [color=black];
+    INDO_312 -> INDO_313;
+}

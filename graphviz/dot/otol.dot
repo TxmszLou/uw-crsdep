@@ -1,0 +1,30 @@
+digraph G {
+    edge [color=black];
+    first_or_secondyear_medical_student_standing -> OTOHN_501;
+    edge [color=black];
+    human_biology_series -> OTOHN_678;
+    edge [color=black];
+    human_biology_series -> OTOHN_679;
+    edge [color=black];
+    human_biology_series -> OTOHN_680;
+    edge [color=black];
+    human_biology_series -> OTOHN_681;
+    edge [color=black];
+    human_biology_series -> OTOHN_682;
+    edge [color=black];
+    completion_of_human_biology_series -> OTOHN_683;
+    edge [color=black];
+    human_biology_series -> OTOHN_684;
+    edge [color=black];
+    human_biology_series -> OTOHN_685;
+    edge [color=black];
+    permission_of_course_director -> OTOHN_686;
+    edge [color=black];
+    human_biology_series -> OTOHN_687;
+    edge [color=black];
+    human_biology_series -> OTOHN_688;
+    edge [color=black];
+    permission_of_clerkship_director -> OTOHN_697;
+    edge [color=black];
+    permission_of_department -> OTOHN_699;
+}

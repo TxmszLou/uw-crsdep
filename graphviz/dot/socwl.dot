@@ -1,0 +1,9 @@
+digraph G {
+    edge [color=black];
+    SOC_WL_587 -> SOCWL_589;
+    WL_587 -> SOCWL_589;
+    SOC_WL_588 -> SOCWL_589;
+    WL_588 -> SOCWL_589;
+    edge [color=black];
+    approval_of_a_wellspecified_plan_by_the_instructor_and_program_director -> SOCWL_600;
+}

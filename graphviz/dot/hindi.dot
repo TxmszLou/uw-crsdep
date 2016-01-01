@@ -1,0 +1,12 @@
+digraph G {
+    edge [color=black];
+    HINDI_311 -> HINDI_312;
+    edge [color=black];
+    HINDI_312 -> HINDI_313;
+    edge [color=black];
+    HINDI_313 -> HINDI_321;
+    edge [color=black];
+    HINDI_321 -> HINDI_322;
+    edge [color=black];
+    HINDI_322 -> HINDI_323;
+}

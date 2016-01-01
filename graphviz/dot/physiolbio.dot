@@ -1,0 +1,34 @@
+digraph G {
+    edge [color=black];
+    P_BIO_505 -> PBIO_506;
+    BIO_505 -> PBIO_506;
+    edge [color=black];
+    BIOL_201 -> PBIO_509;
+    BIOL_202 -> PBIO_509;
+    BIOL_203 -> PBIO_509;
+    BIOL_180 -> PBIO_509;
+    BIOL_200 -> PBIO_509;
+    BIOL_220 -> PBIO_509;
+    edge [color=red];
+    BIOC_440 -> PBIO_509;
+    BIOC_441 -> PBIO_509;
+    BIOC_442 -> PBIO_509;
+    edge [color=black];
+    permission_of_instructor -> PBIO_519;
+    edge [color=black];
+    permission_of_instructor -> PBIO_522;
+    edge [color=black];
+    permission_of_instructor -> PBIO_523;
+    edge [color=black];
+    permission_of_instructor -> PBIO_525;
+    edge [color=black];
+    permission_of_instructor -> PBIO_526;
+    edge [color=black];
+    permission_of_instructor -> PBIO_527;
+    edge [color=black];
+    NEUBEH_501 -> PBIO_545;
+    NEUBEH_502 -> PBIO_545;
+    NEUBEH_503 -> PBIO_545;
+    edge [color=black];
+    CONJ_531 -> PBIO_550;
+}

@@ -1,0 +1,10 @@
+digraph G {
+    edge [color=black];
+    permission_of_faculty_adviser_and_Graduate_Program_Coordinator -> EDUC_700;
+    edge [color=black];
+    permission_of_faculty_adviser_and_Graduate_Program_Coordinator -> EDUC_750;
+    edge [color=black];
+    permission_of_Supervisory_Committee_Chairperson_and_Graduate_Program_Coordinator -> EDUC_800;
+    edge [color=black];
+    permission_of_Supervisory_Committee_Chairperson_and_Graduate_Program_Coordinator -> EDUC_801;
+}

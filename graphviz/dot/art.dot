@@ -1,0 +1,7 @@
+digraph G {
+    edge [color=black];
+    ART_242 -> ART_340;
+    edge [color=black];
+    ART_390 -> ART_491;
+    ART_391 -> ART_491;
+}

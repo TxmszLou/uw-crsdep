@@ -1,0 +1,10 @@
+digraph G {
+    edge [color=black];
+    permission_of_department -> MED_505;
+    edge [color=black];
+    permission_of_instructor -> MED_507;
+    edge [color=red];
+    FAMED_556 -> MED_507;
+    edge [color=black];
+    permission_of_instructor -> MED_600;
+}

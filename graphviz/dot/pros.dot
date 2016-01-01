@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    permission_of_Graduate_Program_Adviser -> PROS_600;
+    edge [color=black];
+    permission_of_instructor -> PROS_650;
+}

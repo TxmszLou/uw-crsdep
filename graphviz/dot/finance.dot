@@ -1,0 +1,16 @@
+digraph G {
+    edge [color=black];
+    FIN_350 -> FIN_454;
+    edge [color=red];
+    either_B -> FIN_454;
+    edge [color=black];
+    FIN_350 -> FIN_457;
+    edge [color=red];
+    B_ECON_300 -> FIN_457;
+    ECON_300 -> FIN_457;
+    ECON_300 -> FIN_457;
+    edge [color=black];
+    FIN_350 -> FIN_495;
+    edge [color=black];
+    MBA_core_courses -> FIN_557;
+}

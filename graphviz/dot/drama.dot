@@ -1,0 +1,14 @@
+digraph G {
+    edge [color=black];
+    DRAMA_251 -> DRAMA_252;
+    edge [color=black];
+    DRAMA_302 -> DRAMA_416;
+    edge [color=black];
+    admission_to_the_Professional_Actor_Training_Program -> DRAMA_555;
+    edge [color=black];
+    admission_to_the_Professional_Actor_Training_Program -> DRAMA_557;
+    edge [color=black];
+    DRAMA_557 -> DRAMA_558;
+    edge [color=black];
+    DRAMA_558 -> DRAMA_559;
+}

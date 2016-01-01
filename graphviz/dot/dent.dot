@@ -1,0 +1,12 @@
+digraph G {
+    edge [color=black];
+    PHCOL_434 -> DENT_540;
+    edge [color=red];
+    PHCOL_435 -> DENT_540;
+    edge [color=black];
+    permission_of_instructor -> DENT_650;
+    edge [color=black];
+    permission_of_instructor -> DENT_660;
+    edge [color=black];
+    permission_of_instructor -> DENT_690;
+}

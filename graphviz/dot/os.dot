@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> OS_565;
+    edge [color=black];
+    permission_of_the_Director_of_Harborview_Medical_Centers_Oral_and_Maxillofacial_Surgery_Department -> OS_651;
+}

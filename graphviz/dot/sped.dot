@@ -1,0 +1,11 @@
+digraph G {
+    edge [color=black];
+    enrollment_in_a_special_education_program_approved_plan_of_study_and_permission_of_the_instructor -> EDSPE_500;
+    edge [color=black];
+    EDPSY_490 -> EDSPE_517;
+    EDSPE_591 -> EDSPE_517;
+    edge [color=black];
+    EDTEP_522 -> EDSPE_523;
+    edge [color=black];
+    graduate_standing_and_permission_based_on_prearrangement_of_internship_placement_and_approval_by_adviser -> EDSPE_601;
+}

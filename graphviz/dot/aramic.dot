@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    ARAMIC_412 -> ARAMIC_423;
+}

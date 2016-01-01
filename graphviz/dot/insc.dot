@@ -1,0 +1,16 @@
+digraph G {
+    edge [color=black];
+    LIS_530 -> INSC_535;
+    edge [color=black];
+    INSC_565 -> INSC_566;
+    edge [color=black];
+    INSC_575 -> INSC_576;
+    edge [color=black];
+    permission_of_instructor -> INSC_579;
+    edge [color=black];
+    introductory_coursework_in_project_management_or_permission_of_instructor -> INSC_588;
+    edge [color=black];
+    permission_of_instructor_and_PhD -> INSC_599;
+    edge [color=black];
+    permission_of_Supervisory_Committee_or_graduate_program_adviser -> INSC_600;
+}

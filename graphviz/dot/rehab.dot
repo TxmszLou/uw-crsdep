@@ -1,0 +1,14 @@
+digraph G {
+    edge [color=black];
+    resident_standing_in_rehabilitation_medicine -> REHAB_597;
+    edge [color=red];
+    others_by_permission_of_instructor -> REHAB_597;
+    edge [color=black];
+    resident_standing_in_rehabilitation_medicine -> REHAB_598;
+    edge [color=red];
+    others_by_permission_of_instructor -> REHAB_598;
+    edge [color=black];
+    resident_standing_in_rehabilitation_medicine -> REHAB_599;
+    edge [color=red];
+    others_by_permission_of_instructor -> REHAB_599;
+}

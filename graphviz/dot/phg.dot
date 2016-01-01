@@ -1,0 +1,36 @@
+digraph G {
+    edge [color=black];
+    BIOST_310 -> PHG_302;
+    STAT_220 -> PHG_302;
+    STAT_221 -> PHG_302;
+    STAT_311 -> PHG_302;
+    Q_SCI_381 -> PHG_302;
+    SCI_381 -> PHG_302;
+    Q_METH_201 -> PHG_302;
+    METH_201 -> PHG_302;
+    edge [color=black];
+    EPI_511 -> PHG_511;
+    BIOST_511 -> PHG_511;
+    GENOME_371 -> PHG_511;
+    edge [color=black];
+    GENOME_361 -> PHG_512;
+    GENOME_371 -> PHG_512;
+    edge [color=black];
+    BIOST_513 -> PHG_519;
+    BIOST_518 -> PHG_519;
+    edge [color=red];
+    PHG_511 -> PHG_519;
+    edge [color=blue];
+    or_permission_of_instructor -> PHG_519;
+    edge [color=black];
+    LAW_H_504 -> PHG_523;
+    H_504 -> PHG_523;
+    H_514 -> PHG_523;
+    edge [color=black];
+    background_in_molecular_biology_and_permission_of_instructor -> PHG_536;
+    edge [color=black];
+    LAW_H_504 -> PHG_551;
+    H_504 -> PHG_551;
+    H_514 -> PHG_551;
+    PHG_512 -> PHG_551;
+}

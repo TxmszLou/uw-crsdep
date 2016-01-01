@@ -1,0 +1,17 @@
+digraph G {
+    edge [color=black];
+    FRENCH_303 -> FRENCH_304;
+    edge [color=black];
+    FRENCH_303 -> FRENCH_306;
+    edge [color=black];
+    FRENCH_303 -> FRENCH_411;
+    edge [color=red];
+    FRENCH_304 -> FRENCH_411;
+    edge [color=black];
+    FRENCH_303 -> FRENCH_441;
+    edge [color=red];
+    FRENCH_304 -> FRENCH_441;
+    FRENCH_305 -> FRENCH_441;
+    FRENCH_306 -> FRENCH_441;
+    FRENCH_307 -> FRENCH_441;
+}

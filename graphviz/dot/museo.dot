@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    MUSEUM_574 -> MUSEUM_576;
+    edge [color=red];
+    MUSEUM_575 -> MUSEUM_576;
+    edge [color=black];
+    MUSEUM_596 -> MUSEUM_597;
+}

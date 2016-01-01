@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    ADMIN_511 -> ADMIN_514;
+    edge [color=red];
+    ADMIN_512 -> ADMIN_514;
+    edge [color=black];
+    ADMIN_514 -> ADMIN_515;
+}

@@ -1,0 +1,5 @@
+digraph G {
+    edge [color=black];
+    POL_S_532 -> JSISD_533;
+    S_532 -> JSISD_533;
+}

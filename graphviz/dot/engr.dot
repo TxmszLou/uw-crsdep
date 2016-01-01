@@ -1,0 +1,7 @@
+digraph G {
+    edge [color=black];
+    MATH_136 -> ENGR_360;
+    MATH_307 -> ENGR_360;
+    edge [color=red];
+    PHYS_123 -> ENGR_360;
+}

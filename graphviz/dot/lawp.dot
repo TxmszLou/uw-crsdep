@@ -1,0 +1,21 @@
+digraph G {
+    edge [color=black];
+    LAW_P_501 -> LAWP_504;
+    P_501 -> LAWP_504;
+    LAW_E_567 -> LAWP_504;
+    E_567 -> LAWP_504;
+    edge [color=black];
+    LAW_A_546 -> LAWP_545;
+    A_546 -> LAWP_545;
+    LAW_P_501 -> LAWP_545;
+    P_501 -> LAWP_545;
+    edge [color=black];
+    LAW_A_522 -> LAWP_567;
+    A_522 -> LAWP_567;
+    LAW_A_546 -> LAWP_567;
+    A_546 -> LAWP_567;
+    LAW_E_588 -> LAWP_567;
+    E_588 -> LAWP_567;
+    LAW_P_501 -> LAWP_567;
+    P_501 -> LAWP_567;
+}

@@ -1,0 +1,10 @@
+digraph G {
+    edge [color=black];
+    SNKRT_301 -> SNKRT_302;
+    edge [color=black];
+    SNKRT_302 -> SNKRT_303;
+    edge [color=black];
+    SNKRT_303 -> SNKRT_401;
+    edge [color=black];
+    SNKRT_403 -> SNKRT_411;
+}

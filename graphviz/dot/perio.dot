@@ -1,0 +1,18 @@
+digraph G {
+    edge [color=black];
+    PERIO_525 -> PERIO_530;
+    PERIO_527 -> PERIO_530;
+    edge [color=black];
+    PERIO_561 -> PERIO_566;
+    edge [color=black];
+    PERIO_517 -> PERIO_630;
+    PERIO_525 -> PERIO_630;
+    edge [color=black];
+    PERIO_517 -> PERIO_631;
+    PERIO_525 -> PERIO_631;
+    edge [color=black];
+    PERIO_517 -> PERIO_632;
+    PERIO_525 -> PERIO_632;
+    edge [color=black];
+    permission_of_department_chairperson -> PERIO_663;
+}

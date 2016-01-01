@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> PEDO_600;
+    edge [color=black];
+    permission_of_instructor -> PEDO_650;
+}

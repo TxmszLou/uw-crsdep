@@ -1,0 +1,31 @@
+digraph G {
+    edge [color=black];
+    KOREAN_101 -> KOREAN_102;
+    edge [color=black];
+    KOREAN_102 -> KOREAN_103;
+    edge [color=black];
+    KR100A_placement_test -> KOREAN_135;
+    edge [color=black];
+    KOREAN_103 -> KOREAN_201;
+    KOREAN_134 -> KOREAN_201;
+    edge [color=black];
+    KOREAN_201 -> KOREAN_202;
+    edge [color=black];
+    KOREAN_202 -> KOREAN_203;
+    edge [color=black];
+    KOREAN_135 -> KOREAN_211;
+    edge [color=black];
+    KOREAN_211 -> KOREAN_212;
+    edge [color=black];
+    KOREAN_212 -> KOREAN_213;
+    edge [color=black];
+    KOREAN_203 -> KOREAN_301;
+    KOREAN_212 -> KOREAN_301;
+    KOREAN_213 -> KOREAN_301;
+    edge [color=black];
+    KOREAN_301 -> KOREAN_302;
+    edge [color=black];
+    KOREAN_302 -> KOREAN_303;
+    edge [color=black];
+    KOREAN_303 -> KOREAN_411;
+}

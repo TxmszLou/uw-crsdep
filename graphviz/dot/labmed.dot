@@ -1,0 +1,19 @@
+digraph G {
+    edge [color=black];
+    LAB_M_429 -> LABM_430;
+    M_429 -> LABM_430;
+    edge [color=black];
+    permission_of_instructor -> LABM_510;
+    edge [color=black];
+    graduate_student_standing_in_Laboratory_Medicine_or_permission_of_instructor -> LABM_520;
+    edge [color=black];
+    graduate_standing_and_permission_of_instructor -> LABM_521;
+    edge [color=black];
+    permission_of_instructor -> LABM_590;
+    edge [color=black];
+    graduate_standing_in_laboratory_medicine -> LABM_600;
+    edge [color=black];
+    graduate_standing_in_laboratory_medicine -> LABM_601;
+    edge [color=black];
+    completion_of_required_clerkships -> LABM_685;
+}

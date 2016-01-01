@@ -1,0 +1,32 @@
+digraph G {
+    edge [color=black];
+    one_astronomy_course_at_either_the_100_200_or_300level -> ASTR_270;
+    edge [color=black];
+    ASTR_321 -> ASTR_300;
+    ASTR_322 -> ASTR_300;
+    ASTR_323 -> ASTR_300;
+    edge [color=black];
+    PHYS_224 -> ASTR_321;
+    edge [color=black];
+    PHYS_224 -> ASTR_322;
+    edge [color=black];
+    ASTR_322 -> ASTR_323;
+    edge [color=black];
+    ASTR_322 -> ASTR_421;
+    edge [color=black];
+    ASTR_300 -> ASTR_480;
+    edge [color=red];
+    ASTR_323 -> ASTR_480;
+    edge [color=black];
+    ASTR_480 -> ASTR_481;
+    edge [color=black];
+    ASTR_481 -> ASTR_482;
+    ASTR_499 -> ASTR_482;
+    PHYS_494 -> ASTR_482;
+    PHYS_495 -> ASTR_482;
+    PHYS_496 -> ASTR_482;
+    edge [color=black];
+    permission_of_department -> ASTR_575;
+    edge [color=black];
+    permission_of_department -> ASTR_576;
+}

@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    B_A_500 -> QMETH_503;
+    A_500 -> QMETH_503;
+    QMETH_500 -> QMETH_503;
+    edge [color=black];
+    doctoral_student_status -> QMETH_599;
+}

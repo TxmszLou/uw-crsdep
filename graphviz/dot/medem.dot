@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> MEDEM_501;
+    edge [color=black];
+    EM_clerkship -> MEDEM_697;
+    edge [color=red];
+    permission_of_instructor_at_away_site_and_department -> MEDEM_697;
+}

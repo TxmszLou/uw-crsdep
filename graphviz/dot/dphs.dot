@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    enrollment_in_School_of_Dentistry_or_permission_of_instructor -> DPHS_568;
+    edge [color=black];
+    graduate_standing_in_dentistry_or_permission_of_instructor -> DPHS_660;
+}

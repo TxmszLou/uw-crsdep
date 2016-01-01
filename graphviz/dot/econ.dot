@@ -1,0 +1,37 @@
+digraph G {
+    edge [color=black];
+    ECON_200 -> ECON_201;
+    edge [color=black];
+    ECON_200 -> ECON_300;
+    edge [color=red];
+    MATH_112 -> ECON_300;
+    MATH_124 -> ECON_300;
+    MATH_127 -> ECON_300;
+    MATH_134 -> ECON_300;
+    MATH_145 -> ECON_300;
+    edge [color=black];
+    ECON_201 -> ECON_301;
+    edge [color=red];
+    ECON_300 -> ECON_301;
+    edge [color=black];
+    ECON_200 -> ECON_346;
+    edge [color=black];
+    ECON_300 -> ECON_447;
+    edge [color=black];
+    ECON_300 -> ECON_452;
+    edge [color=black];
+    SMEA_500 -> ECON_537;
+    edge [color=black];
+    MATH_112 -> ECON_568;
+    MATH_124 -> ECON_568;
+    MATH_134 -> ECON_568;
+    edge [color=red];
+    STAT_311 -> ECON_568;
+    edge [color=black];
+    STAT_311 -> ECON_580;
+    edge [color=red];
+    MATH_136 -> ECON_580;
+    MATH_126 -> ECON_580;
+    MATH_308 -> ECON_580;
+    MATH_309 -> ECON_580;
+}

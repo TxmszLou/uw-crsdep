@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    Master_of_Arts_degree_in_history_or_permission_of_instructor -> HSTRY_571;
+}

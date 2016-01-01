@@ -1,0 +1,13 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> ORALM_564;
+    edge [color=black];
+    ORALM_404 -> ORALM_584;
+    ORALM_664 -> ORALM_584;
+    edge [color=black];
+    permission_of_instructor -> ORALM_601;
+    edge [color=black];
+    permission_of_instructor -> ORALM_650;
+    edge [color=black];
+    ORALM_564 -> ORALM_664;
+}

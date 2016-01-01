@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    DESIGN_211 -> DESIGN_488;
+    edge [color=red];
+    DESIGN_212 -> DESIGN_488;
+}

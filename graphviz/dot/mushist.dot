@@ -1,0 +1,36 @@
+digraph G {
+    edge [color=black];
+    MUSIC_120 -> MUHST_210;
+    edge [color=red];
+    MUSIC_203 -> MUHST_210;
+    MUSIC_206 -> MUHST_210;
+    edge [color=black];
+    MUSIC_203 -> MUHST_211;
+    MUSIC_206 -> MUHST_211;
+    edge [color=red];
+    MUSIC_120 -> MUHST_211;
+    edge [color=black];
+    MUHST_211 -> MUHST_212;
+    edge [color=black];
+    MUHST_210 -> MUHST_301;
+    edge [color=red];
+    MUSIC_303 -> MUHST_301;
+    edge [color=blue];
+    MUSIC_306 -> MUHST_301;
+    edge [color=black];
+    MUHST_210 -> MUHST_310;
+    edge [color=red];
+    MUSIC_303 -> MUHST_310;
+    edge [color=blue];
+    MUSIC_306 -> MUHST_310;
+    edge [color=black];
+    MUSIC_303 -> MUHST_311;
+    edge [color=red];
+    MUSIC_306 -> MUHST_311;
+    edge [color=blue];
+    MUHST_210 -> MUHST_311;
+    edge [color=black];
+    MUHST_210 -> MUHST_422;
+    MUSIC_303 -> MUHST_422;
+    MUSIC_306 -> MUHST_422;
+}

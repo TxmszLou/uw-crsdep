@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    graduate_standing_with_background_in_art_history_architecture_architectural_history_or_permission_of_instructor -> ARTH_591;
+}

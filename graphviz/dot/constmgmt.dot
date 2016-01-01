@@ -1,0 +1,36 @@
+digraph G {
+    edge [color=black];
+    CM_310 -> CM_311;
+    edge [color=red];
+    CM_313 -> CM_311;
+    edge [color=black];
+    CM_323 -> CM_331;
+    edge [color=black];
+    CM_331 -> CM_410;
+    edge [color=red];
+    CM_332 -> CM_410;
+    edge [color=black];
+    CM_331 -> CM_411;
+    edge [color=black];
+    CM_421 -> CM_412;
+    edge [color=black];
+    CM_332 -> CM_415;
+    edge [color=black];
+    ARCH_322 -> CM_420;
+    edge [color=black];
+    CM_410 -> CM_421;
+    edge [color=red];
+    CM_411 -> CM_421;
+    edge [color=black];
+    CM_411 -> CM_422;
+    edge [color=black];
+    CM_421 -> CM_423;
+    edge [color=black];
+    ARCH_322 -> CM_430;
+    edge [color=black];
+    CM_421 -> CM_431;
+    edge [color=black];
+    ARCH_322 -> CM_432;
+    edge [color=red];
+    CM_323 -> CM_432;
+}

@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    PHARM_504 -> PHRMRA_527;
+    edge [color=black];
+    introductory_statistics -> PHRMRA_545;
+    edge [color=black];
+    PHRMRA_546 -> PHRMRA_550;
+}

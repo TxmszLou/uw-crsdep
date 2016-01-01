@@ -1,0 +1,12 @@
+digraph G {
+    edge [color=black];
+    BIME_530 -> BIME_533;
+    edge [color=black];
+    background_in_molecular_biology_and_permission_of_instructor -> BIME_536;
+    edge [color=black];
+    permission_of_instructor -> BIME_540;
+    edge [color=black];
+    either_introductory_level_courses_in_statistics_epidemiology_or_biostatistics_or_permission_of_instructor -> BIME_541;
+    edge [color=black];
+    permission_of_instructor -> BIME_590;
+}

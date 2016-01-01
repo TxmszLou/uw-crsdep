@@ -1,0 +1,21 @@
+digraph G {
+    edge [color=black];
+    basic_ecology_course_or_permission_of_instructor -> SEFS_501;
+    edge [color=black];
+    Q_SCI_482 -> SEFS_502;
+    SCI_482 -> SEFS_502;
+    edge [color=black];
+    one_soils_course_or_permission_of_instructor -> SEFS_512;
+    edge [color=black];
+    CFR_510 -> SEFS_513;
+    edge [color=black];
+    general_chemistry_and_geology_of_soils -> SEFS_514;
+    edge [color=black];
+    one_botany_or_plant_science_course_instrumental_analysis_soils -> SEFS_515;
+    edge [color=black];
+    ESRM_428 -> SEFS_526;
+    edge [color=black];
+    MATH_308 -> SEFS_540;
+    edge [color=black];
+    SEFS_501 -> SEFS_541;
+}

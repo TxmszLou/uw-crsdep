@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    graduate_standing -> QUAT_502;
+    edge [color=black];
+    background_courses_in_earth_sciences_and_ecology -> QUAT_504;
+}

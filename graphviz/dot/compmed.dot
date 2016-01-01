@@ -1,0 +1,25 @@
+digraph G {
+    edge [color=black];
+    PATH_444 -> CMED_512;
+    PATH_445 -> CMED_512;
+    edge [color=black];
+    PATH_500 -> CMED_514;
+    edge [color=black];
+    permission_of_instructor -> CMED_516;
+    edge [color=black];
+    PATH_500 -> CMED_518;
+    edge [color=black];
+    permission_of_instructor -> CMED_520;
+    edge [color=black];
+    permission_of_instructor -> CMED_521;
+    edge [color=black];
+    permission_of_instructor -> CMED_530;
+    edge [color=black];
+    permission_of_instructor -> CMED_531;
+    edge [color=black];
+    permission_of_instructor -> CMED_540;
+    edge [color=black];
+    permission_of_instructor -> CMED_590;
+    edge [color=black];
+    DVM_degree -> CMED_601;
+}

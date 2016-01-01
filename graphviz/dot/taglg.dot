@@ -1,0 +1,19 @@
+digraph G {
+    edge [color=black];
+    TAGLG_101 -> TAGLG_102;
+    edge [color=black];
+    TAGLG_102 -> TAGLG_103;
+    edge [color=black];
+    TAGLG_103 -> TAGLG_201;
+    TAGLG_134 -> TAGLG_201;
+    edge [color=black];
+    TAGLG_201 -> TAGLG_202;
+    edge [color=black];
+    TAGLG_202 -> TAGLG_203;
+    edge [color=black];
+    TAGLG_203 -> TAGLG_301;
+    edge [color=black];
+    TAGLG_301 -> TAGLG_302;
+    edge [color=black];
+    TAGLG_302 -> TAGLG_303;
+}

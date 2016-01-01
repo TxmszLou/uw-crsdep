@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    ENGL_102 -> ENGL_103;
+    edge [color=black];
+    ENGL_571 -> ENGL_570;
+}

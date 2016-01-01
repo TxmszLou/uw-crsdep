@@ -1,0 +1,31 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> NEURL_505;
+    edge [color=black];
+    NBIO_301 -> NEURL_555;
+    IMMUN_441 -> NEURL_555;
+    edge [color=black];
+    medicine_or_family_medicine_or_surgery_or_pediatrics -> NEURL_632;
+    edge [color=black];
+    medicine_or_family_medicine_or_surgery_or_pediatrics -> NEURL_633;
+    edge [color=black];
+    medicine_or_family_medicine_or_surgery_or_pediatrics -> NEURL_642;
+    edge [color=black];
+    medicine_or_family_medicine_or_surgery_or_pediatrics -> NEURL_649;
+    edge [color=black];
+    medicine_or_family_medicine_or_surgery_or_pediatrics -> NEURL_650;
+    edge [color=black];
+    either_medicine_family_medicine_surgery_or_pediatrics -> NEURL_651;
+    edge [color=black];
+    medicine_or_family_medicine_or_surgery_or_pediatrics -> NEURL_652;
+    edge [color=black];
+    medicine_or_family_medicine_or_surgery_or_pediatrics -> NEURL_655;
+    edge [color=black];
+    medicine_or_family_medicine_or_surgery_or_pediatrics -> NEURL_665;
+    edge [color=black];
+    MED_665 -> NEURL_681;
+    edge [color=black];
+    NEURL_665 -> NEURL_687;
+    edge [color=black];
+    edge [color=black];
+}

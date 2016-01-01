@@ -1,0 +1,13 @@
+digraph G {
+    edge [color=black];
+    students_must_be_accepted_to_an_international_program_prior_to_registration -> CHID_298;
+    edge [color=black];
+    DIS_STCHIDLSJ_230 -> CHID_430;
+    STCHIDLSJ_230 -> CHID_430;
+    DIS_ST_332 -> CHID_430;
+    ST_332 -> CHID_430;
+    DIS_ST_433 -> CHID_430;
+    ST_433 -> CHID_430;
+    DIS_ST_434 -> CHID_430;
+    ST_434 -> CHID_430;
+}

@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    social_work_major -> SOCW_524;
+    edge [color=black];
+    completion_of_foundation_courses_and_practicum -> SOCW_525;
+    edge [color=black];
+    approval_of_a_wellspecified_plan_by_an_instructor_and_program_director_including_learning_objectives_and_activities -> SOCW_599;
+}

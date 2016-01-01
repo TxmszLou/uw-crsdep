@@ -1,0 +1,12 @@
+digraph G {
+    edge [color=black];
+    OPMGT_301 -> OPMGT_495;
+    edge [color=black];
+    doctoral_student_or_permission_of_instructor -> OPMGT_581;
+    edge [color=black];
+    doctoral_student_or_permission_of_instructor -> OPMGT_582;
+    edge [color=black];
+    doctoral_student_or_permission_of_instructor -> OPMGT_583;
+    edge [color=black];
+    QMETH_580 -> OPMGT_584;
+}

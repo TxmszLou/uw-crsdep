@@ -1,0 +1,12 @@
+digraph G {
+    edge [color=black];
+    BULGR_401 -> BULGR_402;
+    edge [color=black];
+    BULGR_402 -> BULGR_403;
+    edge [color=black];
+    BULGR_403 -> BULGR_404;
+    edge [color=black];
+    BULGR_404 -> BULGR_405;
+    edge [color=black];
+    BULGR_405 -> BULGR_406;
+}

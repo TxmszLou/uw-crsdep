@@ -1,0 +1,7 @@
+digraph G {
+    edge [color=black];
+    ARAB_203 -> ARAB_401;
+    edge [color=black];
+    ARAB_513 -> ARAB_525;
+    ARAB_515 -> ARAB_525;
+}

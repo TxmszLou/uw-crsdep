@@ -1,0 +1,14 @@
+digraph G {
+    edge [color=black];
+    either_one_philosophy_or_one_environmental_studies_course -> PHIL_416;
+    edge [color=black];
+    one_philosophy_course -> PHIL_417;
+    edge [color=black];
+    at_least_one_previous_course_in_philosophy -> PHIL_418;
+    edge [color=black];
+    LING_442 -> PHIL_479;
+    edge [color=black];
+    PHIL_course -> PHIL_495;
+    edge [color=black];
+    graduate_standing_in_philosophy -> PHIL_505;
+}

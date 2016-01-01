@@ -1,0 +1,33 @@
+digraph G {
+    edge [color=black];
+    BSE_391 -> BSE_392;
+    edge [color=black];
+    CHEM_237 -> BSE_406;
+    CHEM_335 -> BSE_406;
+    edge [color=black];
+    BSE_406 -> BSE_420;
+    edge [color=black];
+    BSE_392 -> BSE_421;
+    BSE_420 -> BSE_421;
+    edge [color=black];
+    BSE_421 -> BSE_422;
+    edge [color=black];
+    BSE_420 -> BSE_426;
+    edge [color=red];
+    Q_SCI_381 -> BSE_426;
+    SCI_381 -> BSE_426;
+    edge [color=black];
+    BSE_392 -> BSE_430;
+    CHEM_E_340 -> BSE_430;
+    E_340 -> BSE_430;
+    edge [color=black];
+    BSE_430 -> BSE_436;
+    edge [color=black];
+    BSE_406 -> BSE_480;
+    edge [color=red];
+    BSE_420 -> BSE_480;
+    edge [color=blue];
+    BSE_430 -> BSE_480;
+    edge [color=black];
+    BSE_480 -> BSE_481;
+}

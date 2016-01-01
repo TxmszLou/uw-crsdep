@@ -1,0 +1,18 @@
+digraph G {
+    edge [color=black];
+    NMETH_528 -> NMETH_529;
+    edge [color=black];
+    NMETH_535 -> NMETH_533;
+    edge [color=black];
+    NGS_555 -> NMETH_535;
+    edge [color=black];
+    NMETH_535 -> NMETH_536;
+    edge [color=black];
+    graduate_standing_and_basic_research_methods_course_or_permission_of_instructor -> NMETH_581;
+    edge [color=black];
+    permission_of_instructor -> NMETH_593;
+    edge [color=black];
+    NMETH_520 -> NMETH_598;
+    edge [color=black];
+    permission_of_Supervisory_Committee_chairperson_or_Graduate_Program_Coordinator -> NMETH_800;
+}

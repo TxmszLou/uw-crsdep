@@ -1,0 +1,12 @@
+digraph G {
+    edge [color=black];
+    CZECH_401 -> CZECH_402;
+    edge [color=black];
+    CZECH_402 -> CZECH_403;
+    edge [color=black];
+    CZECH_403 -> CZECH_404;
+    edge [color=black];
+    CZECH_404 -> CZECH_405;
+    edge [color=black];
+    CZECH_405 -> CZECH_406;
+}

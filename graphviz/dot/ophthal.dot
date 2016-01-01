@@ -1,0 +1,27 @@
+digraph G {
+    edge [color=black];
+    first_and_secondyear_medical_student_standing_and_permission_of_instructor -> OPHTH_501;
+    edge [color=black];
+    completion_of_human_biology_series -> OPHTH_681;
+    edge [color=black];
+    completion_of_human_biology_series -> OPHTH_683;
+    edge [color=black];
+    completion_of_human_biology_series -> OPHTH_685;
+    edge [color=black];
+    completion_of_human_biology_series -> OPHTH_686;
+    edge [color=black];
+    MED_665 -> OPHTH_688;
+    SURG_665 -> OPHTH_688;
+    edge [color=red];
+    fourthyear_medical_students_only -> OPHTH_688;
+    edge [color=black];
+    completion_of_human_biology_series -> OPHTH_689;
+    edge [color=black];
+    completion_of_human_biology_series -> OPHTH_690;
+    edge [color=black];
+    completion_of_human_biology_series -> OPHTH_691;
+    edge [color=black];
+    permission_of_instructor -> OPHTH_697;
+    edge [color=black];
+    permission_of_department -> OPHTH_699;
+}

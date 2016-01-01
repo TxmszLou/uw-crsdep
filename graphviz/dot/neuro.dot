@@ -1,0 +1,29 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> NEURO_512;
+    edge [color=black];
+    graduate_standing_in_the_neurobiology_and_behavior_graduate_program_and_permission_of_the_instructor -> NEURO_515;
+    edge [color=black];
+    firstyear_graduate_students_in_neurobiology -> NEURO_526;
+    edge [color=black];
+    graduate_student_in_neurobiology_and_behavior_program_or_permission_of_instructor -> NEURO_527;
+    edge [color=black];
+    elementary_calculus_linear_algebra_and_statistics_or_permission_of_instructor -> NEURO_528;
+    edge [color=black];
+    BIOL_201 -> NEURO_541;
+    BIOL_202 -> NEURO_541;
+    BIOL_203 -> NEURO_541;
+    BIOL_180 -> NEURO_541;
+    BIOL_200 -> NEURO_541;
+    BIOL_220 -> NEURO_541;
+    edge [color=red];
+    BIOC_440 -> NEURO_541;
+    BIOC_441 -> NEURO_541;
+    BIOC_442 -> NEURO_541;
+    edge [color=black];
+    NEUBEH_501 -> NEURO_545;
+    NEUBEH_502 -> NEURO_545;
+    NEUBEH_503 -> NEURO_545;
+    edge [color=black];
+    CONJ_531 -> NEURO_550;
+}

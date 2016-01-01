@@ -1,0 +1,12 @@
+digraph G {
+    edge [color=black];
+    BIO_A_201 -> BIOA_355;
+    A_201 -> BIOA_355;
+    BIOL_180 -> BIOA_355;
+    edge [color=black];
+    BIO_A_388 -> BIOA_389;
+    A_388 -> BIOA_389;
+    edge [color=black];
+    BIO_A_201 -> BIOA_465;
+    A_201 -> BIOA_465;
+}

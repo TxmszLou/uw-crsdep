@@ -1,0 +1,8 @@
+digraph G {
+    edge [color=black];
+    MKTG_301 -> MGMT_445;
+    edge [color=black];
+    MGMT_300 -> MGMT_495;
+    edge [color=black];
+    MBA_required_courses -> MGMT_504;
+}

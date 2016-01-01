@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> ANEST_501;
+}

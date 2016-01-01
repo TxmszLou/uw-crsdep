@@ -1,0 +1,11 @@
+digraph G {
+    edge [color=black];
+    DIS_STCHIDLSJ_230 -> LSJ_430;
+    STCHIDLSJ_230 -> LSJ_430;
+    DIS_ST_332 -> LSJ_430;
+    ST_332 -> LSJ_430;
+    DIS_ST_433 -> LSJ_430;
+    ST_433 -> LSJ_430;
+    DIS_ST_434 -> LSJ_430;
+    ST_434 -> LSJ_430;
+}

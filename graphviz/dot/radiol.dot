@@ -1,0 +1,14 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor -> RADGY_505;
+    edge [color=black];
+    permission_of_instructor -> RADGY_580;
+    edge [color=black];
+    permission_faculty_sponsor -> RADGY_600;
+    edge [color=black];
+    permission_of_instructor_and_departmental_education_coordinator -> RADGY_694;
+    edge [color=black];
+    permission_of_instructor -> RADGY_696;
+    edge [color=black];
+    permission_of_radiology_education_coordinator -> RADGY_697;
+}

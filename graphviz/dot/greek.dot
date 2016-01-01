@@ -1,0 +1,10 @@
+digraph G {
+    edge [color=black];
+    GREEK_101 -> GREEK_102;
+    edge [color=black];
+    GREEK_102 -> GREEK_103;
+    edge [color=black];
+    GREEK_300 -> GREEK_301;
+    edge [color=black];
+    GREEK_306 -> GREEK_307;
+}

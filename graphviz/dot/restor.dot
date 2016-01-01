@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    permission_of_Graduate_Program_Adviser -> RESD_600;
+}

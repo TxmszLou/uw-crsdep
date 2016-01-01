@@ -1,0 +1,13 @@
+digraph G {
+    edge [color=black];
+    GENOME_361 -> LAWH_504;
+    GENOME_371 -> LAWH_504;
+    edge [color=black];
+    LAW_H_504 -> LAWH_520;
+    H_504 -> LAWH_520;
+    H_514 -> LAWH_520;
+    edge [color=black];
+    limited_to_students_in_the_graduate_program_in_health_law -> LAWH_599;
+    edge [color=red];
+    must_be_approved_by_the_program_director -> LAWH_599;
+}

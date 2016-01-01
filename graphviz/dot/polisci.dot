@@ -1,0 +1,30 @@
+digraph G {
+    edge [color=black];
+    AES_150 -> POLS_315;
+    AFRAM_150 -> POLS_315;
+    AFRAM_201 -> POLS_315;
+    POL_S_201 -> POLS_315;
+    S_201 -> POLS_315;
+    edge [color=black];
+    ECON_300 -> POLS_416;
+    edge [color=black];
+    POL_S_249 -> POLS_457;
+    S_249 -> POLS_457;
+    HIST_249 -> POLS_457;
+    SOC_266 -> POLS_457;
+    edge [color=black];
+    POL_S_501 -> POLS_510;
+    S_501 -> POLS_510;
+    edge [color=red];
+    POL_S_503 -> POLS_510;
+    S_503 -> POLS_510;
+    edge [color=black];
+    POL_S_532 -> POLS_533;
+    S_532 -> POLS_533;
+    edge [color=black];
+    a_course_on_contemporary_Chinese_politics_or_history_or_permission_of_instructor -> POLS_535;
+    edge [color=black];
+    permission_of_instructor -> POLS_537;
+    edge [color=black];
+    permission_of_instructor -> POLS_539;
+}

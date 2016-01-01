@@ -1,0 +1,32 @@
+digraph G {
+    edge [color=black];
+    basic_human_physiology_or_permission_of_instructor -> NSG_508;
+    edge [color=black];
+    NSG_545 -> NSG_550;
+    B_NURS_513 -> NSG_550;
+    NURS_513 -> NSG_550;
+    T_NURS_513 -> NSG_550;
+    NURS_513 -> NSG_550;
+    edge [color=red];
+    NSG_546 -> NSG_550;
+    B_NURS_511 -> NSG_550;
+    NURS_511 -> NSG_550;
+    T_NURS_511 -> NSG_550;
+    NURS_511 -> NSG_550;
+    edge [color=black];
+    NMETH_536 -> NSG_553;
+    edge [color=black];
+    NCLIN_502 -> NSG_560;
+    edge [color=red];
+    NURS_518 -> NSG_560;
+    edge [color=blue];
+    NURS_529 -> NSG_560;
+    edge [color=black];
+    NCLIN_518 -> NSG_565;
+    edge [color=red];
+    permission_of_instructor -> NSG_565;
+    edge [color=black];
+    PHARM_514 -> NSG_567;
+    edge [color=red];
+    permission_of_instructor -> NSG_567;
+}

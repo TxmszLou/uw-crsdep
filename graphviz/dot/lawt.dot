@@ -1,0 +1,5 @@
+digraph G {
+    edge [color=black];
+    LAW_T_513 -> LAWT_514;
+    T_513 -> LAWT_514;
+}

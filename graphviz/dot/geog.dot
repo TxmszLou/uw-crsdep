@@ -1,0 +1,18 @@
+digraph G {
+    edge [color=black];
+    GEOG_360 -> GEOG_458;
+    edge [color=black];
+    GEOG_360 -> GEOG_461;
+    edge [color=black];
+    GEOG_461 -> GEOG_469;
+    GEOG_462 -> GEOG_469;
+    edge [color=black];
+    GEOG_560 -> GEOG_561;
+    edge [color=black];
+    GEOG_561 -> GEOG_569;
+    GEOG_562 -> GEOG_569;
+    edge [color=black];
+    familiarity_with_social_science_research -> GEOG_580;
+    edge [color=red];
+    healthrelated_issues -> GEOG_580;
+}

@@ -1,0 +1,10 @@
+digraph G {
+    edge [color=black];
+    R_E_552 -> RE_554;
+    E_552 -> RE_554;
+    edge [color=black];
+    R_E_552 -> RE_571;
+    E_552 -> RE_571;
+    edge [color=black];
+    permission_of_instructor -> RE_598;
+}

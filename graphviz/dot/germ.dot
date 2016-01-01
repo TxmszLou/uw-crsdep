@@ -1,0 +1,14 @@
+digraph G {
+    edge [color=black];
+    GER_TL_placement_test_if_German_is_language_of_admission -> GERMAN_101;
+    TL_placement_test_if_German_is_language_of_admission -> GERMAN_101;
+    edge [color=black];
+    GERMAN_101 -> GERMAN_102;
+    edge [color=black];
+    GERMAN_102 -> GERMAN_103;
+    GERMAN_111 -> GERMAN_103;
+    edge [color=black];
+    GERMAN_203 -> GERMAN_304;
+    edge [color=black];
+    6_credits_of_upperlevel_German_language_courses -> GERMAN_446;
+}

@@ -1,0 +1,25 @@
+digraph G {
+    edge [color=black];
+    GEOG_317 -> URBDP_422;
+    GEOG_360 -> URBDP_422;
+    GEOG_461 -> URBDP_422;
+    GEOG_462 -> URBDP_422;
+    GEOG_465 -> URBDP_422;
+    FISH_452 -> URBDP_422;
+    OCEAN_452 -> URBDP_422;
+    edge [color=black];
+    CEP_200 -> URBDP_502;
+    URBDP_300 -> URBDP_502;
+    edge [color=black];
+    ARCH_500 -> URBDP_508;
+    ARCH_507 -> URBDP_508;
+    edge [color=black];
+    R_E_552 -> URBDP_554;
+    E_552 -> URBDP_554;
+    edge [color=black];
+    PB_AF_516 -> URBDP_561;
+    AF_516 -> URBDP_561;
+    edge [color=black];
+    R_E_552 -> URBDP_578;
+    E_552 -> URBDP_578;
+}

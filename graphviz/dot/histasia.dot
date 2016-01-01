@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    previous_course_work_in_Japanese_history_or_economic_history_or_permission_of_instructor -> HSTAS_541;
+    edge [color=black];
+    HSTAS_454 -> HSTAS_579;
+}

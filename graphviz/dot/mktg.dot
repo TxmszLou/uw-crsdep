@@ -1,0 +1,14 @@
+digraph G {
+    edge [color=black];
+    MKTG_301 -> MKTG_445;
+    edge [color=black];
+    MKTG_301 -> MKTG_455;
+    edge [color=red];
+    may_not_be_repeated -> MKTG_455;
+    edge [color=black];
+    MKTG_301 -> MKTG_495;
+    edge [color=black];
+    B_A_501 -> MKTG_555;
+    A_501 -> MKTG_555;
+    MKGT_501 -> MKTG_555;
+}

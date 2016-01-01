@@ -1,0 +1,18 @@
+digraph G {
+    edge [color=black];
+    SPH_380 -> SPH_381;
+    edge [color=red];
+    BIOL_118 -> SPH_381;
+    BIOL_180 -> SPH_381;
+    CHEM_120 -> SPH_381;
+    CHEM_142 -> SPH_381;
+    CHEM_145 -> SPH_381;
+    MICROM_301 -> SPH_381;
+    MICROM_302 -> SPH_381;
+    edge [color=black];
+    EPI_320 -> SPH_480;
+    edge [color=red];
+    SPH_381 -> SPH_480;
+    edge [color=black];
+    SPH_480 -> SPH_481;
+}

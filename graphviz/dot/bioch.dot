@@ -1,0 +1,37 @@
+digraph G {
+    edge [color=black];
+    BIOL_200 -> BIOC_405;
+    edge [color=red];
+    CHEM_223 -> BIOC_405;
+    CHEM_237 -> BIOC_405;
+    CHEM_335 -> BIOC_405;
+    edge [color=black];
+    BIOC_405 -> BIOC_406;
+    edge [color=black];
+    BIOC_440 -> BIOC_426;
+    edge [color=black];
+    BIOL_200 -> BIOC_440;
+    edge [color=red];
+    CHEM_224 -> BIOC_440;
+    CHEM_239 -> BIOC_440;
+    CHEM_337 -> BIOC_440;
+    edge [color=blue];
+    MATH_124 -> BIOC_440;
+    MATH_134 -> BIOC_440;
+    MATH_144 -> BIOC_440;
+    edge [color=black];
+    BIOC_440 -> BIOC_441;
+    edge [color=black];
+    BIOC_406 -> BIOC_442;
+    BIOC_441 -> BIOC_442;
+    edge [color=black];
+    permission_of_instructor -> BIOC_520;
+    edge [color=black];
+    a_comprehensive_course_in_biochemistry_and_permission -> BIOC_530;
+    edge [color=black];
+    permission_of_instructor -> BIOC_533;
+    edge [color=black];
+    permission_of_instructor -> BIOC_534;
+    edge [color=black];
+    graduate_standing_in_biochemistry_or_permission_of_instructor -> BIOC_581;
+}

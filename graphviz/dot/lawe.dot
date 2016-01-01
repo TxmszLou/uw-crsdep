@@ -1,0 +1,31 @@
+digraph G {
+    edge [color=black];
+    LAW_A_504 -> LAWE_518;
+    A_504 -> LAWE_518;
+    edge [color=black];
+    LAW_A_526 -> LAWE_523;
+    A_526 -> LAWE_523;
+    LAW_E_547 -> LAWE_523;
+    E_547 -> LAWE_523;
+    LAW_A_546 -> LAWE_523;
+    A_546 -> LAWE_523;
+    edge [color=black];
+    LAW_E_553 -> LAWE_554;
+    E_553 -> LAWE_554;
+    edge [color=black];
+    LAW_B_556 -> LAWE_560;
+    B_556 -> LAWE_560;
+    edge [color=black];
+    permission_of_the_instructor -> LAWE_592;
+    edge [color=black];
+    LAW_A_527 -> LAWE_594;
+    A_527 -> LAWE_594;
+    LAW_B_585 -> LAWE_594;
+    B_585 -> LAWE_594;
+    edge [color=red];
+    LAW_A_509 -> LAWE_594;
+    A_509 -> LAWE_594;
+    edge [color=black];
+    LAW_A_579 -> LAWE_599;
+    A_579 -> LAWE_599;
+}

@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    SWED_courses -> SWED_510;
+}

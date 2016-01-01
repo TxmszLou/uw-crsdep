@@ -1,0 +1,6 @@
+digraph G {
+    edge [color=black];
+    permission_of_instructor_and_doctoral_candidacy -> MCB_560;
+    edge [color=black];
+    permission_of_instructor -> MCB_580;
+}

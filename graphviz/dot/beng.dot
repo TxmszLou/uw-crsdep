@@ -1,0 +1,18 @@
+digraph G {
+    edge [color=black];
+    BENG_311 -> BENG_312;
+    edge [color=black];
+    BENG_312 -> BENG_313;
+    edge [color=black];
+    BENG_313 -> BENG_321;
+    edge [color=black];
+    BENG_321 -> BENG_322;
+    edge [color=black];
+    BENG_322 -> BENG_323;
+    edge [color=black];
+    BENG_323 -> BENG_401;
+    edge [color=black];
+    BENG_401 -> BENG_402;
+    edge [color=black];
+    BENG_402 -> BENG_403;
+}

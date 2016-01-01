@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    permission_of_department_and_faculty_sponsor -> RONC_600;
+}

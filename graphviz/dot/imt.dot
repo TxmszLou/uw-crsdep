@@ -1,0 +1,10 @@
+digraph G {
+    edge [color=black];
+    INFX_543 -> IMT_576;
+    edge [color=black];
+    introductory_coursework_in_project_management_or_permission_of_instructor -> IMT_588;
+    edge [color=black];
+    MSIM_program -> IMT_590;
+    edge [color=black];
+    MSIM_program -> IMT_600;
+}

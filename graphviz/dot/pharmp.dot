@@ -1,0 +1,18 @@
+digraph G {
+    edge [color=black];
+    PHARM_584 -> PHARMP_511;
+    edge [color=black];
+    PHARMP_511 -> PHARMP_512;
+    edge [color=black];
+    PHARMP_512 -> PHARMP_513;
+    edge [color=black];
+    PHARMP_513 -> PHARMP_514;
+    edge [color=black];
+    PHARMP_514 -> PHARMP_531;
+    edge [color=black];
+    PHARMP_531 -> PHARMP_532;
+    edge [color=black];
+    PHARMP_532 -> PHARMP_533;
+    edge [color=black];
+    PHARMP_533 -> PHARMP_541;
+}

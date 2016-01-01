@@ -1,0 +1,14 @@
+digraph G {
+    edge [color=black];
+    LIS_530 -> LIS_535;
+    edge [color=black];
+    MLIS_program -> LIS_590;
+    edge [color=black];
+    LIS_591 -> LIS_592;
+    edge [color=black];
+    LIS_591 -> LIS_594;
+    edge [color=black];
+    law_librarianship_majors_or_permission_of_instructor -> LIS_595;
+    edge [color=black];
+    MLIS_degree_plan -> LIS_596;
+}

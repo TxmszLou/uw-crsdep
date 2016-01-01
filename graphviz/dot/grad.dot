@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    permission_of_faculty_member_graduate_program_coordinator_and_the_Associate_Dean_of_the_Graduate_School -> GRDSCH_610;
+}

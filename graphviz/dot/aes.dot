@@ -1,0 +1,4 @@
+digraph G {
+    edge [color=black];
+    GWSS_200 -> AES_322;
+}
