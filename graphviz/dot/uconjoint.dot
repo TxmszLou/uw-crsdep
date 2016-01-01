@@ -18,7 +18,8 @@ digraph G {
     background_in_neurophysiology_neuroanatomy_molecular_neurobiology -> UCONJ_524;
     edge [color=black];
     firstyear_graduate_student_in_neurobiology -> UCONJ_525;
-    UCONJ_530;
+    edge [color=black];
+    current_health_science_student_or_permission_of_instructor -> UCONJ_530;
     UCONJ_531;
     UCONJ_532;
     UCONJ_545;

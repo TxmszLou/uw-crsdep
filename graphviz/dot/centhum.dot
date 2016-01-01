@@ -9,5 +9,6 @@ digraph G {
     HUM_601;
     edge [color=black];
     HUM_594 -> HUM_602;
+    AWSpS -> HUM_602;
     HUM_603;
 }

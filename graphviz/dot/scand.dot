@@ -57,7 +57,8 @@ digraph G {
     SCAND_500;
     SCAND_501;
     SCAND_503;
-    SCAND_504;
+    edge [color=black];
+    graduate_student_standing_or_permission_of_instructor -> SCAND_504;
     SCAND_505;
     SCAND_508;
     SCAND_515;
@@ -79,7 +80,8 @@ digraph G {
     SCAND_518 -> SCAND_595;
     edge [color=red];
     SCAND_594 -> SCAND_595;
-    SCAND_600;
+    edge [color=black];
+    permission_of_instructor -> SCAND_600;
     SCAND_700;
     SCAND_800;
 }

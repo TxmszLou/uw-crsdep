@@ -15,7 +15,8 @@ digraph G {
     EDSPE_505;
     EDSPE_507;
     EDSPE_510;
-    EDSPE_511;
+    edge [color=black];
+    EDSPE_510 -> EDSPE_511;
     EDSPE_513;
     EDSPE_514;
     EDSPE_515;
@@ -41,7 +42,8 @@ digraph G {
     EDSPE_541;
     EDSPE_545;
     EDSPE_546;
-    EDSPE_548;
+    edge [color=black];
+    course_in_learning_theory_introductory_course_in_learning_disabilities_or_equivalent_preparation -> EDSPE_548;
     EDSPE_561;
     EDSPE_562;
     EDSPE_563;

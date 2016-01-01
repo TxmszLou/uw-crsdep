@@ -5,7 +5,10 @@ digraph G {
     permission_of_department -> ORTHP_505;
     edge [color=black];
     secondyear_medical_student_standing -> ORTHP_585;
-    ORTHP_643;
+    edge [color=black];
+    HUBIO_series -> ORTHP_643;
+    edge [color=red];
+    third_and_fourthyear_medical_students -> ORTHP_643;
     edge [color=black];
     HUBIO_series -> ORTHP_644;
     edge [color=red];
@@ -14,10 +17,14 @@ digraph G {
     HUBIO_series -> ORTHP_650;
     edge [color=red];
     third_and_fourthyear_students -> ORTHP_650;
-    ORTHP_655;
+    edge [color=black];
+    HUBIO_series -> ORTHP_655;
+    edge [color=red];
+    third_and_fourthyear_students -> ORTHP_655;
     edge [color=black];
     SURG_665 -> ORTHP_668;
     HUBIO_553 -> ORTHP_668;
+    AWSpS -> ORTHP_668;
     edge [color=black];
     HUBIO_series -> ORTHP_669;
     edge [color=red];
@@ -28,9 +35,11 @@ digraph G {
     edge [color=black];
     SURG_665 -> ORTHP_676;
     HUBIO_553 -> ORTHP_676;
+    AWSpS -> ORTHP_676;
     edge [color=black];
     SURG_665 -> ORTHP_677;
     HUBIO_553 -> ORTHP_677;
+    AWSpS -> ORTHP_677;
     edge [color=black];
     basic_orthopaedic_elective_or_permission_of_instructor -> ORTHP_678;
     edge [color=black];
@@ -46,5 +55,6 @@ digraph G {
     ORTHP_687;
     edge [color=black];
     HUBIO_553 -> ORTHP_697;
-    ORTHP_699;
+    edge [color=black];
+    permission_of_department -> ORTHP_699;
 }

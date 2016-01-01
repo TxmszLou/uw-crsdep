@@ -1,6 +1,7 @@
 digraph G {
     BIME_498;
-    BIME_499;
+    edge [color=black];
+    permission_of_instructor -> BIME_499;
     BIME_520;
     BIME_521;
     BIME_522;
@@ -25,7 +26,9 @@ digraph G {
     permission_of_instructor -> BIME_590;
     BIME_591;
     BIME_598;
-    BIME_600;
-    BIME_700;
+    edge [color=black];
+    permission_of_instructor -> BIME_600;
+    edge [color=black];
+    permission_of_instructor -> BIME_700;
     BIME_800;
 }

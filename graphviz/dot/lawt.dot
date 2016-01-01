@@ -22,7 +22,12 @@ digraph G {
     LAWT_522;
     LAWT_523;
     LAWT_524;
-    LAWT_525;
+    edge [color=black];
+    LAW_A_530 -> LAWT_525;
+    A_530 -> LAWT_525;
+    edge [color=red];
+    LAW_A_515 -> LAWT_525;
+    A_515 -> LAWT_525;
     LAWT_526;
     LAWT_527;
     LAWT_528;

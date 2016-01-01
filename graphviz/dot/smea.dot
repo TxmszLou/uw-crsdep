@@ -18,13 +18,15 @@ digraph G {
     edge [color=black];
     SMEA_500 -> SMEA_507;
     SMEA_508;
-    SMEA_509;
+    edge [color=black];
+    SMEA_500 -> SMEA_509;
     SMEA_510;
     SMEA_511;
     SMEA_512;
     SMEA_514;
     SMEA_515;
-    SMEA_517;
+    edge [color=black];
+    SMEA_500 -> SMEA_517;
     SMEA_519;
     SMEA_521;
     SMEA_523;

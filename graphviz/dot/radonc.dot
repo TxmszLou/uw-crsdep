@@ -3,8 +3,12 @@ digraph G {
     RONC_505;
     edge [color=black];
     permission_of_department_and_faculty_sponsor -> RONC_600;
-    RONC_694;
-    RONC_695;
-    RONC_697;
-    RONC_699;
+    edge [color=black];
+    medicine_core_clerkship_or_permission_of_instructor -> RONC_694;
+    edge [color=black];
+    medicine_core_clerkship_or_permission_of_instructor -> RONC_695;
+    edge [color=black];
+    permission_of_instructor -> RONC_697;
+    edge [color=black];
+    permission_of_department -> RONC_699;
 }

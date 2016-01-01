@@ -2,6 +2,7 @@ digraph G {
     LATIN_101;
     edge [color=black];
     LATIN_101 -> LATIN_102;
+    W -> LATIN_102;
     edge [color=black];
     LATIN_102 -> LATIN_103;
     LATIN_300;
@@ -11,6 +12,7 @@ digraph G {
     LATIN_305;
     edge [color=black];
     LATIN_305 -> LATIN_306;
+    W -> LATIN_306;
     edge [color=black];
     LATIN_306 -> LATIN_307;
     LATIN_401;
@@ -45,6 +47,7 @@ digraph G {
     LATIN_520;
     LATIN_540;
     LATIN_565;
-    LATIN_590;
+    edge [color=black];
+    permission_of_Graduate_Program_Coordinator -> LATIN_590;
     LATIN_600;
 }

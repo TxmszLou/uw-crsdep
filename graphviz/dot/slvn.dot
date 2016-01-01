@@ -1,5 +1,15 @@
 digraph G {
-    SLVN_401;
+    edge [color=black];
+    BCS_403 -> SLVN_401;
+    BULGR_403 -> SLVN_401;
+    CZECH_403 -> SLVN_401;
+    GERMAN_103 -> SLVN_401;
+    ITAL_103 -> SLVN_401;
+    POLISH_403 -> SLVN_401;
+    ROMN_403 -> SLVN_401;
+    RUSS_103 -> SLVN_401;
+    RUSS_150 -> SLVN_401;
+    UKR_403 -> SLVN_401;
     SLVN_402;
     SLVN_404;
     SLVN_406;

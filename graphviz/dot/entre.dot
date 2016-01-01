@@ -9,12 +9,7 @@ digraph G {
     MKTG_301 -> ENTRE_455;
     edge [color=red];
     may_not_be_repeated -> ENTRE_455;
-    edge [color=black];
-    FIN_350 -> ENTRE_457;
-    edge [color=red];
-    B_ECON_300 -> ENTRE_457;
-    ECON_300 -> ENTRE_457;
-    ECON_300 -> ENTRE_457;
+    ENTRE_457;
     ENTRE_459;
     ENTRE_472;
     ENTRE_473;
@@ -31,6 +26,7 @@ digraph G {
     edge [color=red];
     B_A_501 -> ENTRE_530;
     A_501 -> ENTRE_530;
+    W -> ENTRE_530;
     ENTRE_531;
     ENTRE_532;
     ENTRE_540;

@@ -51,6 +51,7 @@ digraph G {
     ECON_200 -> JSIS_501;
     edge [color=red];
     ECON_201 -> JSIS_501;
+    W -> JSIS_501;
     JSIS_511;
     JSIS_513;
     JSIS_530;

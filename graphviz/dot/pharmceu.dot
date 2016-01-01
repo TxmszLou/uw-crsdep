@@ -1,5 +1,6 @@
 digraph G {
-    PCEUT_499;
+    edge [color=black];
+    GPA_of_2 -> PCEUT_499;
     edge [color=black];
     PCEUT_506 -> PCEUT_501;
     edge [color=black];
@@ -31,7 +32,8 @@ digraph G {
     PCEUT_503 -> PCEUT_587;
     edge [color=red];
     or_equivalent_or_instructor_permission -> PCEUT_587;
-    PCEUT_598;
+    edge [color=black];
+    GPA_and_permission_of_instructor -> PCEUT_598;
     PCEUT_599;
     PCEUT_600;
     PCEUT_700;

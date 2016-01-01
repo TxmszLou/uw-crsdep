@@ -106,8 +106,10 @@ digraph G {
     edge [color=black];
     admission_to_graduate_program_in_sociology -> SOC_500;
     SOC_501;
-    SOC_502;
-    SOC_503;
+    edge [color=black];
+    MA -> SOC_502;
+    edge [color=black];
+    MA -> SOC_503;
     SOC_504;
     SOC_505;
     SOC_506;
@@ -142,9 +144,11 @@ digraph G {
     SOC_506 -> SOC_536;
     SOC_537;
     SOC_539;
-    SOC_542;
+    edge [color=black];
+    permission_of_instructor_for_nonmajors -> SOC_542;
     SOC_543;
-    SOC_547;
+    edge [color=black];
+    SOC_514 -> SOC_547;
     SOC_551;
     SOC_553;
     SOC_554;
@@ -154,7 +158,8 @@ digraph G {
     SOC_504 -> SOC_560;
     SOC_505 -> SOC_560;
     SOC_506 -> SOC_560;
-    SOC_562;
+    edge [color=black];
+    graduate_standing_in_social_sciences -> SOC_562;
     edge [color=black];
     SOC_504 -> SOC_565;
     SOC_505 -> SOC_565;

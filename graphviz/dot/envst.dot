@@ -19,6 +19,7 @@ digraph G {
     ENGL_297 -> ENVIR_200;
     ENGL_298 -> ENVIR_200;
     ENGL_299 -> ENVIR_200;
+    AWSp -> ENVIR_200;
     ENVIR_210;
     ENVIR_211;
     ENVIR_221;
@@ -32,11 +33,7 @@ digraph G {
     edge [color=black];
     ENVIR_200 -> ENVIR_300;
     ENVIR_250 -> ENVIR_300;
-    edge [color=black];
-    ESS_101 -> ENVIR_313;
-    ESS_105 -> ENVIR_313;
-    ESS_210 -> ENVIR_313;
-    ESS_211 -> ENVIR_313;
+    ENVIR_313;
     ENVIR_330;
     edge [color=black];
     MATH_112 -> ENVIR_341;
@@ -49,6 +46,11 @@ digraph G {
     CHEM_144 -> ENVIR_341;
     PHYS_114 -> ENVIR_341;
     PHYS_121 -> ENVIR_341;
+    CHEM_E_341 -> ENVIR_341;
+    E_341 -> ENVIR_341;
+    E_341 -> ENVIR_341;
+    edge [color=blue];
+    A -> ENVIR_341;
     ENVIR_350;
     ENVIR_360;
     ENVIR_362;
@@ -77,10 +79,13 @@ digraph G {
     ENVIR_489;
     edge [color=black];
     ENVIR_300 -> ENVIR_490;
+    ASp -> ENVIR_490;
     edge [color=black];
     ENVIR_490 -> ENVIR_491;
+    AWSpS -> ENVIR_491;
     edge [color=black];
     ENVIR_491 -> ENVIR_492;
+    ASp -> ENVIR_492;
     ENVIR_495;
     ENVIR_496;
     ENVIR_497;
@@ -92,6 +97,7 @@ digraph G {
     ENVIR_511;
     edge [color=black];
     ENVIR_511 -> ENVIR_512;
+    W -> ENVIR_512;
     ENVIR_550;
     ENVIR_585;
     ENVIR_600;

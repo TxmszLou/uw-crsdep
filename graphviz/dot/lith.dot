@@ -12,6 +12,7 @@ digraph G {
     edge [color=black];
     LITH_103 -> LITH_250;
     LITH_150 -> LITH_250;
+    S -> LITH_250;
     LITH_310;
     LITH_490;
 }

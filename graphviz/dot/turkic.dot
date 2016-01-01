@@ -1,14 +1,20 @@
 digraph G {
     edge [color=black];
     TKIC_429 -> TKIC_437;
+    A -> TKIC_437;
     edge [color=black];
     TKIC_437 -> TKIC_438;
+    W -> TKIC_438;
     edge [color=black];
     TKIC_438 -> TKIC_439;
     TKIC_542;
     TKIC_543;
-    TKIC_546;
-    TKIC_561;
-    TKIC_562;
-    TKIC_563;
+    edge [color=black];
+    permission_of_instructor -> TKIC_546;
+    edge [color=black];
+    permission_of_instructor -> TKIC_561;
+    edge [color=black];
+    permission_of_instructor -> TKIC_562;
+    edge [color=black];
+    permission_of_instructor -> TKIC_563;
 }

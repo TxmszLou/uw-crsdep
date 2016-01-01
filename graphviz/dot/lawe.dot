@@ -31,6 +31,7 @@ digraph G {
     E_547 -> LAWE_523;
     LAW_A_546 -> LAWE_523;
     A_546 -> LAWE_523;
+    S -> LAWE_523;
     LAWE_524;
     LAWE_525;
     LAWE_526;
@@ -40,7 +41,12 @@ digraph G {
     LAWE_530;
     LAWE_532;
     LAWE_533;
-    LAWE_534;
+    edge [color=black];
+    LAW_B_596 -> LAWE_534;
+    B_596 -> LAWE_534;
+    edge [color=red];
+    LAW_A_574 -> LAWE_534;
+    A_574 -> LAWE_534;
     LAWE_535;
     LAWE_536;
     LAWE_537;
@@ -69,6 +75,7 @@ digraph G {
     edge [color=black];
     LAW_B_556 -> LAWE_560;
     B_556 -> LAWE_560;
+    A -> LAWE_560;
     LAWE_561;
     LAWE_562;
     LAWE_566;
@@ -79,7 +86,9 @@ digraph G {
     LAWE_572;
     LAWE_575;
     LAWE_578;
-    LAWE_579;
+    edge [color=black];
+    LAW_A_506 -> LAWE_579;
+    A_506 -> LAWE_579;
     LAWE_580;
     LAWE_581;
     LAWE_582;
@@ -104,4 +113,5 @@ digraph G {
     edge [color=black];
     LAW_A_579 -> LAWE_599;
     A_579 -> LAWE_599;
+    AWSp -> LAWE_599;
 }

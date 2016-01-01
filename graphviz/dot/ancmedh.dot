@@ -36,9 +36,12 @@ digraph G {
     HSTAM_518;
     HSTAM_530;
     HSTAM_531;
-    HSTAM_532;
-    HSTAM_533;
-    HSTAM_534;
+    edge [color=black];
+    reading_knowledge_of_Latin -> HSTAM_532;
+    edge [color=black];
+    reading_knowledge_of_Latin -> HSTAM_533;
+    edge [color=black];
+    reading_knowledge_of_Latin -> HSTAM_534;
     HSTAM_535;
     HSTAM_536;
     HSTAM_590;

@@ -40,6 +40,7 @@ digraph G {
     ART_339;
     edge [color=black];
     ART_242 -> ART_340;
+    AWSp -> ART_340;
     ART_345;
     ART_350;
     ART_351;
@@ -64,9 +65,7 @@ digraph G {
     ART_457;
     ART_458;
     ART_490;
-    edge [color=black];
-    ART_390 -> ART_491;
-    ART_391 -> ART_491;
+    ART_491;
     ART_492;
     ART_493;
     ART_494;

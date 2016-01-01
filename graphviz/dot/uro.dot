@@ -1,16 +1,24 @@
 digraph G {
     UROL_498;
     UROL_499;
-    UROL_501;
+    edge [color=black];
+    first_or_secondyear_medical_student_standing -> UROL_501;
+    edge [color=red];
+    permission_of_instructor -> UROL_501;
     UROL_675;
     UROL_679;
     UROL_680;
-    UROL_681;
+    edge [color=black];
+    third_or_fourthyear_standing_and_permission_of_instructor -> UROL_681;
     UROL_682;
     UROL_683;
     UROL_684;
-    UROL_685;
-    UROL_690;
-    UROL_697;
-    UROL_699;
+    edge [color=black];
+    MED_665 -> UROL_685;
+    edge [color=black];
+    UROL_680 -> UROL_690;
+    edge [color=black];
+    permission_of_instructor -> UROL_697;
+    edge [color=black];
+    permission_of_department -> UROL_699;
 }

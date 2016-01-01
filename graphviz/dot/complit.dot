@@ -82,11 +82,13 @@ digraph G {
     CLIT_571;
     CLIT_573;
     CLIT_574;
-    CLIT_576;
+    edge [color=black];
+    at_least_one_East_Asian_language -> CLIT_576;
     CLIT_590;
     CLIT_596;
     CLIT_597;
-    CLIT_599;
+    edge [color=black];
+    permission_of_graduate_program_adviser -> CLIT_599;
     CLIT_600;
     CLIT_700;
     CLIT_800;

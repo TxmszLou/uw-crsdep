@@ -7,7 +7,9 @@ digraph G {
     LAWB_510;
     LAWB_511;
     LAWB_512;
-    LAWB_513;
+    edge [color=black];
+    LAW_B_503 -> LAWB_513;
+    B_503 -> LAWB_513;
     LAWB_514;
     LAWB_515;
     LAWB_516;
@@ -22,7 +24,9 @@ digraph G {
     permission_of_the_Director_of_the_Trial_Advocacy_Program -> LAWB_521;
     LAWB_522;
     LAWB_523;
-    LAWB_524;
+    edge [color=black];
+    LAW_B_525 -> LAWB_524;
+    B_525 -> LAWB_524;
     LAWB_525;
     LAWB_526;
     LAWB_527;
@@ -80,7 +84,9 @@ digraph G {
     LAWB_580;
     LAWB_581;
     LAWB_582;
-    LAWB_584;
+    edge [color=black];
+    LAW_A_565 -> LAWB_584;
+    A_565 -> LAWB_584;
     LAWB_585;
     LAWB_589;
     LAWB_590;

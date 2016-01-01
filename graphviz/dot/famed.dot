@@ -27,8 +27,10 @@ digraph G {
     current_graduate_health_science_student -> FAMED_561;
     edge [color=red];
     permission_of_course_coordinator -> FAMED_561;
-    FAMED_630;
-    FAMED_631;
+    edge [color=black];
+    permission_of_course_coordinator -> FAMED_630;
+    edge [color=black];
+    permission_of_course_coordinator -> FAMED_631;
     edge [color=black];
     third_or_fourthyear_medical_students -> FAMED_632;
     FAMED_633;
@@ -66,7 +68,8 @@ digraph G {
     third_or_fourthyear_medical_students_permission_of_course_coordinator -> FAMED_670;
     edge [color=black];
     late_third_or_fourthyear_medical_students_permission_of_course_coordinator -> FAMED_672;
-    FAMED_674;
+    edge [color=black];
+    permission_of_course_faculty -> FAMED_674;
     FAMED_676;
     FAMED_677;
     FAMED_678;

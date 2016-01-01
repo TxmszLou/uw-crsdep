@@ -5,8 +5,10 @@ digraph G {
     CHEM_223 -> BIOC_405;
     CHEM_237 -> BIOC_405;
     CHEM_335 -> BIOC_405;
+    A -> BIOC_405;
     edge [color=black];
     BIOC_405 -> BIOC_406;
+    W -> BIOC_406;
     edge [color=black];
     BIOC_440 -> BIOC_426;
     edge [color=black];
@@ -19,8 +21,10 @@ digraph G {
     MATH_124 -> BIOC_440;
     MATH_134 -> BIOC_440;
     MATH_144 -> BIOC_440;
+    A -> BIOC_440;
     edge [color=black];
     BIOC_440 -> BIOC_441;
+    W -> BIOC_441;
     edge [color=black];
     BIOC_406 -> BIOC_442;
     BIOC_441 -> BIOC_442;

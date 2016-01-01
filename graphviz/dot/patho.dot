@@ -24,7 +24,8 @@ digraph G {
     permission_of_instructor -> PATH_530;
     PATH_535;
     PATH_540;
-    PATH_544;
+    edge [color=black];
+    for_nondental_students_permission_of_instructor -> PATH_544;
     PATH_550;
     edge [color=black];
     Pathology_PhD_student -> PATH_551;
@@ -40,11 +41,13 @@ digraph G {
     PATH_590;
     edge [color=black];
     Pathology_PhD_student -> PATH_600;
-    PATH_667;
+    edge [color=black];
+    permission_of_instructor -> PATH_667;
     PATH_676;
     PATH_677;
     PATH_678;
-    PATH_680;
+    edge [color=black];
+    third_or_fourthyear_medical_student_standing -> PATH_680;
     PATH_681;
     PATH_682;
     PATH_683;
@@ -52,8 +55,10 @@ digraph G {
     PATH_688;
     PATH_690;
     PATH_691;
-    PATH_697;
-    PATH_699;
+    edge [color=black];
+    permission_of_instructor -> PATH_697;
+    edge [color=black];
+    permission_of_department -> PATH_699;
     PATH_700;
     edge [color=black];
     Pathology_PhD_student -> PATH_800;

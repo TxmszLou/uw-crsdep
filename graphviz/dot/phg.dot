@@ -10,6 +10,9 @@ digraph G {
     SCI_381 -> PHG_302;
     Q_METH_201 -> PHG_302;
     METH_201 -> PHG_302;
+    BIOST_302 -> PHG_302;
+    edge [color=red];
+    W -> PHG_302;
     edge [color=black];
     EPI_511 -> PHG_511;
     BIOST_511 -> PHG_511;
@@ -40,7 +43,8 @@ digraph G {
     PHG_512 -> PHG_551;
     PHG_580;
     PHG_590;
-    PHG_595;
+    edge [color=black];
+    practicum_agreement -> PHG_595;
     PHG_600;
     PHG_700;
     PHG_800;

@@ -59,7 +59,8 @@ digraph G {
     HSTEU_490;
     HSTEU_501;
     HSTEU_502;
-    HSTEU_505;
+    edge [color=black];
+    permission_of_instructor -> HSTEU_505;
     HSTEU_506;
     HSTEU_510;
     HSTEU_511;
@@ -79,12 +80,17 @@ digraph G {
     HSTEU_542;
     HSTEU_543;
     HSTEU_544;
-    HSTEU_545;
-    HSTEU_546;
-    HSTEU_547;
+    edge [color=black];
+    reading_knowledge_of_Russian_and_either_French_or_German -> HSTEU_545;
+    edge [color=black];
+    reading_knowledge_of_Russian_and_either_French_or_German -> HSTEU_546;
+    edge [color=black];
+    reading_knowledge_of_Russian_and_either_French_or_German -> HSTEU_547;
     HSTEU_548;
-    HSTEU_551;
-    HSTEU_552;
+    edge [color=black];
+    reading_knowledge_of_German_French_Russian_or_one_East_European_language -> HSTEU_551;
+    edge [color=black];
+    reading_knowledge_of_one_major_European_or_one_East_European_language -> HSTEU_552;
     HSTEU_553;
     HSTEU_554;
     HSTEU_555;
@@ -92,7 +98,9 @@ digraph G {
     HSTEU_572;
     HSTEU_573;
     HSTEU_574;
-    HSTEU_575;
-    HSTEU_576;
+    edge [color=black];
+    HSTEU_571 -> HSTEU_575;
+    edge [color=black];
+    HSTEU_571 -> HSTEU_576;
     HSTEU_590;
 }

@@ -2,12 +2,15 @@ digraph G {
     HINDI_311;
     edge [color=black];
     HINDI_311 -> HINDI_312;
+    W -> HINDI_312;
     edge [color=black];
     HINDI_312 -> HINDI_313;
     edge [color=black];
     HINDI_313 -> HINDI_321;
+    A -> HINDI_321;
     edge [color=black];
     HINDI_321 -> HINDI_322;
+    W -> HINDI_322;
     edge [color=black];
     HINDI_322 -> HINDI_323;
     HINDI_401;
@@ -20,9 +23,14 @@ digraph G {
     HINDI_431;
     HINDI_451;
     HINDI_499;
-    HINDI_501;
-    HINDI_502;
-    HINDI_503;
-    HINDI_504;
-    HINDI_510;
+    edge [color=black];
+    HINDI_403 -> HINDI_501;
+    edge [color=black];
+    HINDI_403 -> HINDI_502;
+    edge [color=black];
+    HINDI_403 -> HINDI_503;
+    edge [color=black];
+    HINDI_403 -> HINDI_504;
+    edge [color=black];
+    HINDI_403 -> HINDI_510;
 }

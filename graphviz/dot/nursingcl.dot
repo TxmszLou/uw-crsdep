@@ -21,13 +21,15 @@ digraph G {
     NCLIN_500 -> NCLIN_501;
     edge [color=black];
     permission_of_instructor -> NCLIN_502;
-    NCLIN_503;
+    edge [color=black];
+    graduate_standing_and_permission_of_instructor -> NCLIN_503;
     edge [color=black];
     NCLIN_501 -> NCLIN_505;
     NCLIN_508;
     NCLIN_510;
     NCLIN_512;
-    NCLIN_514;
+    edge [color=black];
+    NURS_563 -> NCLIN_514;
     NCLIN_516;
     NCLIN_517;
     NCLIN_518;

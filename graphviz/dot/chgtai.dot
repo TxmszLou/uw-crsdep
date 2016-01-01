@@ -4,7 +4,8 @@ digraph G {
     CHGTAI_490;
     CHGTAI_496;
     CHGTAI_499;
-    CHGTAI_541;
+    edge [color=black];
+    either_two_years_of_study_of_any_Turkic_language_or_permission_of_instructor -> CHGTAI_541;
     CHGTAI_542;
     CHGTAI_596;
     CHGTAI_600;

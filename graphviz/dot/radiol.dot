@@ -22,5 +22,6 @@ digraph G {
     permission_of_instructor -> RADGY_696;
     edge [color=black];
     permission_of_radiology_education_coordinator -> RADGY_697;
-    RADGY_699;
+    edge [color=black];
+    permission_of_department -> RADGY_699;
 }

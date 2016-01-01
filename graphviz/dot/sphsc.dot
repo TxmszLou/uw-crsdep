@@ -7,6 +7,7 @@ digraph G {
     SPHSC_303 -> SPHSC_302;
     LING_200 -> SPHSC_302;
     LING_400 -> SPHSC_302;
+    W -> SPHSC_302;
     SPHSC_303;
     edge [color=black];
     SPHSC_303 -> SPHSC_304;
@@ -19,17 +20,16 @@ digraph G {
     SPHSC_304 -> SPHSC_305;
     edge [color=blue];
     SPHSC_320 -> SPHSC_305;
+    A -> SPHSC_305;
     SPHSC_308;
     SPHSC_320;
     SPHSC_371;
     edge [color=black];
     SPHSC_305 -> SPHSC_405;
+    W -> SPHSC_405;
     edge [color=black];
     SPHSC_405 -> SPHSC_406;
-    edge [color=black];
-    PSYCH_206 -> SPHSC_411;
-    PSYCH_306 -> SPHSC_411;
-    PSYCH_414 -> SPHSC_411;
+    SPHSC_411;
     SPHSC_425;
     SPHSC_445;
     SPHSC_449;
@@ -62,8 +62,12 @@ digraph G {
     edge [color=black];
     SPHSC_or_permission_of_instructor -> SPHSC_507;
     SPHSC_509;
-    SPHSC_510;
-    SPHSC_511;
+    edge [color=black];
+    SPHSC_461 -> SPHSC_510;
+    edge [color=black];
+    SPHSC_461 -> SPHSC_511;
+    edge [color=red];
+    permission_of_instructor -> SPHSC_511;
     SPHSC_514;
     SPHSC_518;
     SPHSC_519;
@@ -75,6 +79,7 @@ digraph G {
     SPHSC_525;
     edge [color=black];
     SPHSC_536 -> SPHSC_526;
+    S -> SPHSC_526;
     SPHSC_529;
     edge [color=black];
     SPHSC_501 -> SPHSC_531;
@@ -107,6 +112,7 @@ digraph G {
     or_permission_of_instructor -> SPHSC_543;
     edge [color=black];
     SPHSC_535 -> SPHSC_545;
+    A -> SPHSC_545;
     edge [color=black];
     SPHSC_501 -> SPHSC_546;
     edge [color=red];
@@ -128,6 +134,7 @@ digraph G {
     SPHSC_553;
     edge [color=black];
     SPHSC_553 -> SPHSC_554;
+    AWSpS -> SPHSC_554;
     SPHSC_555;
     SPHSC_556;
     SPHSC_559;
@@ -146,6 +153,7 @@ digraph G {
     SPHSC_471 -> SPHSC_570;
     edge [color=black];
     SPHSC_570 -> SPHSC_571;
+    W -> SPHSC_571;
     edge [color=black];
     SPHSC_570 -> SPHSC_572;
     edge [color=black];
@@ -167,6 +175,7 @@ digraph G {
     edge [color=black];
     SPHSC_571 -> SPHSC_580;
     SPHSC_583 -> SPHSC_580;
+    W -> SPHSC_580;
     SPHSC_581;
     edge [color=black];
     SPHSC_471 -> SPHSC_582;

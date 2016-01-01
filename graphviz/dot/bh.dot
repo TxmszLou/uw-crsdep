@@ -17,7 +17,8 @@ digraph G {
     BH_499;
     BH_501;
     BH_502;
-    BH_505;
+    edge [color=black];
+    permission_of_instructor -> BH_505;
     BH_506;
     BH_509;
     BH_511;
@@ -33,8 +34,10 @@ digraph G {
     BH_536;
     edge [color=black];
     permission_of_instructor -> BH_548;
-    BH_549;
-    BH_550;
+    edge [color=black];
+    permission_of_instructor -> BH_549;
+    edge [color=black];
+    permission_of_instructor -> BH_550;
     edge [color=black];
     LAW_H_504 -> BH_551;
     H_504 -> BH_551;

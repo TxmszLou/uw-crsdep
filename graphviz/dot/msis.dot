@@ -20,6 +20,8 @@ digraph G {
     MSIS_547;
     MSIS_550;
     MSIS_579;
-    MSIS_600;
-    MSIS_601;
+    edge [color=black];
+    permission_of_instructor -> MSIS_600;
+    edge [color=black];
+    permission_of_instructor -> MSIS_601;
 }

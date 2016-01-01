@@ -2,20 +2,26 @@ digraph G {
     TAGLG_101;
     edge [color=black];
     TAGLG_101 -> TAGLG_102;
+    W -> TAGLG_102;
     edge [color=black];
     TAGLG_102 -> TAGLG_103;
     TAGLG_134;
     edge [color=black];
     TAGLG_103 -> TAGLG_201;
     TAGLG_134 -> TAGLG_201;
+    A -> TAGLG_201;
     edge [color=black];
     TAGLG_201 -> TAGLG_202;
+    W -> TAGLG_202;
     edge [color=black];
     TAGLG_202 -> TAGLG_203;
     edge [color=black];
     TAGLG_203 -> TAGLG_301;
+    A -> TAGLG_301;
     edge [color=black];
     TAGLG_301 -> TAGLG_302;
+    A -> TAGLG_302;
     edge [color=black];
     TAGLG_302 -> TAGLG_303;
+    A -> TAGLG_303;
 }

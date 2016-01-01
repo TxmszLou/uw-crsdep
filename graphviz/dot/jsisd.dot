@@ -14,7 +14,8 @@ digraph G {
     JSISD_453;
     JSISD_468;
     JSISD_474;
-    JSISD_511;
+    edge [color=black];
+    two_years_of_classical_or_modern_Chinese -> JSISD_511;
     JSISD_512;
     JSISD_517;
     JSISD_530;
@@ -23,6 +24,7 @@ digraph G {
     S_532 -> JSISD_533;
     JSISD_549;
     JSISD_553;
-    JSISD_564;
+    edge [color=black];
+    some_previous_course_work_on_eastern_Europe -> JSISD_564;
     JSISD_572;
 }

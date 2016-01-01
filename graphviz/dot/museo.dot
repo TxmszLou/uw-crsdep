@@ -24,7 +24,8 @@ digraph G {
     MUSEUM_596 -> MUSEUM_597;
     MUSEUM_599;
     MUSEUM_600;
-    MUSEUM_601;
+    edge [color=black];
+    permission_of_instructor -> MUSEUM_601;
     MUSEUM_700;
     MUSEUM_710;
 }

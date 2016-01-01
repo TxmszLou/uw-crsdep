@@ -2,6 +2,7 @@ digraph G {
     KOREAN_101;
     edge [color=black];
     KOREAN_101 -> KOREAN_102;
+    W -> KOREAN_102;
     edge [color=black];
     KOREAN_102 -> KOREAN_103;
     KOREAN_134;
@@ -18,6 +19,7 @@ digraph G {
     KOREAN_204;
     edge [color=black];
     KOREAN_135 -> KOREAN_211;
+    W -> KOREAN_211;
     edge [color=black];
     KOREAN_211 -> KOREAN_212;
     edge [color=black];
@@ -27,8 +29,10 @@ digraph G {
     KOREAN_203 -> KOREAN_301;
     KOREAN_212 -> KOREAN_301;
     KOREAN_213 -> KOREAN_301;
+    A -> KOREAN_301;
     edge [color=black];
     KOREAN_301 -> KOREAN_302;
+    W -> KOREAN_302;
     edge [color=black];
     KOREAN_302 -> KOREAN_303;
     KOREAN_345;
@@ -36,6 +40,7 @@ digraph G {
     KOREAN_395;
     edge [color=black];
     KOREAN_303 -> KOREAN_411;
+    A -> KOREAN_411;
     KOREAN_412;
     KOREAN_413;
     KOREAN_415;
@@ -47,6 +52,8 @@ digraph G {
     KOREAN_445;
     KOREAN_495;
     KOREAN_499;
-    KOREAN_531;
-    KOREAN_532;
+    edge [color=black];
+    fourthyear_Korean_or_equivalent -> KOREAN_531;
+    edge [color=black];
+    fourthyear_Korean_or_equivalent -> KOREAN_532;
 }

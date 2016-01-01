@@ -1,7 +1,13 @@
 digraph G {
     ENVH_111;
     ENVH_205;
-    ENVH_310;
+    edge [color=black];
+    CHEM_220 -> ENVH_310;
+    CHEM_237 -> ENVH_310;
+    edge [color=red];
+    ENV_H_or_SPH_course -> ENVH_310;
+    H_or_SPH_course -> ENVH_310;
+    SPH_course -> ENVH_310;
     ENVH_311;
     ENVH_320;
     edge [color=black];
@@ -19,9 +25,11 @@ digraph G {
     edge [color=blue];
     ENV_H_311 -> ENVH_431;
     H_311 -> ENVH_431;
+    A -> ENVH_431;
     edge [color=black];
     ENV_H_431 -> ENVH_432;
     H_431 -> ENVH_432;
+    W -> ENVH_432;
     edge [color=black];
     ENV_H_431 -> ENVH_433;
     H_431 -> ENVH_433;
@@ -36,12 +44,15 @@ digraph G {
     CHEM_164 -> ENVH_441;
     edge [color=red];
     MICROM_302 -> ENVH_441;
+    W -> ENVH_441;
     edge [color=black];
     BIOL_220 -> ENVH_442;
+    W -> ENVH_442;
     edge [color=black];
     EPI_320 -> ENVH_444;
     BIOL_220 -> ENVH_444;
     MICROM_301 -> ENVH_444;
+    A -> ENVH_444;
     edge [color=black];
     CHEM_155 -> ENVH_445;
     CHEM_162 -> ENVH_445;
@@ -55,6 +66,7 @@ digraph G {
     CHEM_162 -> ENVH_446;
     edge [color=red];
     MATH_124 -> ENVH_446;
+    W -> ENVH_446;
     ENVH_447;
     ENVH_448;
     ENVH_451;
@@ -66,6 +78,7 @@ digraph G {
     edge [color=blue];
     PHYS_115 -> ENVH_453;
     PHYS_122 -> ENVH_453;
+    A -> ENVH_453;
     ENVH_460;
     ENVH_461;
     ENVH_462;
@@ -128,6 +141,7 @@ digraph G {
     EPI_320 -> ENVH_544;
     BIOL_220 -> ENVH_544;
     MICROM_301 -> ENVH_544;
+    A -> ENVH_544;
     ENVH_545;
     ENVH_546;
     ENVH_547;
@@ -138,6 +152,7 @@ digraph G {
     CHEM_162 -> ENVH_551;
     edge [color=red];
     MATH_124 -> ENVH_551;
+    A -> ENVH_551;
     edge [color=black];
     admission_to_graduate_program_or_permission_of_instructor -> ENVH_552;
     edge [color=black];
@@ -177,6 +192,9 @@ digraph G {
     edge [color=black];
     EPI_511 -> ENVH_573;
     EPI_512 -> ENVH_573;
+    EPI_573 -> ENVH_573;
+    edge [color=red];
+    A -> ENVH_573;
     ENVH_574;
     edge [color=black];
     occupational_medicine_or_preventive_medicine_residentsfellows_nursing_students_or_permission_of_instructor -> ENVH_576;
@@ -204,7 +222,8 @@ digraph G {
     ENVH_592;
     ENVH_593;
     ENVH_594;
-    ENVH_595;
+    edge [color=black];
+    graduate_standing_and_permission_of_program_director -> ENVH_595;
     edge [color=black];
     environmental_health_graduate_student_occupational_health_nursing_student_or_permission_of_instructor -> ENVH_596;
     ENVH_597;

@@ -4,8 +4,7 @@ digraph G {
     AES_211;
     AES_212;
     AES_250;
-    edge [color=black];
-    GWSS_200 -> AES_322;
+    AES_322;
     AES_330;
     AES_333;
     AES_335;

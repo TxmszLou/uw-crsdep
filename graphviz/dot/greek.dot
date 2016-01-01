@@ -2,6 +2,7 @@ digraph G {
     GREEK_101;
     edge [color=black];
     GREEK_101 -> GREEK_102;
+    W -> GREEK_102;
     edge [color=black];
     GREEK_102 -> GREEK_103;
     GREEK_300;
@@ -43,6 +44,7 @@ digraph G {
     GREEK_515;
     GREEK_520;
     GREEK_540;
-    GREEK_590;
+    edge [color=black];
+    permission_of_Graduate_Program_Coordinator -> GREEK_590;
     GREEK_600;
 }

@@ -87,7 +87,8 @@ digraph G {
     ARTH_531;
     ARTH_533;
     ARTH_541;
-    ARTH_551;
+    edge [color=black];
+    permission_of_instructor -> ARTH_551;
     ARTH_561;
     ARTH_577;
     ARTH_581;

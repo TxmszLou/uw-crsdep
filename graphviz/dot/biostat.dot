@@ -10,9 +10,11 @@ digraph G {
     SCI_381 -> BIOST_302;
     Q_METH_201 -> BIOST_302;
     METH_201 -> BIOST_302;
+    PHG_302 -> BIOST_302;
+    edge [color=red];
+    W -> BIOST_302;
     BIOST_310;
-    edge [color=black];
-    STAT_390 -> BIOST_425;
+    BIOST_425;
     BIOST_499;
     BIOST_502;
     edge [color=black];
@@ -47,6 +49,9 @@ digraph G {
     EPI_514 -> BIOST_519;
     edge [color=green];
     EPI_536 -> BIOST_519;
+    EPI_515 -> BIOST_519;
+    edge [color=lightblue];
+    Sp -> BIOST_519;
     edge [color=black];
     BIOST_511 -> BIOST_524;
     BIOST_513 -> BIOST_524;
@@ -62,6 +67,9 @@ digraph G {
     STAT_504 -> BIOST_527;
     BIOST_514 -> BIOST_527;
     BIOST_515 -> BIOST_527;
+    STAT_527 -> BIOST_527;
+    edge [color=red];
+    Sp -> BIOST_527;
     edge [color=black];
     STAT_421 -> BIOST_529;
     STAT_423 -> BIOST_529;
@@ -130,8 +138,14 @@ digraph G {
     a_course_in_matrix_algebra -> BIOST_570;
     edge [color=black];
     BIOST570 -> BIOST_571;
+    STAT_571 -> BIOST_571;
+    edge [color=red];
+    W -> BIOST_571;
     edge [color=black];
     STAT_571 -> BIOST_572;
+    STAT_572 -> BIOST_572;
+    edge [color=red];
+    Sp -> BIOST_572;
     edge [color=black];
     STAT_581 -> BIOST_576;
     BIOST_515 -> BIOST_576;

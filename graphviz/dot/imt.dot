@@ -8,7 +8,8 @@ digraph G {
     IMT_525;
     IMT_530;
     IMT_535;
-    IMT_540;
+    edge [color=black];
+    permission_of_instructor -> IMT_540;
     IMT_541;
     IMT_550;
     IMT_551;
@@ -20,6 +21,7 @@ digraph G {
     IMT_570;
     edge [color=black];
     INFX_543 -> IMT_576;
+    A -> IMT_576;
     IMT_580;
     IMT_582;
     IMT_583;
@@ -32,7 +34,8 @@ digraph G {
     IMT_589;
     edge [color=black];
     MSIM_program -> IMT_590;
-    IMT_598;
+    edge [color=black];
+    permission_of_instructor -> IMT_598;
     edge [color=black];
     MSIM_program -> IMT_600;
 }

@@ -8,12 +8,7 @@ digraph G {
     AFRAM_261;
     AFRAM_270;
     AFRAM_272;
-    edge [color=black];
-    AES_150 -> AFRAM_315;
-    AFRAM_150 -> AFRAM_315;
-    AFRAM_201 -> AFRAM_315;
-    POL_S_201 -> AFRAM_315;
-    S_201 -> AFRAM_315;
+    AFRAM_315;
     AFRAM_318;
     AFRAM_320;
     AFRAM_321;

@@ -13,6 +13,7 @@ digraph G {
     edge [color=black];
     LAB_M_429 -> LABM_430;
     M_429 -> LABM_430;
+    W -> LABM_430;
     LABM_431;
     LABM_432;
     LABM_433;
@@ -36,6 +37,7 @@ digraph G {
     LABM_680;
     edge [color=black];
     completion_of_required_clerkships -> LABM_685;
-    LABM_699;
+    edge [color=black];
+    permission_of_department -> LABM_699;
     LABM_700;
 }

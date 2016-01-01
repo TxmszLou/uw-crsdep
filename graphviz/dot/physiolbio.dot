@@ -21,8 +21,10 @@ digraph G {
     PBIO_513;
     edge [color=black];
     permission_of_instructor -> PBIO_519;
-    PBIO_520;
-    PBIO_521;
+    edge [color=black];
+    permission_of_instructor -> PBIO_520;
+    edge [color=black];
+    permission_of_instructor -> PBIO_521;
     edge [color=black];
     permission_of_instructor -> PBIO_522;
     edge [color=black];
@@ -40,6 +42,9 @@ digraph G {
     PBIO_548;
     edge [color=black];
     CONJ_531 -> PBIO_550;
+    NEURO_550 -> PBIO_550;
+    edge [color=red];
+    Sp_odd_years -> PBIO_550;
     PBIO_554;
     PBIO_555;
     PBIO_556;

@@ -4,8 +4,10 @@ digraph G {
     edge [color=red];
     CHEM_155 -> CONJ_401;
     CHEM_162 -> CONJ_401;
+    A -> CONJ_401;
     edge [color=black];
     CONJ_401 -> CONJ_402;
+    W -> CONJ_402;
     edge [color=black];
     CONJ_402 -> CONJ_403;
     CONJ_475;
@@ -35,14 +37,17 @@ digraph G {
     cell_biology_biochemistry_and_genetics -> CONJ_533;
     CONJ_534;
     CONJ_537;
-    CONJ_538;
+    edge [color=black];
+    permission_of_instructor -> CONJ_538;
     CONJ_539;
-    CONJ_540;
+    edge [color=black];
+    biological_science_course -> CONJ_540;
     edge [color=black];
     comprehensive_undergraduate_course_in_biochemistry_and_molecular_biology_or_permission_of_instructor -> CONJ_541;
     edge [color=black];
     comprehensive_undergraduate_courses_in_biology_molecular_biology_or_permission_of_instructor -> CONJ_542;
-    CONJ_544;
+    edge [color=black];
+    introductory_biochemistry_and_cell_biology -> CONJ_544;
     CONJ_545;
     CONJ_546;
     CONJ_547;
@@ -51,7 +56,8 @@ digraph G {
     advanced_undergraduates_with_permission_of_instructor -> CONJ_549;
     CONJ_550;
     CONJ_551;
-    CONJ_552;
+    edge [color=black];
+    undergraduate_organic_chemistry_and_biochemistry -> CONJ_552;
     CONJ_553;
     CONJ_554;
     CONJ_556;
@@ -71,7 +77,8 @@ digraph G {
     edge [color=black];
     fourth_year_medical_students -> CONJ_625;
     CONJ_626;
-    CONJ_630;
+    edge [color=black];
+    WRITE_committee -> CONJ_630;
     CONJ_655;
     CONJ_656;
     CONJ_657;
@@ -93,9 +100,11 @@ digraph G {
     CONJ_673;
     CONJ_674;
     CONJ_675;
-    CONJ_677;
+    edge [color=black];
+    MED_665 -> CONJ_677;
     CONJ_679;
-    CONJ_680;
+    edge [color=black];
+    Completion_of_3rd_year_psychiatry_clerkship -> CONJ_680;
     CONJ_681;
     CONJ_682;
     CONJ_683;
@@ -113,6 +122,7 @@ digraph G {
     CONJ_695;
     CONJ_696;
     CONJ_697;
-    CONJ_698;
+    edge [color=black];
+    permission_of_Associate_Dean_for_Academic_Affairs_School_of_Medicine -> CONJ_698;
     CONJ_699;
 }

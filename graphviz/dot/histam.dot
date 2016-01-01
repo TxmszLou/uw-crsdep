@@ -87,8 +87,10 @@ digraph G {
     HSTAA_552;
     HSTAA_553;
     HSTAA_554;
-    HSTAA_555;
-    HSTAA_556;
+    edge [color=black];
+    permission_of_instructor_or_graduate_program_coordinator -> HSTAA_555;
+    edge [color=black];
+    permission_of_instructor_or_graduate_program_coordinator -> HSTAA_556;
     HSTAA_561;
     HSTAA_562;
     HSTAA_563;

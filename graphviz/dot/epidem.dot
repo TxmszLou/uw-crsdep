@@ -25,7 +25,10 @@ digraph G {
     EPI_499;
     edge [color=black];
     HSERV_511 -> EPI_501;
-    EPI_502;
+    edge [color=black];
+    NUTR_505 -> EPI_502;
+    edge [color=red];
+    Sp -> EPI_502;
     EPI_503;
     EPI_505;
     edge [color=black];
@@ -36,6 +39,7 @@ digraph G {
     BIOST_511 -> EPI_512;
     edge [color=black];
     EPI_512 -> EPI_513;
+    W -> EPI_513;
     edge [color=black];
     EPI_510 -> EPI_514;
     edge [color=red];
@@ -49,6 +53,9 @@ digraph G {
     EPI_514 -> EPI_515;
     edge [color=green];
     EPI_536 -> EPI_515;
+    BIOST_519 -> EPI_515;
+    edge [color=lightblue];
+    Sp -> EPI_515;
     edge [color=black];
     BIOST_513 -> EPI_516;
     BIOST_518 -> EPI_516;
@@ -64,6 +71,7 @@ digraph G {
     EPI_511 -> EPI_519;
     EPI_512 -> EPI_519;
     EPI_513 -> EPI_519;
+    A -> EPI_519;
     edge [color=black];
     EPI_511 -> EPI_520;
     EPI_512 -> EPI_520;
@@ -75,6 +83,7 @@ digraph G {
     EPI_512 -> EPI_524;
     edge [color=red];
     EPI_513 -> EPI_524;
+    W -> EPI_524;
     EPI_527;
     edge [color=black];
     EPI_513 -> EPI_528;
@@ -113,6 +122,7 @@ digraph G {
     EPI_511 -> EPI_542;
     EPI_512 -> EPI_542;
     EPI_513 -> EPI_542;
+    S -> EPI_542;
     edge [color=black];
     EPI_511 -> EPI_546;
     EPI_512 -> EPI_546;
@@ -136,6 +146,10 @@ digraph G {
     edge [color=black];
     EPI_511 -> EPI_573;
     EPI_512 -> EPI_573;
+    ENV_H_573 -> EPI_573;
+    H_573 -> EPI_573;
+    edge [color=red];
+    A -> EPI_573;
     edge [color=black];
     EPI_512 -> EPI_582;
     edge [color=red];

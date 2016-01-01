@@ -4,6 +4,7 @@ digraph G {
     edge [color=black];
     A_E_501 -> AE_510;
     E_501 -> AE_510;
+    W -> AE_510;
     edge [color=black];
     A_E_501 -> AE_511;
     E_501 -> AE_511;
@@ -23,6 +24,7 @@ digraph G {
     edge [color=black];
     A_E_501 -> AE_540;
     E_501 -> AE_540;
+    W -> AE_540;
     edge [color=black];
     A_E_540 -> AE_541;
     E_540 -> AE_541;

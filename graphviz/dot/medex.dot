@@ -7,6 +7,7 @@ digraph G {
     MEDEX_401 -> MEDEX_403;
     edge [color=black];
     MEDEX_403 -> MEDEX_404;
+    W -> MEDEX_404;
     edge [color=black];
     MEDEX_403 -> MEDEX_405;
     edge [color=black];

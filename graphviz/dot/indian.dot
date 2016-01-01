@@ -4,6 +4,8 @@ digraph G {
     INDN_410;
     INDN_490;
     INDN_499;
-    INDN_530;
-    INDN_590;
+    edge [color=black];
+    INDN_402 -> INDN_530;
+    edge [color=black];
+    graduate_standing_and_permission_of_instructor -> INDN_590;
 }

@@ -15,6 +15,7 @@ digraph G {
     HSTAFM_465;
     HSTAFM_552;
     HSTAFM_561;
-    HSTAFM_562;
+    edge [color=black];
+    knowledge_of_at_least_one_major_language_besides_English_French_German_Russian_or_other -> HSTAFM_562;
     HSTAFM_563;
 }

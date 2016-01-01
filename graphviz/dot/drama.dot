@@ -10,6 +10,7 @@ digraph G {
     DRAMA_251;
     edge [color=black];
     DRAMA_251 -> DRAMA_252;
+    WSp -> DRAMA_252;
     DRAMA_259;
     DRAMA_290;
     DRAMA_291;
@@ -39,6 +40,7 @@ digraph G {
     DRAMA_415;
     edge [color=black];
     DRAMA_302 -> DRAMA_416;
+    A -> DRAMA_416;
     DRAMA_417;
     DRAMA_418;
     DRAMA_419;
@@ -76,10 +78,13 @@ digraph G {
     DRAMA_512;
     DRAMA_514;
     DRAMA_518;
-    DRAMA_520;
+    edge [color=black];
+    permission_of_instructor -> DRAMA_520;
     DRAMA_523;
-    DRAMA_551;
-    DRAMA_552;
+    edge [color=black];
+    permission_of_instructor_and_being_a_teaching_assistant_in_acting -> DRAMA_551;
+    edge [color=black];
+    permission_of_instructor_and_being_a_teaching_assistant_in_acting -> DRAMA_552;
     edge [color=black];
     admission_to_the_Professional_Actor_Training_Program -> DRAMA_555;
     edge [color=black];
@@ -89,9 +94,11 @@ digraph G {
     edge [color=black];
     DRAMA_558 -> DRAMA_559;
     DRAMA_560;
-    DRAMA_561;
+    edge [color=black];
+    graduate_standing_in_the_directing_program -> DRAMA_561;
     DRAMA_562;
-    DRAMA_563;
+    edge [color=black];
+    permission_of_instructor -> DRAMA_563;
     DRAMA_564;
     DRAMA_565;
     DRAMA_566;
@@ -110,7 +117,8 @@ digraph G {
     DRAMA_585;
     DRAMA_586;
     DRAMA_587;
-    DRAMA_599;
+    edge [color=black];
+    permission_of_instructor -> DRAMA_599;
     DRAMA_600;
     DRAMA_700;
     DRAMA_800;

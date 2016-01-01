@@ -4,5 +4,6 @@ digraph G {
     ISS_350;
     edge [color=black];
     ISS_350 -> ISS_355;
+    WSpS -> ISS_355;
     ISS_401;
 }

@@ -3,6 +3,7 @@ digraph G {
     edge [color=black];
     JSIS_E_101 -> JSISE_102;
     E_101 -> JSISE_102;
+    W -> JSISE_102;
     edge [color=black];
     JSIS_E_102 -> JSISE_103;
     E_102 -> JSISE_103;
@@ -12,9 +13,11 @@ digraph G {
     edge [color=black];
     JSIS_E_103 -> JSISE_201;
     E_103 -> JSISE_201;
+    A -> JSISE_201;
     edge [color=black];
     JSIS_E_201 -> JSISE_202;
     E_201 -> JSISE_202;
+    W -> JSISE_202;
     edge [color=black];
     JSIS_E_202 -> JSISE_203;
     E_202 -> JSISE_203;
@@ -24,5 +27,6 @@ digraph G {
     JSISE_428;
     JSISE_429;
     JSISE_478;
-    JSISE_547;
+    edge [color=black];
+    JAPAN_313 -> JSISE_547;
 }

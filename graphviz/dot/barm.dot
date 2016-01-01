@@ -1,6 +1,13 @@
 digraph G {
-    BARM_580;
+    edge [color=black];
+    STAT_342 -> BARM_580;
+    STAT_395 -> BARM_580;
+    STAT_481 -> BARM_580;
     BARM_581;
-    BARM_590;
-    BARM_591;
+    edge [color=black];
+    STAT_361 -> BARM_590;
+    STAT_362 -> BARM_590;
+    edge [color=black];
+    STAT_361 -> BARM_591;
+    STAT_362 -> BARM_591;
 }

@@ -3,6 +3,7 @@ digraph G {
     edge [color=black];
     N_SCI_101 -> NSCI_102;
     SCI_101 -> NSCI_102;
+    W -> NSCI_102;
     edge [color=black];
     N_SCI_102 -> NSCI_103;
     SCI_102 -> NSCI_103;
@@ -10,9 +11,11 @@ digraph G {
     edge [color=black];
     N_SCI_101 -> NSCI_201;
     SCI_101 -> NSCI_201;
+    A -> NSCI_201;
     edge [color=black];
     N_SCI_101 -> NSCI_202;
     SCI_101 -> NSCI_202;
+    W -> NSCI_202;
     edge [color=black];
     N_SCI_202 -> NSCI_203;
     SCI_202 -> NSCI_203;
@@ -20,6 +23,7 @@ digraph G {
     edge [color=black];
     N_SCI_301 -> NSCI_302;
     SCI_301 -> NSCI_302;
+    W -> NSCI_302;
     edge [color=black];
     N_SCI_302 -> NSCI_303;
     SCI_302 -> NSCI_303;
@@ -33,6 +37,7 @@ digraph G {
     edge [color=black];
     N_SCI_101 -> NSCI_401;
     SCI_101 -> NSCI_401;
+    A -> NSCI_401;
     NSCI_402;
     edge [color=black];
     N_SCI_402 -> NSCI_403;

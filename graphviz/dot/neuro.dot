@@ -34,6 +34,10 @@ digraph G {
     NEURO_548;
     edge [color=black];
     CONJ_531 -> NEURO_550;
+    P_BIO_550 -> NEURO_550;
+    BIO_550 -> NEURO_550;
+    edge [color=red];
+    Sp_odd_years -> NEURO_550;
     NEURO_554;
     NEURO_555;
     NEURO_556;

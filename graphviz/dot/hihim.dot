@@ -10,7 +10,10 @@ digraph G {
     HIHIM_450;
     HIHIM_454;
     HIHIM_455;
-    HIHIM_456;
+    edge [color=black];
+    statistics -> HIHIM_456;
+    edge [color=red];
+    medical_terminology -> HIHIM_456;
     HIHIM_460;
     HIHIM_462;
     HIHIM_470;

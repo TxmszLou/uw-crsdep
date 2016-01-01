@@ -13,10 +13,13 @@ digraph G {
     PBAF_510;
     PBAF_511;
     PBAF_512;
-    PBAF_513;
+    edge [color=black];
+    PB_AF_516 -> PBAF_513;
+    AF_516 -> PBAF_513;
     PBAF_514;
     PBAF_515;
-    PBAF_516;
+    edge [color=black];
+    elementary_economics -> PBAF_516;
     PBAF_517;
     PBAF_518;
     PBAF_519;
@@ -26,7 +29,8 @@ digraph G {
     PBAF_524;
     PBAF_525;
     PBAF_526;
-    PBAF_527;
+    edge [color=black];
+    graduate_status_in_School_of_Public_Affairs_or_permission_of_instructor -> PBAF_527;
     PBAF_528;
     PBAF_530;
     PBAF_531;

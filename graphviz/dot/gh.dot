@@ -10,6 +10,7 @@ digraph G {
     G_H_210 -> GH_410;
     H_210 -> GH_410;
     MICROM_301 -> GH_410;
+    W -> GH_410;
     GH_419;
     GH_456;
     GH_490;

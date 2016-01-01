@@ -24,14 +24,17 @@ digraph G {
     CM_331 -> CM_410;
     edge [color=red];
     CM_332 -> CM_410;
+    A -> CM_410;
     edge [color=black];
     CM_331 -> CM_411;
+    A -> CM_411;
     edge [color=black];
     CM_421 -> CM_412;
     CM_413;
     CM_414;
     edge [color=black];
     CM_332 -> CM_415;
+    A -> CM_415;
     CM_416;
     edge [color=black];
     ARCH_322 -> CM_420;
@@ -39,8 +42,10 @@ digraph G {
     CM_410 -> CM_421;
     edge [color=red];
     CM_411 -> CM_421;
+    W -> CM_421;
     edge [color=black];
     CM_411 -> CM_422;
+    W -> CM_422;
     edge [color=black];
     CM_421 -> CM_423;
     CM_425;
@@ -54,6 +59,7 @@ digraph G {
     ARCH_322 -> CM_432;
     edge [color=red];
     CM_323 -> CM_432;
+    W -> CM_432;
     CM_433;
     CM_434;
     CM_450;

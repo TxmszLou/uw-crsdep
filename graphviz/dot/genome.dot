@@ -15,17 +15,18 @@ digraph G {
     may_not_be_repeated -> GENOME_371;
     GENOME_372;
     GENOME_373;
-    edge [color=black];
-    BIOL_354 -> GENOME_414;
+    GENOME_414;
     GENOME_453;
     edge [color=black];
     GENOME_351 -> GENOME_454;
     GENOME_371 -> GENOME_454;
     GENOME_372 -> GENOME_454;
+    A -> GENOME_454;
     GENOME_463;
     edge [color=black];
     GENOME_361 -> GENOME_465;
     GENOME_371 -> GENOME_465;
+    W -> GENOME_465;
     GENOME_466;
     GENOME_475;
     GENOME_490;
@@ -64,6 +65,7 @@ digraph G {
     edge [color=black];
     GENOME_361 -> GENOME_565;
     GENOME_371 -> GENOME_565;
+    W -> GENOME_565;
     edge [color=black];
     introductory_courses_in_evolution_and_in_statistics -> GENOME_570;
     edge [color=black];

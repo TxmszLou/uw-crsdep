@@ -22,7 +22,8 @@ digraph G {
     HUBIO_542;
     HUBIO_543;
     HUBIO_547;
-    HUBIO_548;
+    edge [color=black];
+    secondyear_medical_students -> HUBIO_548;
     HUBIO_550;
     HUBIO_551;
     HUBIO_552;
